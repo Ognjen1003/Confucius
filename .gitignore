@@ -1,0 +1,95 @@
+# Gradle
+.gradle/
+**/build/
+
+# Gradle Wrapper - keep these files tracked
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Local machine configuration
+local.properties
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Android build outputs
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Native build
+.externalNativeBuild/
+.cxx/
+
+# Kotlin
+.kotlin/
+
+# Generated files
+captures/
+generated/
+
+# Signing keys / certificates
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+keystore.properties
+
+# Logs
+*.log
+
+# Local QA outputs: keep the reproducible instructions, not emulator dumps or captures.
+/docs/qa/*
+!/docs/qa/README.md
+
+# Delivery archive duplicates the tracked store graphics, screenshots and listing.
+/store/*.zip
+
+# Python cache and local environments used by asset helpers.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Android profiling / diagnostics.
+*.hprof
+*.trace
+
+# Local release signing configuration.
+signing.properties
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Crash reports
+hs_err_pid*
+replay_pid*
