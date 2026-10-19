@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "170393571641",
+    "project_id": "androiddivinaton",
+    "storage_bucket": "androiddivinaton.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170393571641:android:9c8a691fd39093478fd8e8",
+        "android_client_info": {
+          "package_name": "arcadia.com.confucius"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWu6TjCPiAwKyhfZnIVXv7gcJe3RnGrVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170393571641:android:d3153d5cc0d4912b8fd8e8",
+        "android_client_info": {
+          "package_name": "arcadia.com.newthought"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWu6TjCPiAwKyhfZnIVXv7gcJe3RnGrVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170393571641:android:0787186c6df479cd8fd8e8",
+        "android_client_info": {
+          "package_name": "arcadia.com.patanjali"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWu6TjCPiAwKyhfZnIVXv7gcJe3RnGrVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
