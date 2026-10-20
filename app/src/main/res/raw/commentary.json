@@ -1,0 +1,2521 @@
+{
+ "version": 1,
+ "chapters": [
+  {
+   "ref": "I.1",
+   "reflection": "The book opens with three questions, each answered by itself. Learning is a pleasure when it is practised over time, friends who come from far away are a joy, and the last line turns inward: the measure of a person is how they bear being overlooked. The order runs from the self, to company, to the world's indifference.",
+   "question": "Which of the three is hardest for you today: to keep at something, to welcome someone, or to go unnoticed without resentment?"
+  },
+  {
+   "ref": "I.2",
+   "reflection": "Master Yu, one of the disciples, argues that people who are good to their parents and elder brothers rarely stir up trouble. His image is of a tree: attend to the root, and the branches follow. The household comes first in this order of things, and the larger virtue grows out of it.",
+   "question": "What in your own life works as a root, so that other things grow from it without effort?"
+  },
+  {
+   "ref": "I.3",
+   "reflection": "One sentence, and it returns more than once in the book. Smooth talk and an ingratiating face are rarely found together with real goodness. It does not say they never are; it says they seldom are, and asks us to notice the pattern.",
+   "question": "When were you last persuaded more by how something was said than by what was said?"
+  },
+  {
+   "ref": "I.4",
+   "reflection": "Master Zeng examines himself each day on three points: whether he was faithful in working for others, sincere with friends, and whether he practised what he was taught. The questions are about conduct, not feelings, and each one names a relation: the people he serves, his friends, his teacher.",
+   "question": "If you asked yourself three questions every evening, what would they be?",
+   "exercise": "Tonight, before sleep, ask Zeng's three questions of the day just past, and answer each in a single honest sentence."
+  },
+  {
+   "ref": "I.5",
+   "reflection": "Government here is a short list: attention to affairs, good faith, thrift, care for people, and calling on the people's labour only in the right season, when the fields can spare them. A thousand chariots meant a middling state. The advice is practical before it is lofty.",
+   "question": "Which item on this list would matter most in a place you know, a workplace or a town?"
+  },
+  {
+   "ref": "I.6",
+   "reflection": "A young person's duties are named in order: be good at home, respectful outside, careful and truthful, kind to all and close to the good. Only when there is strength to spare should they turn to letters. Conduct is the first lesson and books the second.",
+   "question": "Do you think conduct can be learned before reading, or only through it?"
+  },
+  {
+   "ref": "I.7",
+   "reflection": "Zixia describes someone who prefers worth to beauty, gives their full strength to their parents and their life to their lord, and keeps faith with friends. Even if people say this person never studied, Zixia insists they have. Learning is judged by what it produces.",
+   "question": "Whom do you know who never studied in the usual sense and yet has learned, in Zixia's sense?"
+  },
+  {
+   "ref": "I.8",
+   "reflection": "Four short rules: be serious, or learning will not hold; put good faith first; do not befriend those who are not your equals; when you have faults, do not be afraid to correct them. The third rule is often read as \"befriend those who can help you grow\". The last is the one the book returns to.",
+   "question": "What fault have you been slow to correct, and what makes correcting it frightening?"
+  },
+  {
+   "ref": "I.9",
+   "reflection": "Master Zeng ties public virtue to how carefully the dead are mourned and the long departed remembered in sacrifice. Care for those who can no longer repay it is, for him, what makes a people's character deep. The rites are a form of memory.",
+   "question": "How do the people around you remember those who came before them?"
+  },
+  {
+   "ref": "I.10",
+   "reflection": "Ziqin wonders whether Confucius asks for news of each government or is simply told. Zigong answers that the Master is gentle, upright, courteous, frugal and deferential, and so people tell him. His way of asking is not to ask in the usual way at all.",
+   "question": "Have you found that people tell you more when you press, or when you are the kind of person they want to tell?"
+  },
+  {
+   "ref": "I.11",
+   "reflection": "While a father lives, look at the son's intentions; after his death, look at his conduct. If for three years he keeps to his father's way, he may be called filial. The three years match the length of mourning. The chapter returns almost word for word as IV.20.",
+   "question": "What would it mean to keep someone's way for a time after they are gone, and when should the keeping end?"
+  },
+  {
+   "ref": "I.12",
+   "reflection": "Master Yu says that in ritual, harmony and ease are what matter most, and the old kings prized them in great and small things alike. Yet ease that is not held by ritual will not do either. Form without ease is stiff; ease without form drifts.",
+   "question": "Where in your day is there a form you keep that also lets you be at ease?"
+  },
+  {
+   "ref": "I.13",
+   "reflection": "When a promise is close to what is right, it can be kept. When respect is close to what is proper, it keeps shame away. When you rely on people who will not let you down, they can be relied on to the end. Each clause is about choosing well at the beginning.",
+   "question": "Is there a promise you made that you could keep only because it was right to begin with?"
+  },
+  {
+   "ref": "I.14",
+   "reflection": "Confucius describes someone who does not seek a full stomach or a comfortable house, is quick in action and careful in speech, and goes to those who have the Way to be set straight. Such a person, he says, loves learning. Learning is again a matter of a whole life, not of books alone.",
+   "question": "Who would you go to, today, to be set straight?"
+  },
+  {
+   "ref": "I.15",
+   "reflection": "Zigong is pleased with being poor without flattery and rich without pride. Confucius answers that it is better still to be poor and joyful, rich and fond of ritual. Zigong recognises a line from the Odes about cutting and polishing jade: good is not the end, it can be worked further. The Master is delighted that he made the leap himself.",
+   "question": "What in you is good enough already, and could still be polished?"
+  },
+  {
+   "ref": "I.16",
+   "reflection": "The first book ends where it began, with being unknown. Confucius is not troubled that others do not know him; he is troubled that he does not know them. The worry is turned around and given a task.",
+   "question": "Whom have you failed to understand, while worrying that you were not understood?"
+  },
+  {
+   "ref": "II.1",
+   "reflection": "A ruler who governs by virtue is like the pole star: it stays in its place and the other stars turn around it. The image is of influence without force. The ruler does not chase anything; others orient themselves by him.",
+   "question": "Is there someone whose steadiness, more than anything they said, set the direction for people around them?"
+  },
+  {
+   "ref": "II.2",
+   "reflection": "Confucius sums up the three hundred poems of the Book of Odes in one phrase from one of them: no depraved thoughts, or thoughts that do not swerve. Whatever the poems are about, love, war, complaint, they are honest. The summary is about the spirit of the collection, not its subject matter.",
+   "question": "What book, song or poem would you sum up in a single line, and which line?"
+  },
+  {
+   "ref": "II.3",
+   "reflection": "Lead people by laws and keep them in line with punishments, and they will try to escape the punishment and feel no shame. Lead them by virtue and ritual, and they will have a sense of shame and set themselves right. The chapter is the book's clearest statement of how it thinks order is made.",
+   "question": "In your own experience, has a rule or the example of a person done more to change how you behave?"
+  },
+  {
+   "ref": "II.4",
+   "reflection": "The Master's life in six stages: at fifteen set on learning, at thirty standing firm, at forty without doubts, at fifty knowing the decrees of Heaven, at sixty with an ear attuned, at seventy following his heart without overstepping. It is the only autobiography the book gives him, and it describes a long ripening rather than a single conversion.",
+   "question": "If you had to name the stage you are in now, what would you call it?",
+   "exercise": "Write one line for each decade of your life so far, saying what you were set on then."
+  },
+  {
+   "ref": "II.5",
+   "reflection": "Meng Yi asks about filial piety and is told \"not disobeying\". Later, in the carriage, Confucius explains to Fan Chi what he meant: serve parents by ritual while they live, bury them by ritual, sacrifice to them by ritual. Meng Yi belonged to one of the great families that used rites above their station, so \"not disobeying\" may have meant not disobeying ritual itself.",
+   "question": "Have you ever given a short answer that only made sense once you explained it to someone else?"
+  },
+  {
+   "ref": "II.6",
+   "reflection": "Asked about filial piety by Meng Wu, Confucius answers with a sentence about parents: they worry that their children will fall ill. The line can be read two ways: give them nothing else to worry about, or know that this worry is how they love you. The chapter leaves both open.",
+   "question": "Which reading of this chapter seems truer to you, and why?"
+  },
+  {
+   "ref": "II.7",
+   "reflection": "To Ziyou, Confucius says that filial piety nowadays means supporting one's parents, but even dogs and horses are fed. Without reverence, what makes the difference? The point is not the provision but the attitude in which it is given.",
+   "question": "What is the difference, for you, between looking after someone and respecting them?"
+  },
+  {
+   "ref": "II.8",
+   "reflection": "To Zixia, the answer is that the hard part is one's countenance. Doing the work for elders and serving them food and wine first is not yet the thing itself. The expression with which it is done tells more than the doing.",
+   "question": "Does your face, when you help someone, say the same as your hands?"
+  },
+  {
+   "ref": "II.9",
+   "reflection": "Yan Hui listens all day without objecting, and Confucius wonders whether he is slow. Then he watches how Hui lives on his own and finds that he carries out everything he heard. Silence in a student, the chapter suggests, is not always absence of thought.",
+   "question": "Whom have you misjudged as dull because they did not argue?"
+  },
+  {
+   "ref": "II.10",
+   "reflection": "Three ways to know a person: look at what they do, observe how they do it and why, and see where they find their rest. Then, twice, how can a person hide? The repetition sounds like a teacher who has watched people for many years.",
+   "question": "Where do you find your rest, and what would it tell an observer about you?"
+  },
+  {
+   "ref": "II.11",
+   "reflection": "Keep warming up what you already know and come to know what is new, and you can be a teacher. The verb in the Chinese suggests reheating. Old knowledge is not a store to be kept but something to be brought back to warmth again and again.",
+   "question": "What old piece of knowledge have you not revisited in years?"
+  },
+  {
+   "ref": "II.12",
+   "reflection": "The junzi, Legge's \"accomplished scholar\" here, is not a vessel, not a tool made for a single use. A person of worth is not defined by one function. This six-word chapter is often quoted against narrow specialisation, though its first sense is about character, not careers.",
+   "question": "Is there a part of you that has been made into a single-purpose tool?"
+  },
+  {
+   "ref": "II.13",
+   "reflection": "Zigong, who was a gifted talker, asks about the junzi. He is told: such a person acts first and then speaks in accordance with the action. The answer is fitted to the asker.",
+   "question": "What have you said you would do that you have not yet done?"
+  },
+  {
+   "ref": "II.14",
+   "reflection": "The junzi is broad in sympathy and does not form cliques; the small man forms cliques and is not broad. Legge's \"catholic\" means universal, the nineteenth-century sense of the word. The contrast between the junzi and the small man runs through the whole book.",
+   "question": "Where do you find yourself taking a side before you have considered the matter?"
+  },
+  {
+   "ref": "II.15",
+   "reflection": "Learning without thought is lost labour; thinking without learning is dangerous. Each needs the other. The chapter refuses both the student who memorises and the thinker who never reads.",
+   "question": "Which of the two do you lean toward, learning or thinking?"
+  },
+  {
+   "ref": "II.16",
+   "reflection": "Legge reads this as a warning against studying heterodox doctrines. Other translators read the same words as \"attacking the other end\" or \"working on the wrong end\", which would make it a warning about method rather than about rival schools. The short chapter has been argued over for two thousand years.",
+   "question": "How do you decide which ideas are worth your attention, and which only distract?"
+  },
+  {
+   "ref": "II.17",
+   "reflection": "To Zilu, the confident one, Confucius explains: when you know something, hold that you know it; when you do not, admit that you do not. That is knowledge. It is the most quoted definition in the book, and it is also a gentle correction of the person it was addressed to.",
+   "question": "What do you claim to know that you would have to admit you do not?",
+   "exercise": "Once today, when asked something you are unsure of, say plainly that you do not know."
+  },
+  {
+   "ref": "II.18",
+   "reflection": "Zizhang is studying with an eye on an official salary. Confucius does not scold him; he tells him how: hear much, leave aside what is doubtful, speak carefully of the rest; see much, leave aside what is risky, act carefully on the rest. With few mistakes in speech and few regrets in conduct, a salary follows.",
+   "question": "What would you set aside as doubtful before you speak today?"
+  },
+  {
+   "ref": "II.19",
+   "reflection": "Duke Ai of Lu asks how to win the people's obedience. Raise the upright and set them over the crooked, and the people will follow; do the reverse, and they will not. The answer is about whom a ruler promotes, which the people can see.",
+   "question": "In a group you belong to, who gets raised, and what does that teach everyone else?"
+  },
+  {
+   "ref": "II.20",
+   "reflection": "Ji Kangzi, the most powerful man in Lu, asks how to make the people respectful, loyal and eager. Each answer turns the question back to him: be dignified and they will respect you; be filial and kind and they will be loyal; promote the good and teach the unable and they will be eager. The ruler is asked to change himself.",
+   "question": "What do you ask of others that you have not first asked of yourself?"
+  },
+  {
+   "ref": "II.21",
+   "reflection": "Someone asks why Confucius does not take part in government. He quotes the Book of Documents on being filial and brotherly, and says that this too is government. Ordering a household is part of ordering the world. The answer also explains, without complaint, why he is out of office.",
+   "question": "What counts as public work that is usually not counted?"
+  },
+  {
+   "ref": "II.22",
+   "reflection": "A person without good faith is like a cart without the pin that joins the yoke to the shaft: it cannot move. The image is a small, essential piece of wood. Trust is not decoration; without it nothing goes anywhere.",
+   "question": "What small promise, broken, would stop something larger from moving?"
+  },
+  {
+   "ref": "II.23",
+   "reflection": "Zizhang asks whether the future can be known. Confucius answers from history: the Yin took over the rites of the Xia, the Zhou those of the Yin, and what each added and removed can be known. So even a hundred generations on can be known. He reads the future as continuity in ritual, not as prediction.",
+   "question": "What in your own life has been carried forward from your parents' time, and what has been changed?"
+  },
+  {
+   "ref": "II.24",
+   "reflection": "Two sentences put side by side. Sacrificing to spirits that are not one's own is flattery. Seeing what is right and not doing it is a lack of courage. One is doing what one should not, the other not doing what one should.",
+   "question": "What have you seen to be right recently and not done?"
+  },
+  {
+   "ref": "III.1",
+   "reflection": "The head of the Ji family had eight rows of dancers perform in his courtyard, a display reserved for the Son of Heaven. Confucius says: if he can bear to do this, what can he not bear to do? Book III opens with ritual as a matter of station, and with a family that has taken more than its place.",
+   "question": "What small overreach, in someone you know or in yourself, told you something larger?"
+  },
+  {
+   "ref": "III.2",
+   "reflection": "The three great families of Lu closed their sacrifices with a hymn written for the royal house, which speaks of princes assisting and the Son of Heaven solemn. Confucius asks what those words can mean in their halls. A text sung in the wrong place becomes a kind of lie.",
+   "question": "Have you used words, at some occasion, that did not belong to it?"
+  },
+  {
+   "ref": "III.3",
+   "reflection": "If a person is not humane, what is ritual to them? If a person is not humane, what is music to them? Legge renders ren here as \"the virtues proper to humanity\". Form depends on the heart that fills it.",
+   "question": "Which of your habits of courtesy are still filled with feeling, and which have gone empty?"
+  },
+  {
+   "ref": "III.4",
+   "reflection": "Lin Fang asks what is fundamental in ceremonies. A great question, says the Master: in festivity, better frugal than lavish; in mourning, better deep grief than perfect detail. When in doubt, choose the inner over the outward.",
+   "question": "At the last ceremony you attended, a wedding or a funeral, what mattered most?"
+  },
+  {
+   "ref": "III.5",
+   "reflection": "Legge reads this as: the tribes of the east and north have their rulers, unlike the Chinese states, which are without them, a lament for the disorder of Confucius's own land. Other readers take it the opposite way, that the tribes even with rulers are not equal to the states without them. Both readings say something about how Zhou China saw its neighbours.",
+   "question": "When you compare your own place with another, which way does the comparison usually run?"
+  },
+  {
+   "ref": "III.6",
+   "reflection": "The Ji family head prepares to sacrifice to Mount Tai, a rite for the ruler of the state alone. Confucius asks Ran You, who served the family, whether he can stop it, and Ran You says he cannot. Will the mountain, Confucius asks, be less discerning than Lin Fang, who asked about the root of ritual?",
+   "question": "When have you served someone and been unable to stop them doing wrong?"
+  },
+  {
+   "ref": "III.7",
+   "reflection": "The junzi does not compete, except perhaps in archery, and even there he bows to his opponent before and after, and drinks the forfeit with him. Legge keeps the Chinese word here: \"Chun-tsze\". The point is that rivalry can be held inside a form that respects the other side.",
+   "question": "Where do you compete, and what form keeps the competition decent?"
+  },
+  {
+   "ref": "III.8",
+   "reflection": "Zixia asks about a line of an ode on a lovely smile and bright eyes on a plain ground. Confucius explains that colour is laid on after the white. Zixia leaps: so ritual comes after? The Master is pleased: now he can discuss the Odes with Shang, Zixia's personal name. Ritual is the colour; something plainer must come first.",
+   "question": "What is the plain ground under your own good manners?"
+  },
+  {
+   "ref": "III.9",
+   "reflection": "Confucius could describe the rites of the Xia and the Yin, he says, but the states descended from them, Qi and Song, do not keep enough documents or learned men to confirm him. If they did, he could prove what he says. He knows the difference between what he thinks and what he can show.",
+   "question": "What do you believe that you could not prove?"
+  },
+  {
+   "ref": "III.10",
+   "reflection": "At the great sacrifice, once the libation has been poured, Confucius has no wish to watch any more. He does not say why. Most commentators think the rest of the rite was performed carelessly, or by a family with no right to it.",
+   "question": "When have you stayed to watch something you no longer believed in?"
+  },
+  {
+   "ref": "III.11",
+   "reflection": "Asked to explain the great sacrifice, Confucius says he does not know; whoever did would find governing the world as easy as looking at this, and he points to his palm. It is a refusal and a claim at once: the meaning of ritual, truly grasped, would be enough to order everything.",
+   "question": "Is there a question you answer with \"I do not know\" because the true answer is too large?"
+  },
+  {
+   "ref": "III.12",
+   "reflection": "He sacrificed to the dead as if they were present, and to the spirits as if they were present. If he could not take part himself, it was as though he had not sacrificed. The chapter describes an attitude rather than a belief: being fully there.",
+   "question": "What do you do half-present that would change if you were there entirely?",
+   "exercise": "Choose one ordinary task today and do it as if the person it is for were in the room."
+  },
+  {
+   "ref": "III.13",
+   "reflection": "Wangsun Jia, a powerful minister of Wei, quotes a proverb: better to court the god of the stove than the god of the south-west corner. It is a hint that Confucius should court the minister rather than the ruler. Confucius answers that whoever offends Heaven has no one left to pray to.",
+   "question": "When were you advised to flatter the useful person rather than the right one?"
+  },
+  {
+   "ref": "III.14",
+   "reflection": "The Zhou dynasty could look back on the two before it, and its culture is rich and elegant for that reason. Confucius follows Zhou. He chooses a tradition that had itself learned from earlier ones.",
+   "question": "Which tradition do you follow, and what did it inherit before you received it?"
+  },
+  {
+   "ref": "III.15",
+   "reflection": "In the Grand Temple, Confucius asks about every detail, and someone sneers that the son of the man from Zou cannot know ritual. Hearing this, Confucius says: this is ritual. Asking, in a place where one is a guest, is itself correct conduct.",
+   "question": "Where do you avoid asking for fear of looking ignorant?"
+  },
+  {
+   "ref": "III.16",
+   "reflection": "In ceremonial archery, piercing the target's leather is not the point, because people's strength differs. That was the old way. The contest measured form and accuracy, not force.",
+   "question": "What do you measure yourself by that is really only a measure of strength?"
+  },
+  {
+   "ref": "III.17",
+   "reflection": "The sacrifice that announced the new moon had lapsed, but a sheep was still offered, and Zigong wanted to drop it. Confucius: you love the sheep, I love the ritual. As long as the sheep is offered, something of the rite survives to be restored.",
+   "question": "What small remnant of a lapsed practice are you tempted to drop?"
+  },
+  {
+   "ref": "III.18",
+   "reflection": "Serving one's ruler with full ritual is taken by others as flattery. In a court where the families ignored the forms, simply keeping them looked like fawning. Doing the correct thing can look like the wrong one from outside.",
+   "question": "Have you been misread for doing something properly?"
+  },
+  {
+   "ref": "III.19",
+   "reflection": "Duke Ding asks how a ruler should employ ministers and how ministers should serve. A ruler employs ministers by ritual; ministers serve the ruler with faithfulness, zhong. The relation runs both ways, and each side owes the other something.",
+   "question": "In a relation where one person holds more power, what does the stronger one owe?"
+  },
+  {
+   "ref": "III.20",
+   "reflection": "The first poem of the Odes, the Guanju, has joy without wantonness and sorrow without injury. Confucius praises it for measure in feeling, not for the absence of feeling.",
+   "question": "When did a strong feeling of yours stay within measure?"
+  },
+  {
+   "ref": "III.21",
+   "reflection": "Asked about the trees planted at the altars of the land, Zai Wo adds that the Zhou chose the chestnut to make the people tremble, a pun in Chinese. Confucius, hearing it, says: what is done need not be discussed, what is finished need not be argued, what is past need not be blamed. It reads as a rebuke that refuses to dwell.",
+   "question": "What past mistake, yours or another's, would be better left without further blame?"
+  },
+  {
+   "ref": "III.22",
+   "reflection": "Confucius calls Guan Zhong, the famous minister of Qi, small in capacity. Was he frugal? No, he had three residences and staff who did one job each. Did he know ritual? He set up a gate screen and a cup stand as only rulers did. If he knew ritual, who does not? In XIV the same man is praised for what he achieved.",
+   "question": "Can you think of someone who did great good and was small in their habits?"
+  },
+  {
+   "ref": "III.23",
+   "reflection": "Speaking to the music master of Lu, Confucius describes a piece: it begins with all parts together, then each is distinct yet in harmony, clear and flowing, until it ends. The description is a quiet model of how a group can work as well.",
+   "question": "Where have you seen many people stay distinct and still move together?"
+  },
+  {
+   "ref": "III.24",
+   "reflection": "A border warden asks to meet Confucius and comes out consoling the disciples: why grieve over his loss of office? The world has long lacked the Way, and Heaven will use your master as a wooden-tongued bell, the kind officials rang to call the people to hear a proclamation. An outsider sees a vocation in the failure.",
+   "question": "Has a setback of yours ever turned out to be a calling?"
+  },
+  {
+   "ref": "III.25",
+   "reflection": "The Shao, the music of the sage king Shun, was perfectly beautiful and perfectly good. The Wu, music of King Wu who took the throne by conquest, was perfectly beautiful but not perfectly good. Beauty and goodness are judged separately, and a work can have one without the other.",
+   "question": "What have you admired as beautiful that you could not call good?"
+  },
+  {
+   "ref": "III.26",
+   "reflection": "Holding high office without generosity, performing ritual without reverence, mourning without grief: how could Confucius look on such things? The book of ritual ends by naming three forms emptied of their content.",
+   "question": "Which of these three have you seen, and which have you done?"
+  },
+  {
+   "ref": "IV.1",
+   "reflection": "It is humaneness that makes a neighbourhood beautiful. Someone who chooses a place to live without regard to it can hardly be called wise. Book IV, the book of ren, opens with the company one keeps as a place.",
+   "question": "What makes the place you live good or poor, apart from its buildings?"
+  },
+  {
+   "ref": "IV.2",
+   "reflection": "Without ren a person cannot bear hardship long, nor enjoy good times long either. The humane rest in it; the wise find it profitable. Two kinds of goodness are distinguished: one that is at home in itself and one that sees its advantage.",
+   "question": "Is your goodness more often at rest, or more often calculating its benefit?"
+  },
+  {
+   "ref": "IV.3",
+   "reflection": "Only the humane person can truly love others and truly dislike them. The claim is not that the good love everyone; it is that their likes and dislikes are not bent by self-interest, so they can be trusted.",
+   "question": "Whose approval would you trust because you know it is not bent by their interest?"
+  },
+  {
+   "ref": "IV.4",
+   "reflection": "If the will is truly set on humaneness, there will be no wickedness. The chapter places the decisive moment in the direction of the will, before any action.",
+   "question": "What is your will set on, today, before anything else?"
+  },
+  {
+   "ref": "IV.5",
+   "reflection": "Wealth and rank are what everyone wants, but not if they come the wrong way; poverty and low station are what everyone dislikes, but not to be escaped the wrong way. The junzi does not leave ren even for the length of a meal, in haste or in danger. Goodness is not a mood but a place one does not leave.",
+   "question": "In what kind of haste do you most easily leave your own standards?"
+  },
+  {
+   "ref": "IV.6",
+   "reflection": "Confucius says he has never seen anyone who truly loved ren or truly hated what is not ren. Yet who has ever applied their strength to it for one day and found the strength lacking? He has not seen it. The demand is high and the door is open at the same time.",
+   "question": "What would one whole day of trying look like for you?",
+   "exercise": "Pick one hour today and give it fully to treating others well, then notice whether your strength ran out."
+  },
+  {
+   "ref": "IV.7",
+   "reflection": "A person's faults are of a piece with the kind of person they are. Look at the faults and you will know the goodness. A generous person errs by giving too much, a careful one by holding back; the fault shows the character it comes from.",
+   "question": "What does your most frequent fault say about what you value?"
+  },
+  {
+   "ref": "IV.8",
+   "reflection": "To hear the Way in the morning and die in the evening would be enough. It is the most quoted line of the book about how much the Way is worth. It does not say what the Way is; it says what it would be worth to know it.",
+   "question": "What would you be content to have understood, if you understood nothing else?"
+  },
+  {
+   "ref": "IV.9",
+   "reflection": "A scholar who is set on the Way but ashamed of shabby clothes and plain food is not worth talking with. The chapter catches a contradiction: someone who claims a higher aim and is still measuring themselves by appearance.",
+   "question": "Where are you still measuring yourself by appearance, while saying you care about something else?"
+  },
+  {
+   "ref": "IV.10",
+   "reflection": "In the world the junzi has nothing he must do and nothing he must refuse; he goes with what is right, yi. The chapter rejects both rigid rules and drifting. The measure is not a list of positions but rightness in the case.",
+   "question": "What position do you hold out of habit rather than because it is right here?"
+  },
+  {
+   "ref": "IV.11",
+   "reflection": "The junzi thinks of virtue, the small man of land and comfort; the junzi thinks of the law, the small man of favours. What a person thinks about, the chapter says, shows which of the two they are.",
+   "question": "What did you think about most today?"
+  },
+  {
+   "ref": "IV.12",
+   "reflection": "One who acts always with an eye to profit will be much resented. Twelve words in Legge, and the observation is social more than moral: people notice, and they keep count.",
+   "question": "When did you resent someone for always looking to their own advantage, and did they know?"
+  },
+  {
+   "ref": "IV.13",
+   "reflection": "If a state can be governed by ritual and deference, what difficulty is there? If not, what use is ritual? Legge's \"complaisance\" is the Chinese rang, yielding, giving way to others. Ritual that does not include yielding is not really ritual.",
+   "question": "Where would a little giving way make something easier?"
+  },
+  {
+   "ref": "IV.14",
+   "reflection": "Do not worry about having no position; worry about being fit for one. Do not worry about being unknown; seek to be worth knowing. The book turns the same worry around for the second time.",
+   "question": "If no one noticed your work for a year, would you still do it the same way?"
+  },
+  {
+   "ref": "IV.15",
+   "reflection": "Confucius tells Zeng Shen that his Way has one thread running through it, and leaves. The other disciples ask what he meant, and Zeng says: zhong and shu, doing one's utmost and measuring others by oneself, nothing more. Legge renders the pair as \"true to the principles of our nature and the benevolent exercise of them to others\". Whether Zeng's summary is the Master's is something the chapter leaves to the reader.",
+   "question": "If your own life has one thread, what would you name it?"
+  },
+  {
+   "ref": "IV.16",
+   "reflection": "The junzi understands what is right; the small man understands what pays. The line is about what each person is fluent in, what their mind turns to without effort.",
+   "question": "Which language are you more fluent in, what is right or what pays?"
+  },
+  {
+   "ref": "IV.17",
+   "reflection": "When you see someone worthy, think of becoming their equal; when you see someone unworthy, look inward and examine yourself. Both encounters are turned into work on oneself. Neither ends in envy or contempt.",
+   "question": "Whom did you meet recently who could serve as either kind of mirror?",
+   "exercise": "The next time someone irritates you today, ask whether you share the fault, before you judge it."
+  },
+  {
+   "ref": "IV.18",
+   "reflection": "In serving parents, a child may object, but gently. If they will not listen, the child keeps respectful and does not give up, and does not complain even when it is hard. This is a description of conduct in the society of the time, where the child's place was below the parent's; the chapter asks for persistence and respect together, not for silence.",
+   "question": "How do you disagree with someone you also respect?"
+  },
+  {
+   "ref": "IV.19",
+   "reflection": "While parents are alive, a son does not travel far, and if he does travel, he must have a fixed destination. In a world without letters that arrived quickly, a parent's worry needed somewhere to rest. It is advice from a time of slow roads.",
+   "question": "Who would worry if they did not know where you were, and do they know?"
+  },
+  {
+   "ref": "IV.20",
+   "reflection": "The second half of I.11 returns almost word for word: if for three years a son does not change his father's way, he may be called filial. The repetition is one sign that the book was gathered from several sources rather than composed in one sitting.",
+   "question": "What do you think the compilers meant by keeping a repeated saying twice?"
+  },
+  {
+   "ref": "IV.21",
+   "reflection": "One must know the ages of one's parents, with joy that they have reached them and with fear that they are growing old. Two feelings for one fact. The chapter asks for attention more than for any action.",
+   "question": "How old are the people you love most, and what do you feel when you count the years?"
+  },
+  {
+   "ref": "IV.22",
+   "reflection": "The ancients were slow to speak because they were ashamed when their actions did not keep up with their words. Shame here is not humiliation but a sense of proportion between saying and doing.",
+   "question": "What have you announced that your actions have not yet caught up with?"
+  },
+  {
+   "ref": "IV.23",
+   "reflection": "Those who hold themselves in check seldom go wrong. Legge's \"the cautious seldom err\" is the shortest saying in the book. It praises restraint, not timidity.",
+   "question": "Where would a moment's restraint have spared you trouble this week?"
+  },
+  {
+   "ref": "IV.24",
+   "reflection": "The junzi wishes to be hesitant in speech and quick in action. The same thought appears in II.13 and IV.22, in different words. It is one of the book's steadiest themes.",
+   "question": "Would the people who know you describe you as slow to speak or quick to speak?"
+  },
+  {
+   "ref": "IV.25",
+   "reflection": "Virtue, de, is never alone; it will have neighbours. Goodness attracts its own company, sooner or later. The chapter is a comfort for anyone who feels isolated in trying.",
+   "question": "Who has been a neighbour to your better self?"
+  },
+  {
+   "ref": "IV.26",
+   "reflection": "Ziyou observes that frequent remonstrance with a ruler leads to disgrace, and frequent reproof of a friend leads to distance. Even right correction has a measure. The book of ren ends with a limit on being right.",
+   "question": "Whom have you corrected too often?"
+  },
+  {
+   "ref": "V.1",
+   "reflection": "Confucius gives his daughter in marriage to Gongye Chang, who had been in prison though not guilty, and his niece to Nan Rong, a man who would keep office in good times and avoid punishment in bad. The book records these as judgements of character. The chapter belongs to a world where a father or uncle arranged a marriage, and it reads as such.",
+   "question": "What would you want to know about a person before trusting them with someone you love?"
+  },
+  {
+   "ref": "V.2",
+   "reflection": "Confucius praises Zijian as a junzi, and then asks: if Lu had no junzi, where could he have acquired this? Character is learned from those around us. The praise of one person is also praise of a place.",
+   "question": "From whom, around you, did you take the qualities you are proudest of?"
+  },
+  {
+   "ref": "V.3",
+   "reflection": "Zigong asks what the Master thinks of him. \"You are a vessel.\" Which kind? \"A sacrificial vessel of jade.\" After II.12, that the junzi is not a vessel, the answer is both praise and limit: precious and fine, and still made for a purpose.",
+   "question": "If someone you respect described you as a vessel, which kind would they name?"
+  },
+  {
+   "ref": "V.4",
+   "reflection": "Someone remarks that Ran Yong is good but not eloquent. What use is a ready tongue, Confucius answers; quick retorts mostly earn dislike. Whether Yong is fully ren he does not know, but eloquence is beside the point.",
+   "question": "Do you value quick speech in others more than it deserves?"
+  },
+  {
+   "ref": "V.5",
+   "reflection": "Confucius urges Qidiao Kai to take office, and Kai replies that he does not yet trust himself in it. The Master is pleased. Knowing that one is not ready is itself a kind of readiness.",
+   "question": "What are you not yet ready for, and how do you know?"
+  },
+  {
+   "ref": "V.6",
+   "reflection": "My Way does not go forward, Confucius says; I will take a raft and float out to sea, and Zilu would come with me. Zilu is delighted. The Master adds that Zilu loves daring more than he does. Legge reads the last words as a lack of judgement; others read them as \"there is nowhere to get the timber\". Either way, a moment of discouragement turns into gentle teasing.",
+   "question": "Who would follow you onto the raft, and would you want them to?"
+  },
+  {
+   "ref": "V.7",
+   "reflection": "Meng Wu asks whether Zilu, Ran Qiu and Gongxi Chi are humane. Confucius describes each one's ability exactly, an army, a town, a court reception, and each time says he does not know if they are ren. Talent is easy to name; goodness he will not grant on demand.",
+   "question": "Could you describe what someone is good at without being able to say whether they are good?"
+  },
+  {
+   "ref": "V.8",
+   "reflection": "Confucius asks Zigong whether he or Hui is better. How could I compare, says Zigong: Hui hears one thing and knows ten, I hear one and know two. The Master agrees, and in the Chinese adds that neither of them, he included, is equal to Hui. Legge reads it as \"I grant you\"; many others read \"you and I are not equal to him\".",
+   "question": "Whom do you admire without envy, and what makes that possible?"
+  },
+  {
+   "ref": "V.9",
+   "reflection": "Zai Yu sleeps during the day, and Confucius says rotten wood cannot be carved, nor a dung wall plastered. Then a second remark: he used to hear people's words and trust their conduct; now he hears their words and watches their conduct. Zai Yu taught him this. The harshest rebuke in the book ends in a lesson the teacher learned.",
+   "question": "Whose actions taught you to stop relying on their words?"
+  },
+  {
+   "ref": "V.10",
+   "reflection": "Confucius has never seen a truly steadfast person. Someone names Shen Cheng. But Cheng has desires, the Master answers; how could he be unbending? Firmness, in this sense, is freedom from being pulled by wants.",
+   "question": "What wants most easily bend your resolve?"
+  },
+  {
+   "ref": "V.11",
+   "reflection": "Zigong says that what he does not want others to do to him, he does not want to do to them. Confucius: Ci, this is not yet within your reach. The rule is stated perfectly and the Master answers that stating it is not the same as living it. The thought returns in XII.2 and XV.23.",
+   "question": "Which principle do you state easily that you have not yet reached?"
+  },
+  {
+   "ref": "V.12",
+   "reflection": "Zigong says the Master's culture and conduct could be learned from him, but his words on human nature and the Way of Heaven could not be heard. Either he rarely spoke of them, or they could not be grasped by hearing. The chapter marks the edge of what the disciples received.",
+   "question": "What did a teacher of yours teach by example that they never put into words?"
+  },
+  {
+   "ref": "V.13",
+   "reflection": "When Zilu heard something he had not yet been able to put into practice, he was only afraid of hearing something else. The impatient disciple has here a virtue: he does not let learning outrun doing.",
+   "question": "What have you learned recently that you have not yet put into practice?"
+  },
+  {
+   "ref": "V.14",
+   "reflection": "Why was Kong Wenzi given the posthumous name Wen, \"cultured\"? Because he was quick and loved learning, and was not ashamed to ask those beneath him. The title honours a habit, not an achievement.",
+   "question": "Whom below you in some ranking could you learn from, if you asked?"
+  },
+  {
+   "ref": "V.15",
+   "reflection": "Zichan, the great minister of Zheng, had four marks of the junzi: humble in his own conduct, respectful to superiors, kind in caring for the people, just in employing them. The list looks in four directions, self, above, below, and the tasks given to others.",
+   "question": "In which of the four directions are you weakest?"
+  },
+  {
+   "ref": "V.16",
+   "reflection": "Yan Ping knew how to keep friendships: however long he knew someone, he showed them the same respect as at first. Familiarity did not wear the courtesy down.",
+   "question": "With whom has long acquaintance worn away your first respect?"
+  },
+  {
+   "ref": "V.17",
+   "reflection": "Zang Wenzhong kept a great divining tortoise in a house decorated with carved hills and painted water plants, ornaments fit for a ruler's temple. How can that be called wisdom? He was famed as wise, and Confucius notes where he was not.",
+   "question": "What lavish habit undermines a reputation you otherwise deserve?"
+  },
+  {
+   "ref": "V.18",
+   "reflection": "Zizhang asks about two officials: one who took and left office without joy or resentment and briefed his successor; one who abandoned his wealth rather than serve a regicide. Confucius calls the first loyal and the second pure, and of each says he does not know how they could be called ren. Fine single virtues do not add up to the whole.",
+   "question": "Is there a single virtue you have that you mistake for the whole of goodness?"
+  },
+  {
+   "ref": "V.19",
+   "reflection": "Ji Wenzi thought three times before acting. Confucius, hearing it, says twice will do. Reflection has a measure too: past a point it becomes hesitation.",
+   "question": "What decision are you thinking over a third time?"
+  },
+  {
+   "ref": "V.20",
+   "reflection": "When his state had the Way, Ning Wuzi was wise; when it lost the Way, he played the fool. His wisdom can be equalled, his foolishness cannot. In a dangerous court, appearing harmless can be the harder art.",
+   "question": "When is it wiser to seem less clever than you are?"
+  },
+  {
+   "ref": "V.21",
+   "reflection": "Travelling in Chen, Confucius exclaims: let me return! The young men of my school are ambitious and hasty, they have finished patterns but do not know how to cut them. He longs to shape them. A teacher abroad thinks of his students.",
+   "question": "What work at home do you miss when you are away from it?"
+  },
+  {
+   "ref": "V.22",
+   "reflection": "Bo Yi and Shu Qi, the two brothers who starved rather than serve a conqueror, did not keep old wrongs in mind, and so there was little resentment. Holding grudges keeps resentment alive on both sides.",
+   "question": "What old wrong are you still keeping?"
+  },
+  {
+   "ref": "V.23",
+   "reflection": "Who says Weisheng Gao is upright? Someone asked him for vinegar, and rather than say he had none, he begged some from a neighbour and handed it over as his own. A small vanity becomes a small dishonesty.",
+   "question": "When have you pretended to have something you had to borrow?"
+  },
+  {
+   "ref": "V.24",
+   "reflection": "Fine words, an ingratiating face, excessive deference: Zuo Qiuming was ashamed of them, and so is Confucius. Hiding resentment and befriending the person: the same. Shame here is a compass, pointing at insincerity.",
+   "question": "Is there someone you treat as a friend while hiding resentment?"
+  },
+  {
+   "ref": "V.25",
+   "reflection": "Confucius asks Yan Hui and Zilu for their wishes. Zilu would share his carriages and furs with friends without minding the wear. Hui would not boast of his goodness or display his merits. Asked in turn, the Master wishes rest for the old, good faith with friends, and tender care for the young.",
+   "question": "If asked for your wishes in one sentence, what would you say?"
+  },
+  {
+   "ref": "V.26",
+   "reflection": "It is hopeless, Confucius says; he has never seen anyone who could see his own faults and accuse himself inwardly. The chapter is a sigh. It also names the practice it says is missing.",
+   "question": "When did you last see a fault of your own clearly, without excuse?"
+  },
+  {
+   "ref": "V.27",
+   "reflection": "In a hamlet of ten households there must be someone as loyal and trustworthy as I am, Confucius says, but not one who loves learning as I do. He claims little for his virtue and much for his appetite to learn.",
+   "question": "What do you love learning about, more than most people around you?"
+  },
+  {
+   "ref": "VI.1",
+   "reflection": "Confucius says Ran Yong could sit facing south, the position of a ruler. Yong then asks about Zisang Bozi, whom the Master calls easy-going. Yong distinguishes: being easy in small matters while serious within is acceptable; being easy within and easy in practice is too much. The Master agrees with him.",
+   "question": "Where in your work is ease a strength, and where is it carelessness?"
+  },
+  {
+   "ref": "VI.2",
+   "reflection": "Duke Ai asks which disciple loved learning. Yan Hui did: he did not shift his anger onto others, and he did not make the same mistake twice. He died young, and there is no one like him now. Love of learning is described entirely as conduct.",
+   "question": "When did you last take out on someone an anger that was about something else?"
+  },
+  {
+   "ref": "VI.3",
+   "reflection": "Ran Qiu asks grain for the mother of Gongxi Chi, who has gone on a mission, and gives far more than the Master named; Chi travels with fat horses and fine furs. The junzi helps those in need, not those already well off. Then Yuan Si, made steward, refuses his salary, and Confucius tells him to accept it and give it to his neighbours.",
+   "question": "Do you give more easily where it is seen, or where it is needed?"
+  },
+  {
+   "ref": "VI.4",
+   "reflection": "Speaking of Ran Yong, whose father was of low standing, Confucius says: if the calf of a plough ox is red and well horned, even if people would not use it, would the spirits of the hills and rivers refuse it? Worth is not inherited and not cancelled by birth.",
+   "question": "Where have you judged someone by where they came from?"
+  },
+  {
+   "ref": "VI.5",
+   "reflection": "Hui's heart did not depart from ren for three months together; the others reach it for a day or a month, and no more. The chapter treats goodness as something sustained over time, measured in months and days.",
+   "question": "How long can you keep a good intention before it lapses?"
+  },
+  {
+   "ref": "VI.6",
+   "reflection": "Ji Kangzi asks whether Zilu, Zigong and Ran Qiu could hold office. Zilu is decisive, Zigong perceptive, Ran Qiu versatile: what difficulty would they have? Office, unlike ren, the Master grants readily.",
+   "question": "What is your one strength that would make you fit for a task?"
+  },
+  {
+   "ref": "VI.7",
+   "reflection": "The Ji family asks Min Ziqian to govern Bi. Decline for me politely, he says, and if they ask again, I will be across the river Wen, out of the state. He refuses to serve a family that has usurped power, and he refuses with courtesy.",
+   "question": "Have you ever refused an offer for a reason you kept to yourself?"
+  },
+  {
+   "ref": "VI.8",
+   "reflection": "Boniu is gravely ill. Confucius visits and holds his hand through the window. \"It is fate. That such a man should have such an illness!\" he says twice. The scene is one of the most personal in the book, grief without explanation.",
+   "question": "How do you stay with someone when there is nothing to be done?"
+  },
+  {
+   "ref": "VI.9",
+   "reflection": "A basket of rice, a gourd of water, a mean lane: others could not bear the hardship, and Hui did not let it change his joy. Worthy indeed was Hui. The praise begins and ends with the same words, as if the Master could not say it once.",
+   "question": "What joy of yours does not depend on comfort?"
+  },
+  {
+   "ref": "VI.10",
+   "reflection": "Ran Qiu says it is not that he does not love the Way, but his strength is not enough. Those whose strength fails collapse halfway, Confucius answers, but you are drawing a line in advance. The limit he describes is not exhaustion but a decision.",
+   "question": "Where have you drawn a line before reaching it?",
+   "exercise": "Take one thing you have decided you cannot do and do the first small part of it today."
+  },
+  {
+   "ref": "VI.11",
+   "reflection": "Confucius tells Zixia to be a ru of the junzi kind, not of the small man's kind. Ru later became the name of the whole Confucian school; here it means a man of learning. The warning is that learning alone does not decide what kind of person one is.",
+   "question": "What kind of learned person do you want to be?"
+  },
+  {
+   "ref": "VI.12",
+   "reflection": "Ziyou, governor of Wucheng, is asked if he has found good people. One, Tantai Mieming, never takes a short cut when walking and never comes to the governor's house except on public business. Two small habits, and they say everything about his integrity.",
+   "question": "What small habit of yours would tell a stranger the most about you?"
+  },
+  {
+   "ref": "VI.13",
+   "reflection": "Meng Zhifan did not boast. Covering the retreat after a defeat, he whipped his horse as they reached the gate and said he had not dared to be last, his horse just would not go faster. He turns his courage into a joke about his horse.",
+   "question": "How do you take credit, when you have earned it?"
+  },
+  {
+   "ref": "VI.14",
+   "reflection": "Without the glib tongue of Tuo the priest and the good looks of Song Zhao, Confucius says, it is hard to get by in this age. It is bitter. The two men were famous for winning favour with talk and with beauty.",
+   "question": "What qualities does your own age reward that it should not?"
+  },
+  {
+   "ref": "VI.15",
+   "reflection": "Who can leave a house except by the door? Why then does no one go by this Way? The Way is as obvious as the door, and still people climb out of windows.",
+   "question": "What obvious door are you avoiding?"
+  },
+  {
+   "ref": "VI.16",
+   "reflection": "When substance outweighs refinement, a person is rustic; when refinement outweighs substance, they are like a clerk. Only when the two are balanced is there a junzi. Neither raw honesty nor polish is enough alone.",
+   "question": "Which do you have more of, substance or refinement?"
+  },
+  {
+   "ref": "VI.17",
+   "reflection": "People are born upright; one who lives without uprightness escapes by luck. Legge reads it as a claim about human nature, an early hint of the later debate about whether nature is good. It is also simply a warning.",
+   "question": "Do you think people are born upright, or become so?"
+  },
+  {
+   "ref": "VI.18",
+   "reflection": "Knowing something is not as good as loving it; loving it is not as good as delighting in it. Three degrees of relation to the same thing, each closer than the last.",
+   "question": "What do you know, what do you love, and what do you delight in?"
+  },
+  {
+   "ref": "VI.19",
+   "reflection": "To those above the middle one can speak of higher things; to those below, not. It sounds hierarchical and is mostly practical: teaching must meet the learner where they are. The book shows Confucius doing this again and again, giving different answers to the same question.",
+   "question": "When have you explained something above or below the level of the person in front of you?"
+  },
+  {
+   "ref": "VI.20",
+   "reflection": "Fan Chi asks about wisdom: devote yourself to what is right for the people, respect the spirits and keep them at a distance. About ren: put the hard work first and the reward after. Both answers point toward the human and the present.",
+   "question": "Do you more often think of the reward before the work, or after?"
+  },
+  {
+   "ref": "VI.21",
+   "reflection": "The wise delight in water, the humane in mountains; the wise are active, the humane still; the wise are joyful, the humane long-lived. The pairing is poetic, not a rule: two temperaments, each true in its way.",
+   "question": "Are you more drawn to water or to mountains?"
+  },
+  {
+   "ref": "VI.22",
+   "reflection": "With one change Qi could reach the level of Lu; with one change Lu could reach the Way. Lu was the home of the Zhou rites, Qi the more powerful state. Confucius sees reform as close, just one step away in each case.",
+   "question": "What one change would bring something you care about to where it should be?"
+  },
+  {
+   "ref": "VI.23",
+   "reflection": "A gu was a ritual drinking vessel, named for its corners. A gu that is not a gu: what a gu, what a gu! The things have changed and the names remain. It is the setting of names right, zhengming, without the word.",
+   "question": "What word do you still use for something that no longer matches it?"
+  },
+  {
+   "ref": "VI.24",
+   "reflection": "Zai Wo tests the Master: if a humane person were told someone had fallen into a well, would he jump in after them? Why would he? The junzi can be made to go to the well, not to throw himself in; he can be deceived, not made a fool of. Goodness is not the same as stupidity.",
+   "question": "When has someone used your goodness against your judgement?"
+  },
+  {
+   "ref": "VI.25",
+   "reflection": "The junzi studies widely in culture and draws it together with ritual, and so does not go astray. Breadth needs a binding, or it scatters.",
+   "question": "What holds together everything you have learned?"
+  },
+  {
+   "ref": "VI.26",
+   "reflection": "Confucius visits Nanzi, the wife of the ruler of Wei, a woman with a scandalous name. Zilu is displeased, and the Master swears: if I have done wrong, may Heaven reject me. The book keeps a moment where the teacher must defend himself to his student.",
+   "question": "When have you had to defend yourself to someone who expected better of you?"
+  },
+  {
+   "ref": "VI.27",
+   "reflection": "The virtue of the mean, zhongyong, is the highest, and it has long been rare among the people. The phrase gave its name to a whole book, the Doctrine of the Mean, which this app keeps in Lore.",
+   "question": "Where in your life is the middle way the hardest to keep?"
+  },
+  {
+   "ref": "VI.28",
+   "reflection": "Zigong imagines someone who benefits all the people; would that be ren? It would be sagehood, beyond what even Yao and Shun achieved. The humane person, wishing to be established, helps others be established; wishing to succeed, helps others succeed. To take what is near in oneself as the measure for others: that is the method of ren.",
+   "question": "What do you want for yourself that you could help someone else toward today?"
+  },
+  {
+   "ref": "VII.1",
+   "reflection": "Confucius describes himself as one who passes on rather than creates, trusting and loving the ancient ways, and compares himself to Old Peng, a figure from the distant past. It is a modest claim. The later tradition made him the founder of a school, which this chapter says he did not set out to be.",
+   "question": "What do you pass on that you did not make?"
+  },
+  {
+   "ref": "VII.2",
+   "reflection": "To remember silently, to learn without tiring, to teach without wearying: which of these, Confucius asks, do I have? The question can be read as modesty or as a quiet claim to all three. VII.33 returns to the same two habits.",
+   "question": "Which of the three comes most easily to you?"
+  },
+  {
+   "ref": "VII.3",
+   "reflection": "Virtue not cultivated, learning not discussed, hearing what is right and not moving toward it, not changing what is not good: these are the Master's worries. They are all failures of follow-through.",
+   "question": "Which of the four is your own worry?"
+  },
+  {
+   "ref": "VII.4",
+   "reflection": "At home and at ease, the Master was relaxed and cheerful. The disciples recorded not only what he taught but how he looked when he was not teaching.",
+   "question": "How do you look when no one needs anything from you?"
+  },
+  {
+   "ref": "VII.5",
+   "reflection": "How I have declined, Confucius says; for a long time I have not dreamed of the Duke of Zhou, the founder of the institutions he loved. Old age is felt as the loss of a dream.",
+   "question": "Whom or what did you once dream of that you no longer do?"
+  },
+  {
+   "ref": "VII.6",
+   "reflection": "Set your will on the Way, base yourself on virtue, rely on ren, and take your ease in the arts. The four lines move from aim to footing to support to recreation. The arts here are ritual, music, archery, driving, writing and counting.",
+   "question": "Where do you take your ease?"
+  },
+  {
+   "ref": "VII.7",
+   "reflection": "From anyone who brought even a small bundle of dried meat as a gift, the customary token for a teacher, Confucius never refused instruction. The door was open to any who came with the smallest sign of wanting to learn.",
+   "question": "What small sign shows that you are ready to be taught?"
+  },
+  {
+   "ref": "VII.8",
+   "reflection": "Confucius does not open the way for someone who is not eager, nor prompt one who is not struggling to put it into words. If he shows one corner and the student cannot return with the other three, he does not repeat himself. Teaching requires effort from both sides.",
+   "question": "When were you last shown one corner and found the other three yourself?"
+  },
+  {
+   "ref": "VII.9",
+   "reflection": "Eating beside someone in mourning, he never ate his fill; on a day he had wept, he did not sing. Two small observances of fellow feeling. Grief, even someone else's, changes what one does.",
+   "question": "How do you change your conduct around someone who is grieving?"
+  },
+  {
+   "ref": "VII.10",
+   "reflection": "Confucius tells Yan Hui that only they two can take office when employed and withdraw when not. Zilu, wanting a share, asks whom the Master would take to lead an army. Not one who fights a tiger bare-handed or crosses a river without a boat and dies without regret, but one who goes into action with caution and a plan. Courage without care is not what he wants.",
+   "question": "Where are you brave in a way that is only careless?"
+  },
+  {
+   "ref": "VII.11",
+   "reflection": "If wealth could be properly sought, Confucius says, he would do even the lowly job of holding a whip; if not, he follows what he loves. He is not against wealth, he is against pursuing it at any price.",
+   "question": "What would you do for money, and what would you not?"
+  },
+  {
+   "ref": "VII.12",
+   "reflection": "The things he treated with the greatest care: fasting before sacrifice, war and illness. Each involves life and death, or the spirits, and none can be taken lightly.",
+   "question": "What in your life deserves more care than you give it?"
+  },
+  {
+   "ref": "VII.13",
+   "reflection": "In Qi, Confucius heard the Shao music and for three months did not notice the taste of meat. He had not imagined music could reach such a height. The book records one experience of art so strong it displaced appetite.",
+   "question": "What work of art has affected you so strongly that it changed your ordinary days?"
+  },
+  {
+   "ref": "VII.14",
+   "reflection": "The disciples wonder whether Confucius supports the ruler of Wei, who was fighting his own father for the throne. Zigong asks instead about Bo Yi and Shu Qi, two brothers who each gave up a throne to the other. They sought ren and got it; why would they complain? Zigong comes out and says the Master is not for the ruler.",
+   "question": "When have you understood someone's answer to a question you did not ask directly?"
+  },
+  {
+   "ref": "VII.15",
+   "reflection": "Coarse rice to eat, water to drink, a bent arm for a pillow: there is joy in these too. Wealth and honour gained wrongly are to him like floating clouds. It is one of the book's best-known pictures of contentment.",
+   "question": "What simple thing gives you joy?",
+   "exercise": "Find one ordinary pleasure today, a drink of water or a quiet minute, and notice it fully."
+  },
+  {
+   "ref": "VII.16",
+   "reflection": "Given more years, Confucius says, he would study the Yi, the Book of Changes, and might then be without great faults. The chapter is the main textual link between Confucius and the Changes. Some editions read a different character for Yi, and the line becomes \"even so\", without the book at all.",
+   "question": "What would you study if you were given more years?"
+  },
+  {
+   "ref": "VII.17",
+   "reflection": "When he spoke of the Odes, the Documents and the observance of ritual, the Master used the standard pronunciation, the elegant speech of the court rather than his local dialect. Legge reads it as \"his frequent themes\". Either way, these were what he spoke of with care.",
+   "question": "What subjects do you speak of with special care?"
+  },
+  {
+   "ref": "VII.18",
+   "reflection": "The Duke of She asks Zilu about Confucius, and Zilu does not answer. Why not tell him, says the Master, that I am someone who forgets to eat in my eagerness, forgets my worries in my joy, and does not notice old age coming? It is the most cheerful self-portrait in the book.",
+   "question": "How would you want someone to describe you, if they had one sentence?"
+  },
+  {
+   "ref": "VII.19",
+   "reflection": "I was not born knowing, Confucius says; I love the ancients and seek it diligently. He claims effort, not a gift.",
+   "question": "What do you know only because you worked to learn it?"
+  },
+  {
+   "ref": "VII.20",
+   "reflection": "The Master did not talk about prodigies, feats of strength, disorder or spirits. The list tells as much about him as any saying: his attention was on ordinary human conduct.",
+   "question": "What subjects do you choose not to talk about?"
+  },
+  {
+   "ref": "VII.21",
+   "reflection": "Walking with two others, I am sure to find my teacher among them: I follow their good points and correct in myself their bad ones. Every companion is a lesson, either way.",
+   "question": "What did the last two people you spent time with teach you?",
+   "exercise": "With the next two people you meet today, find one quality to follow and one to avoid."
+  },
+  {
+   "ref": "VII.22",
+   "reflection": "Huan Tui, a military officer of Song, tried to kill Confucius. Heaven gave me my virtue, the Master says; what can Huan Tui do to me? It is a moment of calm in danger, grounded in a sense of mission.",
+   "question": "What gives you steadiness when you are threatened?"
+  },
+  {
+   "ref": "VII.23",
+   "reflection": "Do you think I hide anything from you? I hide nothing; there is nothing I do that I do not share with you. The teacher answers a suspicion that he holds back secret teachings. His whole life is the lesson.",
+   "question": "Do the people close to you know how you actually live?"
+  },
+  {
+   "ref": "VII.24",
+   "reflection": "He taught four things: culture, conduct, loyalty and good faith. Legge renders them as letters, ethics, devotion of soul and truthfulness. Two are learned in books and two only in life.",
+   "question": "Which of the four did your own education leave out?"
+  },
+  {
+   "ref": "VII.25",
+   "reflection": "A sage I shall not see; a junzi would be enough. A good person I shall not see; someone constant would be enough. But pretending to have when one has not, to be full when empty, at ease when pressed: it is hard for such people to be constant. Pretence is the enemy of steadiness.",
+   "question": "Where are you pretending to more than you have?"
+  },
+  {
+   "ref": "VII.26",
+   "reflection": "The Master fished with a line but not with a net, and shot with an arrow but not at roosting birds. He took what he needed and left the rest a fair chance. Restraint applied even to sport.",
+   "question": "Where could you take less than you are able to?"
+  },
+  {
+   "ref": "VII.27",
+   "reflection": "Some act without knowing; Confucius does not. He hears much, chooses the good and follows it, sees much and remembers it: this is the second kind of knowledge, below the knowledge one is born with. He places himself firmly in the second rank.",
+   "question": "How much of what you know did you choose deliberately, from many sources?"
+  },
+  {
+   "ref": "VII.28",
+   "reflection": "The people of Huxiang were hard to talk to, and the disciples are surprised that Confucius receives a boy from there. He approves of his coming forward, not of what he may do after; why be so severe? If someone purifies himself to come, accept the purity without vouching for his past.",
+   "question": "Whom do you refuse a fresh start because of where they come from?"
+  },
+  {
+   "ref": "VII.29",
+   "reflection": "Is ren far away? I wish for it, and here it is. After so many chapters where the Master refuses to call anyone ren, this one says it is as close as the wish. Both are true in the book: it is rare in a whole life and near in any moment.",
+   "question": "What good act is within reach of you right now?"
+  },
+  {
+   "ref": "VII.30",
+   "reflection": "A minister of Chen asks whether Duke Zhao of Lu knew ritual, and Confucius says he did. Afterwards the minister points out that the duke married a woman of his own clan, against ritual, and disguised her name. Told of this, Confucius says: I am fortunate; if I make a mistake, people are sure to notice. He had defended his own ruler, and he accepts the correction gracefully.",
+   "question": "How do you respond when someone points out your mistake?"
+  },
+  {
+   "ref": "VII.31",
+   "reflection": "When someone sang well in his company, the Master would ask them to sing again and then join in. A small detail of pleasure in another's gift, and of joining rather than judging.",
+   "question": "Whose talent could you join in with, rather than only admire?"
+  },
+  {
+   "ref": "VII.32",
+   "reflection": "In learning I may be as good as others, Confucius says, but in practising what the junzi practises, I have not yet succeeded. He separates scholarship from conduct and grades himself low on the second.",
+   "question": "Which do you rate yourself higher in, knowing or doing?"
+  },
+  {
+   "ref": "VII.33",
+   "reflection": "How could I dare call myself a sage or ren? It may be said only that I strive without tiring and teach without weariness. Gongxi Chi answers that this is exactly what the disciples cannot learn from him. The modest claim turns out to be the hardest.",
+   "question": "What do you do without tiring that others find hard?"
+  },
+  {
+   "ref": "VII.34",
+   "reflection": "When the Master is gravely ill, Zilu asks to pray for him, citing a text of prayers to the spirits above and below. Is there such a thing? Confucius asks, and then says: my praying has been going on a long time. It may mean his whole life has been a prayer, or that he does not need Zilu's. The chapter keeps the ambiguity.",
+   "question": "What in your daily life could be called a kind of prayer?"
+  },
+  {
+   "ref": "VII.35",
+   "reflection": "Extravagance leads to arrogance, frugality to shabbiness; better shabby than arrogant. Of two faults, he prefers the one that harms others less.",
+   "question": "If you must err, which way do you err?"
+  },
+  {
+   "ref": "VII.36",
+   "reflection": "The junzi is calm and at ease; the small man is always anxious. The contrast is about inner weather, not outward fortune.",
+   "question": "What made you anxious today, and was it within your control?"
+  },
+  {
+   "ref": "VII.37",
+   "reflection": "The Master was gentle yet stern, commanding yet not harsh, respectful yet at ease. Each quality is held with its opposite. Book VII ends with a portrait, not a saying.",
+   "question": "Which pair of qualities would you most like to hold together?"
+  },
+  {
+   "ref": "VIII.1",
+   "reflection": "Taibo, eldest son of an early Zhou lord, three times gave up his claim to the throne so that a younger line could rule, and did it so quietly that the people had nothing to praise. Confucius calls this the highest virtue. Goodness that leaves no mark to applaud is put at the top.",
+   "question": "What good could you do today that no one would know to thank you for?"
+  },
+  {
+   "ref": "VIII.2",
+   "reflection": "Respect without ritual becomes tiresome, caution becomes timidity, courage becomes disorder, frankness becomes rudeness. Each good quality needs a form to hold it in shape. The second half adds that when those above are devoted to their families and do not forget old friends, the people follow.",
+   "question": "Which of your good qualities turns into a fault when it has no form?"
+  },
+  {
+   "ref": "VIII.3",
+   "reflection": "Dying, Master Zeng asks his students to uncover his hands and feet: his body, received from his parents, is whole. He quotes the Odes on walking as if on the edge of an abyss, as if on thin ice, and says that from now on he knows he is free of that care. Keeping the body unharmed was, for him, part of filial piety.",
+   "question": "What have you been carrying carefully all your life, and why?"
+  },
+  {
+   "ref": "VIII.4",
+   "reflection": "When a bird is about to die its cry is sad; when a man is about to die his words are good. Master Zeng then tells the visiting noble three things that matter: bearing without violence, a face close to sincerity, speech without coarseness. The ritual vessels, he adds, have their own officers. He sends the great man back to his own conduct.",
+   "question": "If you had only three things to tell someone in power, what would they be?"
+  },
+  {
+   "ref": "VIII.5",
+   "reflection": "Able, yet asking those less able; rich in knowledge, yet asking those who have little; having, as if not having; full, as if empty; wronged, and not disputing it: Master Zeng once had a friend like this. Tradition takes the friend to be Yan Hui.",
+   "question": "Which of these five do you find hardest?"
+  },
+  {
+   "ref": "VIII.6",
+   "reflection": "Someone who can be entrusted with a young orphan prince and the government of a state, and who cannot be moved in a great crisis: is this a junzi? Yes, a junzi. Master Zeng defines the junzi by trustworthiness under pressure.",
+   "question": "What would you trust to someone only if you were sure they could not be moved?"
+  },
+  {
+   "ref": "VIII.7",
+   "reflection": "The scholar must be broad and resolute, for the load is heavy and the road long. Ren is the load: is that not heavy? Only death ends the road: is that not long? Master Zeng's picture of the moral life has no finish line before the last.",
+   "question": "What load have you taken on that will last as long as you do?"
+  },
+  {
+   "ref": "VIII.8",
+   "reflection": "One is roused by the Odes, established by ritual, and completed by music. Three arts and three stages: feeling, form, harmony. Education here is aesthetic as much as moral.",
+   "question": "Which art first roused you?"
+  },
+  {
+   "ref": "VIII.9",
+   "reflection": "The people can be made to follow, not made to understand. The chapter is often read as contempt for ordinary people, and it can be. It can also be read as a statement of fact about government: example moves people further than explanation. A different punctuation of the Chinese, proposed by some scholars, makes it say: let them follow if they can, and if not, teach them.",
+   "question": "Have you ever followed someone well without understanding why?"
+  },
+  {
+   "ref": "VIII.10",
+   "reflection": "A bold man who hates poverty will make trouble; so will a man without ren if he is hated too much. The second clause is the surprising one: excessive dislike of the bad can itself breed disorder.",
+   "question": "Whom do you dislike so much that it might make things worse?"
+  },
+  {
+   "ref": "VIII.11",
+   "reflection": "Even with the talents of the Duke of Zhou, if a person is proud and stingy, the rest is not worth looking at. The Duke was Confucius's model statesman. Talent cannot redeem arrogance and meanness.",
+   "question": "What talent of yours might be cancelled by a habit you do not see?"
+  },
+  {
+   "ref": "VIII.12",
+   "reflection": "It is hard to find someone who has studied three years without thinking of a salary. Legge reads the end differently, as \"without coming to be good\". The usual modern reading is the salary one, which fits II.18.",
+   "question": "When did you last learn something without thinking of what it would earn you?"
+  },
+  {
+   "ref": "VIII.13",
+   "reflection": "Hold firmly to good faith and love learning; keep to the good Way until death. Do not enter a state in danger or stay in one in disorder; show yourself when the world has the Way and hide when it does not. When the state has the Way, to be poor is shameful; when it lacks the Way, to be rich is shameful.",
+   "question": "In the world as it is now, what kind of success would be shameful?"
+  },
+  {
+   "ref": "VIII.14",
+   "reflection": "One who does not hold the office does not plan its policy. The sentence is plain about responsibility: authority and the right to decide come together. It returns in XIV.26.",
+   "question": "Where are you deciding things that are not your responsibility?"
+  },
+  {
+   "ref": "VIII.15",
+   "reflection": "When the music master Zhi began, the finale of the Guanju flooded the ears. A memory of a performance, recorded with pleasure. The book has room for a concert remembered.",
+   "question": "What performance do you still remember in your ears?"
+  },
+  {
+   "ref": "VIII.16",
+   "reflection": "Ardent but not upright, ignorant but not careful, simple but not honest: such people Confucius does not understand. Each pair joins a weakness to the absence of the virtue that usually comes with it.",
+   "question": "What combination in people puzzles you most?"
+  },
+  {
+   "ref": "VIII.17",
+   "reflection": "Study as if you cannot catch up, and still fear losing what you have. The urgency of learning in two directions: forward, and holding on.",
+   "question": "What are you afraid of losing that you once learned?"
+  },
+  {
+   "ref": "VIII.18",
+   "reflection": "How sublime Shun and Yu were: they held the whole world and it was as if it were nothing to them. Possession without attachment is the mark of the sage kings.",
+   "question": "What do you possess that you could hold more lightly?"
+  },
+  {
+   "ref": "VIII.19",
+   "reflection": "Only Heaven is great, and only Yao modelled himself on it. His virtue was so vast the people had no name for it; his achievements and his culture shone. The chapter praises the first of the sage kings in the language of awe.",
+   "question": "Whom do you admire so much that words for it run out?"
+  },
+  {
+   "ref": "VIII.20",
+   "reflection": "Shun had five ministers; King Wu said he had ten. Confucius notes how rare talent is, adding, in Legge's reading, that one of the ten was a woman, so the able ministers were only nine men. The chapter's point is the rarity of talent; the way it counts shows the assumption of its world, that office belonged to men, while still naming the woman among the ten. It ends by praising the Zhou for still serving the Shang when they held two thirds of the realm.",
+   "question": "Whose talent around you goes uncounted because of who they are?"
+  },
+  {
+   "ref": "VIII.21",
+   "reflection": "Yu the Great, who tamed the floods, ate simply but was generous to the spirits, dressed plainly but wore fine robes at sacrifice, lived in a low house but spent his strength on the irrigation channels. Confucius can find no fault. Private frugality, public generosity.",
+   "question": "Where do you spend on yourself what should go to the common good?"
+  },
+  {
+   "ref": "IX.1",
+   "reflection": "The Master rarely spoke of profit, of fate and of ren. The last item is puzzling, since ren is everywhere in the book. One reading is that he rarely spoke of it in the abstract, only in answers to particular people; another reading of the grammar makes him rarely speak of profit, but approve of fate and ren.",
+   "question": "What do you value most that you rarely speak of directly?"
+  },
+  {
+   "ref": "IX.2",
+   "reflection": "A villager says Confucius is great, broadly learned, but famous for nothing in particular. The Master jokes: what should I specialise in? Archery? Driving? I will take up driving. Driving was the humblest of the gentlemanly arts. He answers praise mixed with criticism with self-mockery.",
+   "question": "How do you answer praise that carries a hidden criticism?"
+  },
+  {
+   "ref": "IX.3",
+   "reflection": "The ritual cap should be of linen; now silk is used because it is cheaper, and Confucius follows the majority. Ritual requires bowing below the hall; now people bow only after ascending, which is presumptuous, and he keeps the old way against the majority. He changes where change is harmless and resists where it shows disrespect.",
+   "question": "Which customs have you let change, and which do you keep against the crowd?"
+  },
+  {
+   "ref": "IX.4",
+   "reflection": "He had no fixed preconceptions, no insistence on certainty, no stubbornness, no self-centredness. Four absences describe the Master as well as any list of virtues.",
+   "question": "Which of the four do you most need to be free of?"
+  },
+  {
+   "ref": "IX.5",
+   "reflection": "Surrounded and threatened in Kuang, where he was mistaken for a man who had wronged the town, Confucius says: King Wen is dead, but is culture not here with me? If Heaven meant culture to perish, it would not have given it to me; if not, what can the people of Kuang do? Like VII.22, a moment of composure resting on a sense of what he carried.",
+   "question": "What are you carrying that matters more than your own safety?"
+  },
+  {
+   "ref": "IX.6",
+   "reflection": "An official asks Zigong whether the Master is a sage, he has so many skills. Zigong says Heaven made him nearly a sage and gave him many abilities. Confucius corrects them: he was poor when young, so he learned many humble skills. Does the junzi need many? Not many. He refuses to have his practical skills counted as wisdom.",
+   "question": "What skill did you learn only because you had to?"
+  },
+  {
+   "ref": "IX.7",
+   "reflection": "Do I have knowledge? No. But if a simple man asks me something, even if I am empty, I take up the question from both ends and exhaust it. His method is not a store of answers but a way of examining questions.",
+   "question": "What question are you facing that you have only looked at from one end?"
+  },
+  {
+   "ref": "IX.8",
+   "reflection": "The phoenix does not come, the river gives no chart: it is over for me. Both were omens of a sage ruler's appearance. Confucius despairs of living to see good government. It is a rare moment of personal hopelessness.",
+   "question": "What sign are you waiting for that has not come?"
+  },
+  {
+   "ref": "IX.9",
+   "reflection": "When he saw someone in mourning, someone in official dress, or a blind person, he would rise even if they were young, and pass them with hurried steps. Respect is shown in the body.",
+   "question": "How does your body show respect, without words?"
+  },
+  {
+   "ref": "IX.10",
+   "reflection": "Yan Hui sighs: the more I look up, the higher it is; the more I bore into it, the harder; I see it before me and suddenly it is behind. The Master leads step by step, broadens me with culture and restrains me with ritual. I cannot stop, and when I have used all my strength, something stands sheer before me, and I find no way to follow. It is the most moving account of a student's experience in the book.",
+   "question": "What have you pursued that always seemed to stay just ahead?"
+  },
+  {
+   "ref": "IX.11",
+   "reflection": "When the Master was very ill, Zilu had disciples act as his retainers, as if he still held office. Recovering, Confucius rebukes him: whom would I deceive? Heaven? Better to die in the arms of you, my disciples, than among retainers. Even if I have no grand burial, will I die by the roadside? He wants the truth of his situation honoured, not a fiction.",
+   "question": "Where have you kept up an appearance that deceives no one?"
+  },
+  {
+   "ref": "IX.12",
+   "reflection": "Zigong asks: if there were a beautiful jade, should one hide it in a box or sell it for a good price? Sell it, sell it, Confucius says; I am waiting for a buyer. The jade is the Master himself, waiting for a ruler who would employ him.",
+   "question": "What gift of yours are you keeping in a box?"
+  },
+  {
+   "ref": "IX.13",
+   "reflection": "Confucius wants to go and live among the eastern tribes. Someone objects that they are uncouth. If a junzi lived among them, what uncouthness would there be? The answer combines the cultural confidence of his time with a belief that conduct transforms a place.",
+   "question": "What place would you change by living in it well?"
+  },
+  {
+   "ref": "IX.14",
+   "reflection": "After returning from Wei to Lu, Confucius put the music in order, and the court songs and hymns each found their proper place. It is one of the few concrete achievements the book credits to him.",
+   "question": "What have you put back in order that had drifted?"
+  },
+  {
+   "ref": "IX.15",
+   "reflection": "To serve high officials abroad and father and elder brothers at home, to give all one can to funerals, and not to be troubled by wine: what difficulty do I have with these? Legge reads the end as \"which of these do I attain to?\", a modest question. Others read it as a quiet claim that these are within his reach.",
+   "question": "What ordinary duties are you sure you manage, and are you right?"
+  },
+  {
+   "ref": "IX.16",
+   "reflection": "Standing by a river, the Master says: it passes on like this, never ceasing, day and night. The line has been read as grief at time passing and as praise of steady effort. Both readings are old.",
+   "question": "What, in your life, keeps passing on like the river?",
+   "exercise": "Stand for a minute by moving water, or watch rain, and think of one thing that has been flowing through your days."
+  },
+  {
+   "ref": "IX.17",
+   "reflection": "I have never seen anyone who loves virtue as much as they love beauty. The sentence repeats in XV.13. The comparison is with an attraction that needs no effort at all.",
+   "question": "What good do you love as easily as a beautiful face?"
+  },
+  {
+   "ref": "IX.18",
+   "reflection": "Learning is like raising a mound: if one basket short I stop, it is I who stop. It is like levelling ground: if I add one basket, it is I who advance. Progress and failure are both one's own, one basket at a time.",
+   "question": "What one basket of earth would you add today?",
+   "exercise": "Do one small piece of a task you have stopped, just one basket's worth."
+  },
+  {
+   "ref": "IX.19",
+   "reflection": "The one who never grew tired when I spoke to him: that was Hui. A short memory of a student's attention.",
+   "question": "When do you listen without growing tired?"
+  },
+  {
+   "ref": "IX.20",
+   "reflection": "Of Yan Hui, after his death: alas, I saw him advance, I never saw him stop. Grief and praise in one breath.",
+   "question": "What would you want said of you, that someone saw you advance?"
+  },
+  {
+   "ref": "IX.21",
+   "reflection": "There are sprouts that never flower and flowers that never fruit. The image is often taken as a lament for Yan Hui, dead before his promise was fulfilled. It speaks of any promise that does not ripen.",
+   "question": "What promise in you has sprouted but not yet flowered?"
+  },
+  {
+   "ref": "IX.22",
+   "reflection": "The young should be held in awe: how do we know they will not equal us? But if at forty or fifty nothing is heard of them, they need not be feared. Respect for the future is joined to a frank deadline.",
+   "question": "Whom younger than you might surpass you, and how do you treat them?"
+  },
+  {
+   "ref": "IX.23",
+   "reflection": "Who can fail to agree with a stern correction? What matters is to change. Who can fail to be pleased by gentle advice? What matters is to think it through. Someone who is pleased but does not reflect, who agrees but does not change: I can do nothing with them.",
+   "question": "What advice have you agreed with and not acted on?"
+  },
+  {
+   "ref": "IX.24",
+   "reflection": "The second half of I.8 returns in the same words: hold to good faith, befriend no one not your equal, do not be afraid to correct your faults. Another repeated saying, perhaps from a different notebook.",
+   "question": "Since you first read this in Book I, have you corrected anything?"
+  },
+  {
+   "ref": "IX.25",
+   "reflection": "An army can be robbed of its commander; a common man cannot be robbed of his will. The chapter puts the inner resolve of an ordinary person above military power.",
+   "question": "What in you could no one take away?"
+  },
+  {
+   "ref": "IX.26",
+   "reflection": "Dressed in a worn padded robe, standing beside men in furs, and not ashamed: that is Zilu. The Master quotes an ode: not envious, not greedy, how could he not be good? Zilu keeps repeating the lines, and Confucius says: that is not enough to be good. Praise, and then a check on pride in the praise.",
+   "question": "What praise have you repeated to yourself a little too often?"
+  },
+  {
+   "ref": "IX.27",
+   "reflection": "Only when the year turns cold do we know that the pine and cypress are the last to fade. Character shows in hardship. It is one of the most painted images in Chinese art.",
+   "question": "Whose steadiness did you see only in a hard season?"
+  },
+  {
+   "ref": "IX.28",
+   "reflection": "The wise are not perplexed, the humane not anxious, the brave not afraid. Three virtues, each freeing from one kind of trouble. XIV.28 repeats them, with Confucius saying he has none of the three.",
+   "question": "Which of the three troubles visits you most?"
+  },
+  {
+   "ref": "IX.29",
+   "reflection": "Some can study with us but not go toward the Way; some can go toward the Way but not stand firm in it; some can stand firm but not weigh circumstances with us. Companions part at different stages. The last, weighing, is judgement in the particular case.",
+   "question": "With whom can you study, with whom stand firm, and with whom weigh a hard case?"
+  },
+  {
+   "ref": "IX.30",
+   "reflection": "A lost ode: the cherry blossoms flutter, how can I not think of you, but your house is far. Confucius comments: he does not really think of her, or how could it be far? Distance is a measure of desire. Many read the beloved as the Way.",
+   "question": "What do you call far away that you have simply not set out for?"
+  },
+  {
+   "ref": "X.1",
+   "reflection": "Book X is different: it describes the Master's manner rather than recording his sayings. In his home village he was simple and almost wordless; at the ancestral temple and at court he spoke fluently, but with care. The same man adjusted his speech to the place.",
+   "question": "How does your speech change between home and work?"
+  },
+  {
+   "ref": "X.2",
+   "reflection": "With officials of lower rank he spoke freely and straight; with higher ones, mildly but precisely; in the ruler's presence, respectful and composed. The book records how rank shaped the tone of speech in his world.",
+   "question": "With whom do you speak more freely, and with whom more carefully?"
+  },
+  {
+   "ref": "X.3",
+   "reflection": "When the ruler asked him to receive a guest, his face changed and his step quickened; he bowed left and right, robe straight before and behind, and hurried forward like a bird with spread wings. When the guest was gone, he reported: the guest no longer looks back. A ceremonial duty, described in minute detail.",
+   "question": "What duty do you perform with complete attention to its form?"
+  },
+  {
+   "ref": "X.4",
+   "reflection": "Entering the palace gate he bent as if it were too low; he did not stand in the middle of the gateway or step on the threshold. Passing the ruler's empty seat, his face changed, and he spoke as if short of breath. Coming out, a step down, he relaxed. Reverence is described in the body, step by step.",
+   "question": "Is there a place where you change your manner as you enter?"
+  },
+  {
+   "ref": "X.5",
+   "reflection": "Carrying the ruler's jade tablet on a mission, he bowed as if it were too heavy, held it at a precise height, walked with short steps. At the presentation of gifts he was composed; at the private meeting, pleased. Each stage of a mission had its proper face.",
+   "question": "What carries more weight than it physically has, when you hold it?"
+  },
+  {
+   "ref": "X.6",
+   "reflection": "The junzi did not use dark purple or puce for trimmings or red for everyday clothes; he matched outer robes to furs, wore a long night robe, and changed dress for mourning and for the new moon. Book X keeps details of dress because dress was part of ritual. The list reads as foreign now, and that is its value: a picture of how one man lived inside his customs.",
+   "question": "What do your own clothes say about the occasions in your life?"
+  },
+  {
+   "ref": "X.7",
+   "reflection": "Before a sacrifice, during the fast, he wore clean linen, changed his food and changed where he sat. Preparation for a rite began days before it, in small changes of daily habit.",
+   "question": "How do you prepare, in small ways, for something important?"
+  },
+  {
+   "ref": "X.8",
+   "reflection": "He did not mind fine rice or finely cut meat, but would not eat food that was spoiled, discoloured, badly cooked or out of season; he wanted it cut properly and with its sauce; he did not let meat exceed the rice; he set no limit to wine but never became confused; he always had ginger; he did not eat much; he did not talk while eating. Even a plain meal began with a small offering. The longest chapter of Book X is about eating with care.",
+   "question": "What would change if you ate one meal today with full attention?",
+   "exercise": "Eat one meal today without talking or looking at a screen, and notice it."
+  },
+  {
+   "ref": "X.9",
+   "reflection": "If his mat was not straight, he did not sit on it. Seven words in Legge. Order in small things was a habit of attention.",
+   "question": "What small thing do you set straight before you begin?"
+  },
+  {
+   "ref": "X.10",
+   "reflection": "At village drinking, he left only after those with staffs, the elders, had left. When villagers performed the exorcism ceremony, he stood in court dress on the eastern steps. He kept village custom as seriously as court ritual.",
+   "question": "Which local customs do you respect, even if you do not share them?"
+  },
+  {
+   "ref": "X.11",
+   "reflection": "Sending greetings to someone in another state, he bowed twice to the messenger. When Ji Kangzi sent him medicine, he accepted it with a bow but said: I do not know it, so I dare not taste it. Courtesy and caution together.",
+   "question": "How do you accept a gift you cannot use?"
+  },
+  {
+   "ref": "X.12",
+   "reflection": "The stables burned. Returning from court, he asked: was anyone hurt? He did not ask about the horses. Horses were costly and the grooms were of low status, which is why the question is remembered.",
+   "question": "In a loss, what do you ask about first?"
+  },
+  {
+   "ref": "X.13",
+   "reflection": "When the ruler sent cooked food, he straightened his mat and tasted it first; raw meat, he cooked and offered to his ancestors; a live animal, he kept alive. Ill in bed when the ruler came, he lay with his head east, court robe over him. Summoned, he went on foot without waiting for his carriage. Every contact with the ruler had its form.",
+   "question": "Who in your life would you go to at once, without waiting?"
+  },
+  {
+   "ref": "X.14",
+   "reflection": "In the Grand Temple, he asked about everything. The line of III.15 returns, without the sneer and the reply. Book X keeps the habit itself.",
+   "question": "Where could you ask more questions than you do?"
+  },
+  {
+   "ref": "X.15",
+   "reflection": "When a friend died with no one to take care of him, he said: let me see to the burial. He did not bow for a friend's gift, even a carriage, except for sacrificial meat. Friendship had its own duties, the last of them the most binding.",
+   "question": "What would you do for a friend that no one would ask of you?"
+  },
+  {
+   "ref": "X.16",
+   "reflection": "He did not sleep like a corpse or sit at home as if at a ceremony. He changed his face at the sight of mourners, of officials, of the blind; he bowed in his carriage to those in mourning and to bearers of census records; at a lavish feast he rose; at sudden thunder or a great wind his expression changed. Respect for others, and for the forces of the sky.",
+   "question": "What still makes your expression change?"
+  },
+  {
+   "ref": "X.17",
+   "reflection": "Mounting his carriage he stood straight and held the cord; inside, he did not look around, speak fast or point. Composure even in transit.",
+   "question": "How do you carry yourself when you are on the way somewhere?"
+  },
+  {
+   "ref": "X.18",
+   "reflection": "A bird rises at the sight of people, circles and settles. The Master says: the pheasant on the hill bridge, how timely, how timely! Zilu makes a gesture toward it, and it sniffs three times and flies. The fragment is obscure, and the text may be damaged. It is often read as praise of acting at the right moment, which closes a book about manners.",
+   "question": "What did you do today at exactly the right moment?"
+  },
+  {
+   "ref": "XI.1",
+   "reflection": "In ritual and music, people say, the earlier generations were rustic and the later ones refined gentlemen. If Confucius had to choose, he would follow the earlier. He prefers plain sincerity to elaborate polish.",
+   "question": "In your own field, do you prefer the older plain way or the newer refined one?"
+  },
+  {
+   "ref": "XI.2",
+   "reflection": "None of those who were with him in Chen and Cai, where he and his followers nearly starved, now come to his door. The second part, probably added by the compilers, lists the most famous disciples under four headings: virtue, speech, government and culture. It is the oldest roll of the school.",
+   "question": "Under which of the four headings would your friends place you?"
+  },
+  {
+   "ref": "XI.3",
+   "reflection": "Hui is no help to me; he is pleased with everything I say. Half complaint and half praise: a teacher learns from objections, and Hui never made any.",
+   "question": "Who helps you most by disagreeing?"
+  },
+  {
+   "ref": "XI.4",
+   "reflection": "Min Ziqian is filial indeed: no one finds anything to object to in what his parents and brothers say of him. A family's praise is often partial; here even outsiders agree.",
+   "question": "Would outsiders agree with what your family says of you?"
+  },
+  {
+   "ref": "XI.5",
+   "reflection": "Nan Rong often recited an ode about a flaw in a white jade sceptre that can be polished away, while a flaw in speech cannot. Confucius gave him his niece in marriage. A man who repeats a warning about careless words shows his own care.",
+   "question": "What line do you repeat to yourself as a warning?"
+  },
+  {
+   "ref": "XI.6",
+   "reflection": "Ji Kangzi asks which disciple loved learning, the question Duke Ai asked in VI.2. The answer is the same, shorter: Yan Hui, and he died young; now there is no one. The repetition carries the grief.",
+   "question": "What quality of someone you lost has no one else replaced?"
+  },
+  {
+   "ref": "XI.7",
+   "reflection": "When Yan Hui died, his father asked for the Master's carriage to sell for an outer coffin. Confucius refused: everyone speaks of his own son, gifted or not; when my son Li died he had no outer coffin either, and as one who follows the officials I cannot go on foot. Even grief does not override what he thinks his position requires.",
+   "question": "When has propriety asked you to refuse something you wanted to give?"
+  },
+  {
+   "ref": "XI.8",
+   "reflection": "When Yan Hui died, the Master said: alas, Heaven is destroying me, Heaven is destroying me. The disciple he hoped would carry on his Way is gone. The book does not soften the cry.",
+   "question": "Whose loss would feel like losing part of your own work?"
+  },
+  {
+   "ref": "XI.9",
+   "reflection": "Confucius wept for Yan Hui without restraint, and his followers said his grief was excessive. Is it? If not for this man, for whom should I grieve? The teacher of measure refuses measure here.",
+   "question": "Is there a grief you have been told was excessive that was not?"
+  },
+  {
+   "ref": "XI.10",
+   "reflection": "The disciples wanted a grand funeral for Hui; the Master said no, since Hui's family was poor. They gave him one anyway. Hui treated me as a father, Confucius says, and I could not treat him as a son; it was not my doing, it was yours. Even in mourning, he wanted the form to match the truth.",
+   "question": "When have others honoured someone in a way that person would not have wanted?"
+  },
+  {
+   "ref": "XI.11",
+   "reflection": "Zilu asks about serving the spirits. Not yet able to serve people, how can you serve spirits? He asks about death. Not yet understanding life, how can you understand death? The answer is not denial but order of priority.",
+   "question": "What question about the end are you asking before you have answered one about the present?"
+  },
+  {
+   "ref": "XI.12",
+   "reflection": "Min Ziqian at his side looked respectful, Zilu bold, Ran You and Zigong frank and easy, and the Master was pleased. Then: as for Zilu, he will not die a natural death. Zilu later died in a coup in Wei. A happy scene ends with a foreboding.",
+   "question": "What do you see in a friend's temperament that worries you?"
+  },
+  {
+   "ref": "XI.13",
+   "reflection": "The people of Lu were rebuilding the Long Treasury. Min Ziqian asks: why not keep the old one? Why must it be rebuilt? Confucius says: this man seldom speaks, but when he does he hits the mark. The rebuilding may have been a show of power by the families.",
+   "question": "What are you about to replace that could simply be kept?"
+  },
+  {
+   "ref": "XI.14",
+   "reflection": "Zilu's playing of the zither was too martial for the Master's door, and when he said so, the other disciples stopped respecting Zilu. Confucius corrects them: Zilu has ascended the hall, though not yet entered the inner room. A rebuke is not a dismissal.",
+   "question": "When did a criticism of someone make others think less of them than it should have?"
+  },
+  {
+   "ref": "XI.15",
+   "reflection": "Zigong asks who is better, Zizhang or Zixia. Zizhang goes too far, Zixia not far enough. Then Zizhang is better? Going too far is as bad as falling short. The doctrine of the mean in one sentence.",
+   "question": "Where are you going too far, believing it is better than falling short?"
+  },
+  {
+   "ref": "XI.16",
+   "reflection": "The Ji family was richer than the Duke of Zhou had been, and Ran Qiu still collected taxes to make it richer. He is no follower of mine; you may beat the drums and attack him. The harshest disowning in the book is for helping the powerful take from the people.",
+   "question": "Have you ever helped someone with more than enough take still more?"
+  },
+  {
+   "ref": "XI.17",
+   "reflection": "Chai is simple, Shen is slow, Zizhang is showy, Zilu is coarse. Four disciples, each summed up in a word. Shen is Zengzi, who in other chapters speaks as a master; being called slow did not stop him.",
+   "question": "What one word would a teacher of yours have used for you?"
+  },
+  {
+   "ref": "XI.18",
+   "reflection": "Hui was near the Way and often in want. Zigong did not accept his lot and made money in trade, and his guesses were often right. Confucius sets the poor disciple beside the prosperous one without condemning the second.",
+   "question": "Can one be good at making money and still near the Way?"
+  },
+  {
+   "ref": "XI.19",
+   "reflection": "Zizhang asks about the good man, shan ren. He does not follow in others' tracks, but he does not enter the inner room either. Natural goodness without learning goes some way, not all the way.",
+   "question": "How far can goodness without study take a person?"
+  },
+  {
+   "ref": "XI.20",
+   "reflection": "If we approve of someone because their talk is earnest, is that a junzi, or someone who only looks serious? The chapter warns against judging character by tone.",
+   "question": "Whose earnest manner have you trusted too quickly?"
+  },
+  {
+   "ref": "XI.21",
+   "reflection": "Zilu asks whether to act at once on what he hears; he is told to consult his father and elder brothers first. Ran Qiu asks the same and is told to act at once. Gongxi Chi is puzzled. Ran Qiu holds back, so I urged him on; Zilu has the energy of two, so I held him back. The book's clearest example of teaching fitted to the student.",
+   "question": "Which advice do you need today: to act now, or to wait and ask?"
+  },
+  {
+   "ref": "XI.22",
+   "reflection": "In the danger at Kuang, Yan Hui fell behind, and the Master said: I thought you were dead. While you are alive, Hui replied, how would I dare die? Devotion, and a touch of humour, under threat.",
+   "question": "For whom would you stay alive, if you could choose?"
+  },
+  {
+   "ref": "XI.23",
+   "reflection": "Ji Ziran, of the Ji family, asks whether Zilu and Ran Qiu, who serve the Ji, are great ministers. A great minister serves his lord by the Way and resigns when he cannot; these two are ordinary ministers. Then they will do whatever they are told? Not if told to kill a father or a ruler. The answer is a warning to the family itself.",
+   "question": "What would you refuse to do for an employer, whatever the order?"
+  },
+  {
+   "ref": "XI.24",
+   "reflection": "Zilu has the young Zigao made governor of Bi. You are harming someone's son, says Confucius. Zilu argues: there are people to govern, altars to tend; why must one read books first? That is why I dislike clever talkers. Putting someone unready into office harms them as well as the people.",
+   "question": "Have you been put into a role before you were ready, or put someone else there?"
+  },
+  {
+   "ref": "XI.25",
+   "reflection": "Four disciples tell their wishes. Zilu would save a besieged state in three years; Ran Qiu would make a small state prosperous; Gongxi Chi would be a minor assistant at ritual. Zeng Xi lays down his zither and wishes, in late spring, to bathe in the river Yi with a few friends and boys, enjoy the breeze at the rain altars and come home singing. The Master sighs: I am with Dian. It is the book's longest scene, and it ends with a picture of contentment.",
+   "question": "What would your wish be, if asked in the same circle?",
+   "exercise": "Spend a few minutes today outside, simply enjoying the air, as Zeng Xi wished to."
+  },
+  {
+   "ref": "XII.1",
+   "reflection": "Yan Hui asks about ren. To overcome oneself and return to ritual is ren; if for one day one could do this, the world would turn to ren. It comes from oneself, not from others. The steps: do not look, listen, speak or move against ritual. Hui says he will try, slow as he is. This is perhaps the most discussed definition of ren in the book.",
+   "question": "Which of the four, looking, listening, speaking or moving, most often leads you astray?",
+   "exercise": "For one day, notice each time you are about to speak against what you think right, and pause."
+  },
+  {
+   "ref": "XII.2",
+   "reflection": "To Zhonggong: when you go out, treat everyone as if receiving an important guest; employ people as if performing a great sacrifice; do not impose on others what you would not wish for yourself. Then there will be no resentment in the state or in the family. The rule of shu appears here without the word.",
+   "question": "Whom could you treat today as if they were a great guest?"
+  },
+  {
+   "ref": "XII.3",
+   "reflection": "Sima Niu, said to be talkative, asks about ren: the humane are slow to speak. Is that all? When doing is hard, can speaking be easy? The answer fits the asker, as so often.",
+   "question": "What do you talk about easily that is hard to do?"
+  },
+  {
+   "ref": "XII.4",
+   "reflection": "Sima Niu asks about the junzi: he has no worry and no fear. Is that all? If you look within and find nothing to be ashamed of, what is there to worry about or fear? Freedom from anxiety follows from a clear conscience.",
+   "question": "What worry of yours would disappear if your conscience were clear about it?"
+  },
+  {
+   "ref": "XII.5",
+   "reflection": "Sima Niu grieves that everyone has brothers but he. His brother Huan Tui was the man who tried to kill Confucius. Zixia consoles him: life and death are fated, wealth and rank lie with Heaven; if the junzi is respectful and courteous, all within the four seas are his brothers. Kinship is widened by conduct.",
+   "question": "Who has become a brother or sister to you, though not by birth?"
+  },
+  {
+   "ref": "XII.6",
+   "reflection": "Zizhang asks about clear-sightedness. One whom slander that soaks in slowly and accusations that sting like a wound cannot move may be called clear-sighted, and far-seeing. The two dangers are the slow and the sudden.",
+   "question": "Which reaches you more easily, slow gossip or a sudden accusation?"
+  },
+  {
+   "ref": "XII.7",
+   "reflection": "Government needs enough food, enough arms and the trust of the people. If one must go? Arms. If another? Food: death has always been with us, but without trust a state cannot stand. Good faith is placed above survival itself.",
+   "question": "In a group you belong to, what would be lost if trust failed, even with everything else in place?"
+  },
+  {
+   "ref": "XII.8",
+   "reflection": "Ji Zicheng says the junzi needs only substance; why culture? Zigong answers: a team of horses cannot overtake the tongue. Culture is as important as substance; a tiger's hide with the hair removed is like a dog's. The pattern is part of what the thing is.",
+   "question": "What in you is only visible through its form?"
+  },
+  {
+   "ref": "XII.9",
+   "reflection": "Duke Ai complains of a bad year and not enough revenue. Youzi suggests taxing a tenth. I take two tenths and it is not enough. If the people have enough, how can the ruler lack? If they lack, how can he have enough? The ruler's welfare depends on the people's.",
+   "question": "Where would taking less produce more in the end?"
+  },
+  {
+   "ref": "XII.10",
+   "reflection": "Exalt virtue by putting loyalty and good faith first and moving toward what is right. Confusion is to wish someone to live when you love them and to die when you hate them, both at once. The last line, a stray quotation from an ode, is out of place and probably belongs elsewhere.",
+   "question": "Is there someone toward whom your feelings swing from one extreme to the other?"
+  },
+  {
+   "ref": "XII.11",
+   "reflection": "Duke Jing of Qi asks about government. Let the ruler be a ruler, the minister a minister, the father a father, the son a son. The Duke agrees: otherwise, even with grain, could I eat it? Each role must live up to its name. It is setting names right, zhengming, in four pairs.",
+   "question": "Which of your roles do you live up to least?"
+  },
+  {
+   "ref": "XII.12",
+   "reflection": "Zilu could settle a dispute with half a word; he never slept on a promise. Decisiveness and reliability, the virtues of the impulsive disciple.",
+   "question": "What promise have you been sleeping on?"
+  },
+  {
+   "ref": "XII.13",
+   "reflection": "In hearing lawsuits I am like anyone else; what is needed is that there be no lawsuits. Good government prevents disputes rather than judging them well.",
+   "question": "What dispute could you prevent rather than win?"
+  },
+  {
+   "ref": "XII.14",
+   "reflection": "Zizhang asks about government: keep at it without tiring, and carry it out with loyalty. Persistence and devotion, nothing more elaborate.",
+   "question": "What responsibility have you grown tired of?"
+  },
+  {
+   "ref": "XII.15",
+   "reflection": "VI.25 returns without the word junzi: study widely in culture, draw it together with ritual, and one will not stray. The repetition shows how the book was gathered from overlapping sources.",
+   "question": "What draws your learning together?"
+  },
+  {
+   "ref": "XII.16",
+   "reflection": "The junzi helps others complete what is good in them and not what is bad; the small man does the opposite. Encouragement can point both ways.",
+   "question": "Whose good qualities could you help complete?"
+  },
+  {
+   "ref": "XII.17",
+   "reflection": "Ji Kangzi asks about government. To govern, zheng, is to correct, zheng, a pun in Chinese. If you lead by being correct, who will dare not to be? The ruler is again sent back to himself.",
+   "question": "What would you need to correct in yourself first?"
+  },
+  {
+   "ref": "XII.18",
+   "reflection": "Ji Kangzi worries about thieves. If you yourself did not desire, they would not steal even if you rewarded them. The Ji family had taken power and wealth from the ducal house. The answer is pointed.",
+   "question": "What disorder around you mirrors a desire of your own?"
+  },
+  {
+   "ref": "XII.19",
+   "reflection": "Ji Kangzi asks about killing the bad to help the good. Why kill? Desire the good and the people will be good. The virtue of the junzi is wind, that of the small man grass; when the wind blows, the grass bends. The image rejects violence as a tool of government.",
+   "question": "Over whom are you the wind, and which way are you blowing?"
+  },
+  {
+   "ref": "XII.20",
+   "reflection": "Zizhang wants to be distinguished, which he defines as being known everywhere. That is notoriety, not distinction. The distinguished person is straight, loves what is right, weighs others' words and faces and puts himself below them. The notorious person puts on the look of ren and acts against it, without a doubt about himself.",
+   "question": "Do you want to be known, or to be worth knowing?"
+  },
+  {
+   "ref": "XII.21",
+   "reflection": "Walking with the Master among the rain altars, Fan Chi asks how to exalt virtue, correct hidden faults and resolve confusion. Good question! Put the work first and the reward after; attack your own faults, not others'; and in a moment's anger to forget yourself and your parents, is that not confusion?",
+   "question": "When did a moment's anger make you forget what mattered more?"
+  },
+  {
+   "ref": "XII.22",
+   "reflection": "Fan Chi asks about ren: love people. About knowledge: know people. He does not understand, and Confucius adds: raise the straight above the crooked and the crooked will be straightened. Zixia later explains with the example of the sage kings, who raised one good minister and wrongdoers vanished. Love and knowledge are both turned outward, toward others.",
+   "question": "Whom do you know well enough to judge rightly?"
+  },
+  {
+   "ref": "XII.23",
+   "reflection": "Zigong asks about friends. Advise them faithfully and guide them well; if that fails, stop, and do not shame yourself. Friendship has its own measure of correction, as IV.26 also said.",
+   "question": "With which friend should you stop advising?"
+  },
+  {
+   "ref": "XII.24",
+   "reflection": "Master Zeng: the junzi gathers friends through culture and through friends supports his ren. Friendship is both formed by shared learning and a help to goodness.",
+   "question": "Which of your friendships began in something you studied or loved together?"
+  },
+  {
+   "ref": "XIII.1",
+   "reflection": "Zilu asks about government: lead by example and work for the people. More? Do not tire. Book XIII, the book of government, begins with the shortest advice.",
+   "question": "Where could you go first, before asking others?"
+  },
+  {
+   "ref": "XIII.2",
+   "reflection": "Zhonggong, steward to the Ji, asks about government: put officials to work, pardon small faults, raise the worthy. How can I know them all? Raise those you know; will others neglect those you do not? Good choices draw more good people in.",
+   "question": "Whose small fault could you pardon this week?"
+  },
+  {
+   "ref": "XIII.3",
+   "reflection": "Zilu asks what the Master would do first in Wei. Set names right. Zilu thinks it beside the point. If names are not right, speech does not accord with things; then affairs fail, ritual and music decline, punishments miss their mark, and the people do not know where to put hand or foot. The junzi's words must be things he can act on. In Wei at that moment, a son and a father were fighting over the throne, so the names were literally in dispute.",
+   "question": "What word in your life no longer matches what it names?",
+   "exercise": "Find one word you used today carelessly, and say plainly what you meant."
+  },
+  {
+   "ref": "XIII.4",
+   "reflection": "Fan Chi asks to learn farming and gardening. Ask an old farmer, an old gardener. When he leaves, Confucius calls him a small man: if those above love ritual, rightness and good faith, people will come from all sides with their children on their backs; what need of farming? The chapter shows Confucius's view of his role and the limits of his world, which divided those who govern from those who farm.",
+   "question": "What knowledge do you dismiss as beneath your role?"
+  },
+  {
+   "ref": "XIII.5",
+   "reflection": "Someone who can recite the three hundred Odes but cannot carry out a government task or answer on his own as an envoy: what use is all that learning? Knowledge must be usable.",
+   "question": "What do you know by heart that you have never used?"
+  },
+  {
+   "ref": "XIII.6",
+   "reflection": "If the ruler is upright, things get done without orders; if he is not, orders are not followed. The force of example, once more, against the force of command.",
+   "question": "What do you order that you do not do?"
+  },
+  {
+   "ref": "XIII.7",
+   "reflection": "The governments of Lu and Wei are brothers. Their founders were brothers, and now their disorder is alike. A one-line political joke.",
+   "question": "Which two institutions you know have declined in the same way?"
+  },
+  {
+   "ref": "XIII.8",
+   "reflection": "Jing, a prince of Wei, lived well within his means: with a little he said it was quite enough; with more, quite complete; when rich, quite splendid. Contentment at each stage, rather than wanting the next.",
+   "question": "At what stage would you say \"this is enough\"?"
+  },
+  {
+   "ref": "XIII.9",
+   "reflection": "Arriving in Wei, Confucius exclaims at the crowds. What more? Make them prosperous. And then? Teach them. The order is plain: people first, livelihood second, education third.",
+   "question": "In a place you care about, which of the three comes first now?"
+  },
+  {
+   "ref": "XIII.10",
+   "reflection": "If a ruler would employ me, in a year things would be acceptable and in three years done. A rare boast, from a man long out of office.",
+   "question": "What could you set right in a year, if you were given the means?"
+  },
+  {
+   "ref": "XIII.11",
+   "reflection": "If good men governed a state for a hundred years, they could overcome cruelty and do away with killing. Confucius quotes the saying and agrees. Reform is slow, measured in generations.",
+   "question": "What change do you hope for that would take longer than your life?"
+  },
+  {
+   "ref": "XIII.12",
+   "reflection": "Even if a true king arose, it would take a generation for ren to prevail. Another measure of patience.",
+   "question": "What good thing are you expecting to happen too quickly?"
+  },
+  {
+   "ref": "XIII.13",
+   "reflection": "If one corrects oneself, what difficulty is there in governing? If one cannot correct oneself, how correct others? The same thought as XII.17, said to everyone who would govern.",
+   "question": "Whom are you trying to correct whose fault you share?"
+  },
+  {
+   "ref": "XIII.14",
+   "reflection": "Ran Qiu comes late from court and says there was government business. Confucius: you mean the family's affairs. If it were government business, I would have heard of it, though I am not in office. He refuses to call the Ji family's private council by the name of government.",
+   "question": "What private business is passed off as public around you?"
+  },
+  {
+   "ref": "XIII.15",
+   "reflection": "Duke Ding asks if one saying can make a state flourish. Not quite, but: it is hard to be a ruler. If a ruler knows that, it is nearly so. And one that can ruin it? The saying \"my only joy in ruling is that no one contradicts me\". If his words are good, fine; if not, and no one objects, that is nearly ruin.",
+   "question": "Who is allowed to contradict you?"
+  },
+  {
+   "ref": "XIII.16",
+   "reflection": "The Duke of She asks about government: make those near happy, and those far will come. Good government is visible from outside.",
+   "question": "What would make those near you glad?"
+  },
+  {
+   "ref": "XIII.17",
+   "reflection": "Zixia, governor of Jufu, asks about government. Do not seek speed; do not look to small gains. Haste prevents thoroughness, small gains prevent great things.",
+   "question": "What are you rushing that needs to be done thoroughly?"
+  },
+  {
+   "ref": "XIII.18",
+   "reflection": "The Duke of She boasts that in his land the upright son testifies when his father steals a sheep. Confucius answers that where he comes from, the father covers for the son and the son for the father, and uprightness lies in that. It is one of the hardest chapters for a modern reader, because it puts family loyalty above public justice. It states the view of its time plainly, and the book does not hide it.",
+   "question": "Where do you draw the line between loyalty to your own and honesty to everyone?"
+  },
+  {
+   "ref": "XIII.19",
+   "reflection": "Fan Chi asks about ren. Be respectful at home, serious in work, loyal with others. Even among the barbarians, these may not be set aside. Goodness travels.",
+   "question": "Which of the three would you keep in a place where no one expected it?"
+  },
+  {
+   "ref": "XIII.20",
+   "reflection": "Zigong asks what makes a shi, an officer or scholar. Shame in one's own conduct and not disgracing one's ruler abroad. Next below: filial at home, brotherly in the village. Below that: true to one's word and resolute in action, stubborn little people, still the next grade. And today's officials? Mere measures of grain, not worth counting.",
+   "question": "In your own scale of people, what comes first?"
+  },
+  {
+   "ref": "XIII.21",
+   "reflection": "If I cannot find people who walk the middle way, I will take the ardent and the cautious. The ardent go forward; the cautious refrain from some things. Both extremes are preferred to having no drive at all.",
+   "question": "Are you more ardent or more cautious, and how does it serve you?"
+  },
+  {
+   "ref": "XIII.22",
+   "reflection": "A southern saying: a person without constancy cannot even be a shaman or a healer. Good! Then a line: one who is not constant in virtue will meet disgrace, and Confucius adds that this comes simply from not attending to the oracle. The chapter does not name its source, but the line is the Book of Changes, hexagram 32, Constancy: the one place the Analects quote it.",
+   "question": "In what part of your life are you least constant?"
+  },
+  {
+   "ref": "XIII.23",
+   "reflection": "The junzi seeks harmony but not sameness; the small man seeks sameness but not harmony. Legge's \"affable, not adulatory\" is one reading. The more common one is about agreement: one can live in harmony with others without echoing them.",
+   "question": "Where do you agree just to keep the peace?"
+  },
+  {
+   "ref": "XIII.24",
+   "reflection": "Someone liked by everyone in the village: not yet enough. Disliked by everyone: not enough either. Better that the good in the village like him and the bad dislike him. Popularity is no test.",
+   "question": "Whose dislike of you would you take as a compliment?"
+  },
+  {
+   "ref": "XIII.25",
+   "reflection": "The junzi is easy to serve and hard to please: you cannot please him by wrong means, and he uses people according to their capacities. The small man is hard to serve and easy to please, and expects everything of everyone.",
+   "question": "Are you easy to serve, for those who work with you?"
+  },
+  {
+   "ref": "XIII.26",
+   "reflection": "The junzi is at ease but not arrogant; the small man is arrogant but not at ease. Pride, the chapter suggests, is a form of unease.",
+   "question": "When were you proud because you were not at ease?"
+  },
+  {
+   "ref": "XIII.27",
+   "reflection": "Firm, resolute, simple and slow of speech: these are close to ren. Four plain qualities, none of them clever.",
+   "question": "Which of these four do you have?"
+  },
+  {
+   "ref": "XIII.28",
+   "reflection": "Zilu asks what makes a shi. Earnest in urging and kind in manner: earnest among friends, kind among brothers. The bold disciple is told to soften at home.",
+   "question": "Do you treat friends and family with the same tone, and should you?"
+  },
+  {
+   "ref": "XIII.29",
+   "reflection": "When a good man has taught the people for seven years, they can be sent to war. Even soldiers must first be taught.",
+   "question": "What would you need years of preparation for before you could face it?"
+  },
+  {
+   "ref": "XIII.30",
+   "reflection": "To send untaught people to war is to throw them away. The book of government ends with a sentence against wasting lives.",
+   "question": "Where are people being sent unprepared into something hard?"
+  },
+  {
+   "ref": "XIV.1",
+   "reflection": "Yuan Xian, the disciple Legge calls Hsien, asks what is shameful. To draw a salary when the state has the Way, and to draw one when it has lost the Way. Taking pay from a bad government, or taking it from a good one without contributing, are both shameful.",
+   "question": "When would taking your pay be shameful?"
+  },
+  {
+   "ref": "XIV.2",
+   "reflection": "Yuan Xian asks whether someone who never gives way to the urge to win, to boast, to resent or to covet could be called ren. That is difficult, says the Master; whether it is ren, I do not know. Restraining bad impulses is not yet the positive good.",
+   "question": "Which of the four urges have you restrained this week, and what did you do instead?"
+  },
+  {
+   "ref": "XIV.3",
+   "reflection": "A shi who cherishes his comfort is not worth calling a shi. The scholar's calling is not compatible with putting ease first.",
+   "question": "What comfort do you protect at the expense of your calling?"
+  },
+  {
+   "ref": "XIV.4",
+   "reflection": "When the state has the Way, speak boldly and act boldly; when it lacks the Way, act boldly but speak with caution. Integrity in conduct does not change; candour in words is adjusted to danger.",
+   "question": "When have you had to be careful with words while keeping your conduct unchanged?"
+  },
+  {
+   "ref": "XIV.5",
+   "reflection": "The virtuous are sure to speak well, but those who speak well are not necessarily virtuous. The humane are sure to be brave, but the brave are not necessarily humane. The good quality implies the lesser one, not the other way round.",
+   "question": "Whose fine words have you mistaken for virtue?"
+  },
+  {
+   "ref": "XIV.6",
+   "reflection": "Nangong Kuo observes that Yi the archer and Ao the strongman both died violent deaths, while Yu and Ji, who worked the land, came to rule the world. Confucius says nothing, but when Kuo leaves he praises him as a junzi who values virtue. Force ends badly; work and goodness endure.",
+   "question": "What has endured in your life, force or patient work?"
+  },
+  {
+   "ref": "XIV.7",
+   "reflection": "There have been junzi who were not ren, alas, but never a small man who was. The junzi is not guaranteed goodness; the small man is excluded from it.",
+   "question": "In what way could you be a good person and still fall short of ren?"
+  },
+  {
+   "ref": "XIV.8",
+   "reflection": "Can you love someone without making demands of them? Can you be loyal to someone without instructing them? Love and loyalty both include asking more of the one loved.",
+   "question": "Whom do you love enough to ask more of them?"
+  },
+  {
+   "ref": "XIV.9",
+   "reflection": "In Zheng, a state document was drafted by Pi Chen, examined by Shi Shu, polished by Ziyu and finished by Zichan. Four officials, four stages, one text. Good government is careful work done together.",
+   "question": "Who checks your work before it goes out?"
+  },
+  {
+   "ref": "XIV.10",
+   "reflection": "Zichan: a kind man. Zixi: that man, that man, an expression of dismissal. Guan Zhong: he took three hundred households from the Bo family, and their head, living on coarse food, never complained to the end of his life. Even those Guan Zhong took from accepted his judgement as just.",
+   "question": "Whose judgement against you could you accept without complaint?"
+  },
+  {
+   "ref": "XIV.11",
+   "reflection": "To be poor without resentment is hard; to be rich without arrogance is easy. The harder virtue belongs to the one with less.",
+   "question": "What lack do you carry with some resentment?"
+  },
+  {
+   "ref": "XIV.12",
+   "reflection": "Meng Gongchuo would make an excellent steward in the great families of Zhao or Wei, but not a minister in the small states of Teng or Xue. A good man in one role may be wrong for a smaller and harder one.",
+   "question": "What role suits you, and which would not?"
+  },
+  {
+   "ref": "XIV.13",
+   "reflection": "Zilu asks about the complete person. Combine the knowledge of one, the freedom from desire of another, the courage of a third, the skill of a fourth, and refine them with ritual and music. Then the Master lowers the bar: nowadays, one who thinks of rightness when he sees profit, offers his life in danger and keeps an old promise is complete enough.",
+   "question": "Which of the three present-day marks do you meet?"
+  },
+  {
+   "ref": "XIV.14",
+   "reflection": "Is it true that Gongshu Wenzi does not speak, laugh or take? Exaggeration, says his servant: he speaks when it is time, so people do not tire of his speaking; he laughs when there is joy; he takes when it is right. So it is, says Confucius; but is it really so? A doubt remains.",
+   "question": "Do you speak, laugh and take at the right time?"
+  },
+  {
+   "ref": "XIV.15",
+   "reflection": "Zang Wuzhong, holding the fortified town of Fang, asked the duke to name his heir as successor. People say he did not coerce his ruler; I do not believe it. Asking while holding a fortress is a threat in polite form.",
+   "question": "When has a request of yours been a demand in disguise?"
+  },
+  {
+   "ref": "XIV.16",
+   "reflection": "Duke Wen of Jin was crafty and not upright; Duke Huan of Qi was upright and not crafty. Two great hegemons, judged by one quality.",
+   "question": "Would you rather work for a crafty leader or an upright one, and why?"
+  },
+  {
+   "ref": "XIV.17",
+   "reflection": "Zilu objects: when Duke Huan killed his brother, the minister Shao Hu died with him, but Guan Zhong did not; is he not lacking in ren? Duke Huan gathered the lords together without war chariots, thanks to Guan Zhong: such was his ren, such was his ren. Achievement for the many outweighs a gesture of loyalty.",
+   "question": "When has doing good for many mattered more than a gesture of loyalty?"
+  },
+  {
+   "ref": "XIV.18",
+   "reflection": "Zigong makes the same objection, adding that Guan Zhong even served the man who killed his lord. Confucius: he made his lord leader of the states and set the world in order; the people still enjoy his gifts. Without him we would wear our hair loose and button our robes on the left, like barbarians. Would you hold him to the small faith of ordinary people who kill themselves in a ditch, unknown?",
+   "question": "Whose larger good have you judged by a smaller rule?"
+  },
+  {
+   "ref": "XIV.19",
+   "reflection": "Gongshu Wenzi recommended his own steward, Zhuan, so that he rose to be a minister beside him. Hearing it, Confucius says Wenzi deserved the posthumous name Wen, \"cultured\". Raising a subordinate to one's own level is a mark of culture.",
+   "question": "Whom could you help rise to stand beside you?"
+  },
+  {
+   "ref": "XIV.20",
+   "reflection": "Confucius speaks of Duke Ling of Wei's lack of the Way, and Ji Kangzi asks why he does not lose his state. He has Zhongshu Yu for guests, Tuo for the temple, Wangsun Jia for the army: with such men, how could he lose it? Good officials can hold up a bad ruler.",
+   "question": "Who holds up an institution you know, despite its head?"
+  },
+  {
+   "ref": "XIV.21",
+   "reflection": "Someone who speaks without shame will find it hard to make good on their words. Big talk is a sign of small follow-through.",
+   "question": "What have you said boldly that is now hard to make good?"
+  },
+  {
+   "ref": "XIV.22",
+   "reflection": "When Chen Cheng killed the ruler of Qi, Confucius, long retired, bathed and went to court to ask Duke Ai to punish him. The duke sent him to the three families, who refused. Twice Confucius says: since I follow behind the officials, I did not dare not to report it. He does his duty knowing it will fail.",
+   "question": "What duty do you still perform when you know it will not change the outcome?"
+  },
+  {
+   "ref": "XIV.23",
+   "reflection": "Zilu asks how to serve a ruler. Do not deceive him, and stand up to him. Loyalty includes open disagreement.",
+   "question": "Whom do you serve that you should stand up to?"
+  },
+  {
+   "ref": "XIV.24",
+   "reflection": "The junzi goes upward; the small man goes downward. Legge reads it as progress. Others read it as understanding: the junzi understands what is high, the small man what is low.",
+   "question": "In which direction did your attention go today?"
+  },
+  {
+   "ref": "XIV.25",
+   "reflection": "In ancient times people learned for their own sake; now they learn for others' approval. Learning for oneself is not selfishness here: it means learning to become better, not to be seen.",
+   "question": "What are you learning only so that others will see it?"
+  },
+  {
+   "ref": "XIV.26",
+   "reflection": "Qu Boyu, an official of Wei, sends a messenger. What is your master doing? He wishes to reduce his faults and has not yet managed it. When the messenger leaves, the Master says twice: what a messenger! A modest answer that honours both master and servant.",
+   "question": "How would someone who works with you describe what you are trying to do?"
+  },
+  {
+   "ref": "XIV.27",
+   "reflection": "VIII.14 returns word for word. The compilers kept it twice, perhaps because it reached them twice, and the next chapter pairs it with Zengzi's version.",
+   "question": "Since you first read it, has anything outside your responsibility occupied you?"
+  },
+  {
+   "ref": "XIV.28",
+   "reflection": "Master Zeng: the junzi does not let his thoughts go beyond his position. The thought is quoted from the Book of Changes, hexagram 52, Keeping Still. It is about attention as much as about rank: keep your mind on what is yours to do.",
+   "question": "Where did your thoughts wander today beyond what was yours to do?"
+  },
+  {
+   "ref": "XIV.29",
+   "reflection": "The junzi is ashamed when his words exceed his deeds. Legge reads it as modest in speech and exceeding in action. The theme of the book, once more.",
+   "question": "Where do your words exceed your deeds?"
+  },
+  {
+   "ref": "XIV.30",
+   "reflection": "The Way of the junzi has three parts, and I have none: the humane are not anxious, the wise not perplexed, the brave not afraid. Zigong says: Master, you are describing yourself. The teacher's modesty and the student's reply sit side by side.",
+   "question": "Which of the three do others see in you that you do not?"
+  },
+  {
+   "ref": "XIV.31",
+   "reflection": "Zigong liked to compare people. Ci must be very worthy; I have no time for that. A dry rebuke: judging others is a pastime of those who have finished with themselves.",
+   "question": "Whom did you compare today, and what did it do for you?"
+  },
+  {
+   "ref": "XIV.32",
+   "reflection": "Not troubled that others do not know me, troubled by my own inability. The worry of I.16 and IV.14 again, turned toward ability.",
+   "question": "What ability would you most like to improve?"
+  },
+  {
+   "ref": "XIV.33",
+   "reflection": "Not to anticipate deceit or suspect bad faith, and yet to be the first to notice it: is that not worthiness? Trust without naivety.",
+   "question": "Are you more often too suspicious, or too slow to see?"
+  },
+  {
+   "ref": "XIV.34",
+   "reflection": "Weisheng Mu, a hermit, asks why Confucius keeps hurrying from place to place: is he trying to be a clever talker? I would not dare; I hate stubbornness. He means the stubbornness of those who give up on the world.",
+   "question": "Is your persistence in something a virtue or obstinacy?"
+  },
+  {
+   "ref": "XIV.35",
+   "reflection": "A fine horse is praised not for its strength but for its character. Legge keeps the word ji for the famous horse. Character matters even in a horse.",
+   "question": "What do you praise in others: their strength, or their character?"
+  },
+  {
+   "ref": "XIV.36",
+   "reflection": "Someone asks about repaying injury with kindness, a saying also found in the Tao Te Ching. Then with what will you repay kindness? Repay injury with uprightness, kindness with kindness. Confucius declines both revenge and unearned forgiveness, and asks for fairness.",
+   "question": "Is there an injury you have repaid with more or less than justice?"
+  },
+  {
+   "ref": "XIV.37",
+   "reflection": "No one knows me, says the Master. Zigong asks why. I do not complain against Heaven or blame people; I study things below and reach what is above. The one who knows me is Heaven. A lament without bitterness.",
+   "question": "When you feel unknown, whom do you blame?"
+  },
+  {
+   "ref": "XIV.38",
+   "reflection": "Gongbo Liao slanders Zilu to the Ji family, and an official offers to have him killed. If the Way prevails, it is fate; if it fails, it is fate; what can Gongbo Liao do against fate? Confucius refuses violence on his own behalf.",
+   "question": "What would you refuse to do even to defend yourself?"
+  },
+  {
+   "ref": "XIV.39",
+   "reflection": "The worthy withdraw from the world; next, from a particular place; next, from a hostile look; next, from hostile words. Four degrees of retreat. The book takes the hermits seriously even when it argues with them.",
+   "question": "From what have you withdrawn, and was it the right degree?"
+  },
+  {
+   "ref": "XIV.40",
+   "reflection": "Those who did so were seven. The chapter is a fragment; no one knows for sure which seven are meant. It shows the book as compiled from notes, some of which have lost their context.",
+   "question": "What saying do you know whose context has been lost?"
+  },
+  {
+   "ref": "XIV.41",
+   "reflection": "A gatekeeper at Shimen asks Zilu where he comes from. From Kong. Is that the one who knows it cannot be done, and still does it? An outsider's sentence that became one of the best descriptions of Confucius.",
+   "question": "What do you keep doing though you know it may not succeed?"
+  },
+  {
+   "ref": "XIV.42",
+   "reflection": "Confucius plays the stone chimes in Wei, and a man with a basket passes and hears a stubborn heart: if no one knows you, stop; quoting an ode, deep water you wade through, shallow you lift your skirts. How determined he is, says the Master; that would not be hard. The hermit's withdrawal is easy; staying engaged is hard.",
+   "question": "When is giving up the easy choice that looks wise?"
+  },
+  {
+   "ref": "XIV.43",
+   "reflection": "Zizhang asks about a king of old who did not speak for three years of mourning. Why only him? The ancients all did so: the ministers took orders from the chief minister for three years. Mourning as an institution, with the state carried on by others.",
+   "question": "Who carries things for you when you cannot?"
+  },
+  {
+   "ref": "XIV.44",
+   "reflection": "When those above love ritual, the people are easy to employ. The order of a state, once more, begins at the top.",
+   "question": "Where are you above someone, and what do they learn from your example?"
+  },
+  {
+   "ref": "XIV.45",
+   "reflection": "Zilu asks about the junzi: cultivate yourself with respect. Is that all? Cultivate yourself to bring peace to others. Is that all? Cultivate yourself to bring peace to all the people; even Yao and Shun found that hard. The answer widens three times, and each time it begins with the self.",
+   "question": "Whom does your own self-cultivation bring peace to?"
+  },
+  {
+   "ref": "XIV.46",
+   "reflection": "Yuan Rang, an old acquaintance, waits for the Master squatting rudely. Young and not respectful, grown and not accomplishing anything, old and not dying: a thief. And he taps him on the shin with his staff. The book keeps a moment of impatience, and perhaps of old familiarity.",
+   "question": "With whom are you allowed to be impatient, because you go back a long way?"
+  },
+  {
+   "ref": "XIV.47",
+   "reflection": "A boy from Que carries messages for the Master. Is he making progress? I see him take the seat of an adult and walk beside his elders. He is not seeking progress; he wants to be grown quickly. Hurry and progress are not the same.",
+   "question": "What are you hurrying to be, instead of becoming?"
+  },
+  {
+   "ref": "XV.1",
+   "reflection": "Duke Ling of Wei asks about military formations; Confucius knows sacrificial vessels, not armies, and leaves the next day. In Chen the food runs out and his followers fall ill. Zilu asks resentfully whether the junzi too must suffer want. The junzi may be in want and stays firm; the small man in want loses all restraint.",
+   "question": "What do you do when things go badly that you would not do when they go well?"
+  },
+  {
+   "ref": "XV.2",
+   "reflection": "Do you think I am someone who learns much and remembers it? Yes, is that not so? No, I have one thread that runs through it all. The same claim as IV.15, this time to Zigong, and this time without an explanation.",
+   "question": "If you had to name the one thread through what you know, what would it be?"
+  },
+  {
+   "ref": "XV.3",
+   "reflection": "Zilu, those who understand virtue are few. Said to the disciple most likely to act without understanding. Another short rebuke, perhaps in the hungry days of XV.1.",
+   "question": "What virtue do you practise without fully understanding it?"
+  },
+  {
+   "ref": "XV.4",
+   "reflection": "If anyone ruled by doing nothing, wuwei, it was Shun. What did he do? He made himself respectful and faced south. The word is the one the Tao Te Ching uses for its central idea. In the Analects it describes rule by virtue, where the right person in the right place is enough.",
+   "question": "Where would less effort and more presence change things?"
+  },
+  {
+   "ref": "XV.5",
+   "reflection": "Zizhang asks how to get on everywhere. Speak with loyalty and good faith, act with seriousness and respect, and you can get on even among barbarians; otherwise not even in your own village. Keep these before you standing, see them on the yoke when you drive. Zizhang wrote it on his sash, and we see a student taking notes.",
+   "question": "What advice would you write on your sleeve?",
+   "exercise": "Write one rule you want to keep today somewhere you will see it, and look at it each time you pass."
+  },
+  {
+   "ref": "XV.6",
+   "reflection": "Shi Yu was straight: like an arrow when the state had the Way, like an arrow when it did not. Qu Boyu was a junzi: he served when the state had the Way, and when it did not, he could roll up his gifts and keep them hidden. Two kinds of integrity, the unbending and the discreet, both praised.",
+   "question": "Are you more like the arrow or like the one who knows when to roll up his gifts?"
+  },
+  {
+   "ref": "XV.7",
+   "reflection": "If someone can be spoken to and you do not, you lose a person. If someone cannot be spoken to and you do, you lose your words. The wise lose neither. Judgement is knowing whom to speak to.",
+   "question": "Whom have you failed to speak to who would have listened?"
+  },
+  {
+   "ref": "XV.8",
+   "reflection": "The resolute and the humane do not seek life at the cost of ren; they may give their lives to complete it. It is the book's starkest statement of what goodness may cost.",
+   "question": "What would you refuse to give up even under great pressure?"
+  },
+  {
+   "ref": "XV.9",
+   "reflection": "Zigong asks how to practise ren. A craftsman who wants to do good work first sharpens his tools. In any state, serve the worthiest officials and befriend the most humane scholars. Good company is the tool of goodness.",
+   "question": "Who are the people who sharpen you?"
+  },
+  {
+   "ref": "XV.10",
+   "reflection": "Yan Hui asks how to govern a state. Use the calendar of the Xia, the carriages of the Shang, the caps of the Zhou, the music of Shun; banish the songs of Zheng and keep away from clever talkers. Confucius chooses the best of each age rather than one tradition entire.",
+   "question": "What would you take from each of the generations before you?"
+  },
+  {
+   "ref": "XV.11",
+   "reflection": "One who does not think far ahead will have troubles close at hand. Foresight prevents the sorrow that comes from nearby.",
+   "question": "What distant thing have you not thought about that may soon come close?"
+  },
+  {
+   "ref": "XV.12",
+   "reflection": "IX.17 returns with a sigh in front of it: it is hopeless. The book repeats some sayings, and the repetitions show which ones the disciples remembered most.",
+   "question": "Has your answer to this changed since you first met it in Book IX?"
+  },
+  {
+   "ref": "XV.13",
+   "reflection": "Zang Wenzhong knew how worthy Liuxia Hui was, and did not raise him to stand beside him at court: he was like a thief of his office. To hold back someone better is a kind of theft.",
+   "question": "Whom have you failed to recommend because they might outshine you?"
+  },
+  {
+   "ref": "XV.14",
+   "reflection": "Demand much of yourself and little of others, and you will keep resentment away. A whole ethics of relationships in one line.",
+   "question": "What did you demand of someone else today that you could have demanded of yourself?"
+  },
+  {
+   "ref": "XV.15",
+   "reflection": "With someone who does not ask \"what shall I do? what shall I do?\", I can do nothing. A student must bring their own question. VII.8 says the same.",
+   "question": "What question are you asking yourself about your own life now?"
+  },
+  {
+   "ref": "XV.16",
+   "reflection": "People who spend a whole day together without a word on what is right, and enjoy petty cleverness: they are a hard case. The chapter describes a kind of company everyone knows.",
+   "question": "What did your last long conversation turn on?"
+  },
+  {
+   "ref": "XV.17",
+   "reflection": "The junzi takes rightness as his substance, carries it out by ritual, expresses it with modesty and completes it with good faith. Four of the twelve words in one sentence: yi, li, humility, xin.",
+   "question": "In something you did well today, which of the four was present?"
+  },
+  {
+   "ref": "XV.18",
+   "reflection": "The junzi is troubled by his lack of ability, not by others' ignorance of him. The fourth time the theme returns, now in the third person.",
+   "question": "What lack in yourself troubles you more than any lack of recognition?"
+  },
+  {
+   "ref": "XV.19",
+   "reflection": "The junzi would hate to leave the world with his name unmentioned. Coming after XV.18, it seems to contradict it. One way to read the pair: he does not seek fame, but he wants his life to deserve remembrance.",
+   "question": "What would you want to be remembered for?"
+  },
+  {
+   "ref": "XV.20",
+   "reflection": "The junzi seeks in himself; the small man seeks in others. Whether the subject is blame, approval or the cause of things, the question is where one looks first.",
+   "question": "Where did you look first, the last time something went wrong?"
+  },
+  {
+   "ref": "XV.21",
+   "reflection": "The junzi is dignified but not contentious, sociable but not partisan. Legge's \"partizan\" is the older spelling. II.14 said almost the same.",
+   "question": "Where do you quarrel to defend your dignity?"
+  },
+  {
+   "ref": "XV.22",
+   "reflection": "The junzi does not raise a man because of his words, nor dismiss words because of the man. Two separate judgements: of a person by their conduct, of a word by its truth.",
+   "question": "Whose good idea did you dismiss because of who said it?"
+  },
+  {
+   "ref": "XV.23",
+   "reflection": "Zigong asks for one word to practise all one's life. Is it not shu, reciprocity? What you do not want for yourself, do not do to others. Legge prints the word in capitals. It is the chapter most often quoted from the Analects, and it is the negative form of the rule, about what not to do.",
+   "question": "What have you done to someone that you would not want done to you?",
+   "exercise": "Before asking anything of anyone today, ask it of yourself first."
+  },
+  {
+   "ref": "XV.24",
+   "reflection": "Whom do I blame or praise beyond what is due? If I praise someone, it is because I have tested them. These people are the ones the three dynasties governed by the straight Way. Praise must be earned, and the ordinary people are capable of goodness.",
+   "question": "Whom have you praised without testing?"
+  },
+  {
+   "ref": "XV.25",
+   "reflection": "In my youth a scribe would leave a gap where he was unsure, and a man with a horse would lend it to others. Now these are gone. Two small virtues, honesty about ignorance and generosity, mourned as lost.",
+   "question": "What small decency have you seen disappear?"
+  },
+  {
+   "ref": "XV.26",
+   "reflection": "Clever words confuse virtue; impatience in small things ruins great plans. Two kinds of loss, one in speech and one in temper.",
+   "question": "What small impatience might ruin something larger?"
+  },
+  {
+   "ref": "XV.27",
+   "reflection": "When everyone hates someone, look into it; when everyone loves someone, look into it. The crowd's verdict is a reason to examine, not to agree.",
+   "question": "Whose reputation have you accepted without looking for yourself?"
+  },
+  {
+   "ref": "XV.28",
+   "reflection": "People can enlarge the Way; the Way does not enlarge people. A tradition lives only in those who practise it. It is a claim about human responsibility.",
+   "question": "What tradition are you enlarging, or letting shrink?"
+  },
+  {
+   "ref": "XV.29",
+   "reflection": "To have a fault and not correct it: that is the real fault. A fault is ordinary; refusing to change is what makes it a fault.",
+   "question": "What fault have you kept, knowing it?"
+  },
+  {
+   "ref": "XV.30",
+   "reflection": "I once spent a whole day without eating and a night without sleeping, to think. It was no use; better to learn. II.15 said both are needed. Here the Master tells of a time he tried thinking alone.",
+   "question": "What have you been thinking over that you should study instead?"
+  },
+  {
+   "ref": "XV.31",
+   "reflection": "The junzi plans for the Way, not for food. Farming can still leave you hungry; learning can still bring a salary. The junzi worries about the Way, not about poverty. Livelihood is not despised, only put second.",
+   "question": "What do you plan for first, your livelihood or your way?"
+  },
+  {
+   "ref": "XV.32",
+   "reflection": "Knowledge gains a position, ren keeps it; dignity earns respect; and without ritual in how the people are moved, it is still not good. Four layers of good government, each needed by the one after.",
+   "question": "In something you lead or manage, which of the four is weakest?"
+  },
+  {
+   "ref": "XV.33",
+   "reflection": "The junzi cannot be known by small tasks but can be given great ones; the small man cannot be given great ones but can be known by small ones. People are fit for different scales.",
+   "question": "What scale of task shows you at your best?"
+  },
+  {
+   "ref": "XV.34",
+   "reflection": "People need ren more than water and fire. I have seen people die from water and fire; I have never seen anyone die from treading the path of ren. The comparison is with the necessities of life.",
+   "question": "What do you treat as a luxury that is really a necessity?"
+  },
+  {
+   "ref": "XV.35",
+   "reflection": "When it comes to ren, do not yield even to your teacher. In everything else, the disciple defers; in goodness, one must not wait for anyone.",
+   "question": "In what good thing have you waited for someone else to go first?"
+  },
+  {
+   "ref": "XV.36",
+   "reflection": "The junzi is firm and correct, but not rigidly faithful to small promises. Legge renders it \"correctly firm, and not firm merely\". Principle is not the same as stubbornness.",
+   "question": "What promise would be wrong to keep?"
+  },
+  {
+   "ref": "XV.37",
+   "reflection": "In serving a ruler, attend to the work respectfully and put the salary last. The same order as VI.20: effort first, reward after.",
+   "question": "Do you think of the pay before the work, or after?"
+  },
+  {
+   "ref": "XV.38",
+   "reflection": "In teaching there are no classes. Legge reads it as no distinction of classes; it can also mean no distinction of kinds. Either way, Confucius opened learning beyond the hereditary nobility, which was new in his time.",
+   "question": "Whom do you assume cannot learn something?"
+  },
+  {
+   "ref": "XV.39",
+   "reflection": "Those whose ways differ cannot plan together. A plain fact about cooperation: shared aims come before shared plans.",
+   "question": "With whom are you trying to plan while walking a different way?"
+  },
+  {
+   "ref": "XV.40",
+   "reflection": "Words should convey the meaning, and that is all. Against ornament for its own sake. Six words in Chinese, which is itself the point.",
+   "question": "What could you say more plainly today?"
+  },
+  {
+   "ref": "XV.41",
+   "reflection": "The music master Mian, who is blind, visits. At the steps the Master says: here are the steps; at the mat: here is the mat; when all are seated: so-and-so is here, so-and-so is there. Zizhang asks if this is the rule for speaking with a music master. Yes, this is the way to help a blind musician. Ritual here is simple kindness made exact.",
+   "question": "Whom could you guide today, step by step, without making them ask?"
+  },
+  {
+   "ref": "XVI.1",
+   "reflection": "The Ji family plans to attack the small dependency of Zhuanyu, and Ran Qiu and Zilu, who serve the Ji, report it. Confucius blames Ran Qiu: if an adviser cannot steady his master, what use is he? When a tiger escapes, whose fault is it? Ran Qiu argues the town is a future threat; the junzi hates those who will not say \"I want it\" and invent reasons instead. A state should worry less about too few people or too little wealth than about unequal shares and unrest. The Ji family's real trouble, he ends, lies within its own walls.",
+   "question": "What have you wanted while explaining that you had other reasons?"
+  },
+  {
+   "ref": "XVI.2",
+   "reflection": "When the world has the Way, ritual, music and war come from the Son of Heaven; when it does not, from the lords, and they seldom last ten generations; from their ministers, five; from the ministers' stewards, three. When the Way prevails, the common people do not debate government. Power taken from above drains away faster the lower it settles.",
+   "question": "Where have you seen authority taken by those it did not belong to, and how long did it last?"
+  },
+  {
+   "ref": "XVI.3",
+   "reflection": "For five generations the revenue has left the ducal house; for four the great officers have held the government; so the descendants of the three Huan families, who seized it, are now in decline themselves. The previous chapter's rule, applied to Lu.",
+   "question": "What gain have you seen undone by the same means it was won?"
+  },
+  {
+   "ref": "XVI.4",
+   "reflection": "Three kinds of friend help: the upright, the trustworthy, the well-informed. Three harm: the flatterer, the one who is all soft compliance, the glib talker. Book XVI likes lists of three, which suggests a different source from the earlier books.",
+   "question": "Which of the six kinds of friend are you to others?"
+  },
+  {
+   "ref": "XVI.5",
+   "reflection": "Helpful pleasures: in the measure of ritual and music, in speaking of others' good, in many worthy friends. Harmful pleasures: in extravagance, in idle wandering, in feasting. What one enjoys shapes who one becomes.",
+   "question": "Which of your pleasures do you hope will shape you?"
+  },
+  {
+   "ref": "XVI.6",
+   "reflection": "With a person of standing, there are three faults: speaking before it is your turn, which is rashness; not speaking when it is, which is concealment; speaking without watching their face, which is blindness. Good conversation is timing and attention.",
+   "question": "Which of the three is your habit?"
+  },
+  {
+   "ref": "XVI.7",
+   "reflection": "In youth, when the blood is unsettled, guard against lust; in maturity, when the blood is strong, guard against quarrelling; in old age, when the blood has weakened, guard against greed. Each age has its own temptation.",
+   "question": "Which of the three belongs to your age now?"
+  },
+  {
+   "ref": "XVI.8",
+   "reflection": "The junzi stands in awe of Heaven's decree, of great men, and of the words of the sages. The small man does not know Heaven's decree, takes liberties with great men and mocks the sages' words. Awe is a form of knowledge here.",
+   "question": "What do you still hold in awe?"
+  },
+  {
+   "ref": "XVI.9",
+   "reflection": "Born knowing, the highest; learning and so knowing, next; learning in difficulty, next; in difficulty and not learning, the lowest. In VII.19 Confucius placed himself in the second rank. The lowest are not the slow, but those who stop trying.",
+   "question": "In what subject are you in the third rank, still learning in difficulty?"
+  },
+  {
+   "ref": "XVI.10",
+   "reflection": "The junzi thinks of nine things: seeing clearly, hearing well, a gentle face, a respectful manner, loyal speech, serious work, asking when in doubt, the consequences when angry, and rightness when there is gain. A checklist for a whole day.",
+   "question": "Which of the nine did you think of least today?",
+   "exercise": "At one moment of anger today, pause and think of the consequences, as the ninth line asks."
+  },
+  {
+   "ref": "XVI.11",
+   "reflection": "Seeing good and reaching for it as if one might miss it, seeing evil and pulling back as from boiling water: I have seen such people and heard such words. Living in retirement to pursue one's aim and practising rightness to reach one's Way: I have heard the words but not seen the people. The second is rarer.",
+   "question": "What ideal have you heard of but never seen lived?"
+  },
+  {
+   "ref": "XVI.12",
+   "reflection": "Duke Jing of Qi had a thousand teams of horses, and on the day he died the people found no virtue to praise. Bo Yi and Shu Qi starved beneath Mount Shouyang, and people praise them still. The chapter seems to have lost a line, the saying it says is illustrated.",
+   "question": "What will people find to praise in you when you are gone?"
+  },
+  {
+   "ref": "XVI.13",
+   "reflection": "Chen Kang asks Confucius's son, Boyu, whether he received special teaching. Only twice, passing his father in the courtyard: have you studied the Odes? If not, you will have nothing to say; have you studied ritual? If not, you will have nothing to stand on. Chen Kang leaves delighted to have learned three things: the Odes, ritual, and that the junzi keeps a distance from his son. The father taught his son as he taught everyone.",
+   "question": "What did your parents teach you in passing that you still remember?"
+  },
+  {
+   "ref": "XVI.14",
+   "reflection": "The ruler calls his wife furen, she calls herself xiaotong, the people call her junfuren and so on. A chapter of terms of address, perhaps from a ritual handbook. It belongs to the book's concern with names matching roles, though it reads as a stray note.",
+   "question": "How many different names do you go by in different places?"
+  },
+  {
+   "ref": "XVII.1",
+   "reflection": "Yang Huo, an upstart who had seized power in Lu, wants to see Confucius, who avoids him. Huo sends a roasted pig, so courtesy requires a visit of thanks; Confucius goes when Huo is out, and meets him on the road. Huo lectures him: can someone who hides his treasure and lets his state go astray be called ren? Or wise, if he loves office and keeps missing chances? The years do not wait. Very well, I will take office. A polite answer that commits him to nothing.",
+   "question": "When have you agreed with someone just to end the conversation?"
+  },
+  {
+   "ref": "XVII.2",
+   "reflection": "By nature people are close to each other; by practice they grow far apart. The only direct statement about human nature in the Analects, and it puts the weight on habit. The later debate about whether nature is good started from lines like this.",
+   "question": "What habit has carried you furthest from where you began?"
+  },
+  {
+   "ref": "XVII.3",
+   "reflection": "Only the wisest and the most foolish do not change. Coming after XVII.2, it limits the claim: practice shapes almost everyone. The extremes are rare.",
+   "question": "Do you believe you can still change in the ways that matter?"
+  },
+  {
+   "ref": "XVII.4",
+   "reflection": "In Wucheng, where Ziyou governs, Confucius hears strings and singing, and smiles: why use an ox-knife to kill a chicken? Ziyou reminds him of his own teaching, that the governed learn the Way and become easy to lead. The Master tells the disciples Ziyou is right; he was only joking. The teacher is caught and admits it.",
+   "question": "When were you caught by your own words, and how did you take it?"
+  },
+  {
+   "ref": "XVII.5",
+   "reflection": "Gongshan Furao, rebelling in Bi, invites Confucius, who is tempted. Zilu objects. Would he invite me for nothing? If someone used me, could I not make an Eastern Zhou? The book records the Master's eagerness to serve, even with dubious patrons.",
+   "question": "What tempting offer have you considered from someone you did not trust?"
+  },
+  {
+   "ref": "XVII.6",
+   "reflection": "Zizhang asks about ren: practise five things everywhere. Respect, and you will not be insulted; generosity, and you will win people; good faith, and you will be trusted; diligence, and you will achieve; kindness, and you will be able to employ others. Each virtue is given its effect.",
+   "question": "Which of the five would change most if you practised it more?"
+  },
+  {
+   "ref": "XVII.7",
+   "reflection": "Bi Xi, rebelling in Zhongmou, invites the Master, and again Zilu objects with the Master's own words: the junzi does not join wrongdoers. True, I said so. But is it not said: what is truly hard can be ground and not worn thin; what is truly white can be dyed and not turn black? Am I a gourd to hang on a shelf and not be eaten? The desire to be used is stronger than the fear of being soiled.",
+   "question": "When has wanting to be useful led you near something doubtful?"
+  },
+  {
+   "ref": "XVII.8",
+   "reflection": "Zilu, have you heard of the six words and their six faults? Love of ren without love of learning becomes foolishness; of knowledge, dissipation; of good faith, harm; of straightness, harshness; of courage, disorder; of firmness, wildness. Every virtue needs learning to stay a virtue.",
+   "question": "Which of your virtues most needs learning to keep it in shape?"
+  },
+  {
+   "ref": "XVII.9",
+   "reflection": "Why do you not study the Odes? They stir, they let you observe, they help you live with others, they let you voice complaint. At home they serve your father, abroad your lord, and they teach the names of birds, beasts, plants and trees. Poetry here is practical education.",
+   "question": "What poem or song has taught you something about living with others?"
+  },
+  {
+   "ref": "XVII.10",
+   "reflection": "Confucius tells his son: have you studied the Zhounan and Shaonan, the first sections of the Odes? Not to study them is like standing with your face to a wall. Without them, one sees nothing ahead.",
+   "question": "What book left you facing a wall when you did not know it?"
+  },
+  {
+   "ref": "XVII.11",
+   "reflection": "Ritual, ritual, they say: is it just jade and silk? Music, music: is it just bells and drums? The gifts and the instruments are the outside of something else.",
+   "question": "What ritual of yours has become only its outward things?"
+  },
+  {
+   "ref": "XVII.12",
+   "reflection": "A stern face over a weak interior is like a small man, a thief who breaks through walls. Pretended strength is a kind of theft, of a reputation not earned.",
+   "question": "Where do you put on a firmness you do not have?"
+  },
+  {
+   "ref": "XVII.13",
+   "reflection": "The village worthy is the thief of virtue. The one who pleases everyone and offends no one passes for good and blocks the real thing. Mencius later explains this saying at length.",
+   "question": "Where are you agreeable when you should be good?"
+  },
+  {
+   "ref": "XVII.14",
+   "reflection": "To pass on on the road what one heard on the road is to throw virtue away. Repeating what one has not made one's own, or spreading hearsay: both are meant.",
+   "question": "What did you repeat today that you had only just heard?"
+  },
+  {
+   "ref": "XVII.15",
+   "reflection": "Petty men cannot serve a lord: before they have it, they worry how to get it; once they have it, they worry about losing it; and fearing to lose it, there is nothing they will not do. Office pursued for itself corrupts at every stage.",
+   "question": "What would you be afraid to lose, and what might that fear make you do?"
+  },
+  {
+   "ref": "XVII.16",
+   "reflection": "People of old had three failings, and even those are gone: the old wildness was free, now it is reckless; the old pride was firm, now it is quarrelsome; the old foolishness was straight, now it is deceitful. Even the faults of the past were more honest.",
+   "question": "Which of your faults is at least honest?"
+  },
+  {
+   "ref": "XVII.17",
+   "reflection": "I.3 returns word for word. The repetition is itself a reminder that the book was gathered from several collections of sayings.",
+   "question": "Have you noticed fine words more since you first read this?"
+  },
+  {
+   "ref": "XVII.18",
+   "reflection": "I hate purple taking the place of vermilion, the music of Zheng confusing the court music, and sharp tongues overturning states and families. Vermilion was a correct colour, purple a mixed one. Each line is about something that resembles the true thing and displaces it.",
+   "question": "What imitation has displaced the real thing in your life?"
+  },
+  {
+   "ref": "XVII.19",
+   "reflection": "I would rather not speak, says the Master. Zigong: then what will we disciples pass on? Does Heaven speak? The four seasons go round, the hundred things are born: does Heaven speak? Teaching without words, by being.",
+   "question": "What have you learned from someone who never explained it?",
+   "exercise": "Spend a few minutes in silence today and notice what goes on without anyone speaking."
+  },
+  {
+   "ref": "XVII.20",
+   "reflection": "Ru Bei asks to see Confucius, who excuses himself as ill; as the messenger leaves, he takes up his zither and sings so that Ru Bei will hear. A refusal made plain without words. The reason is not given.",
+   "question": "How do you refuse someone without saying no?"
+  },
+  {
+   "ref": "XVII.21",
+   "reflection": "Zai Wo argues that a year of mourning is enough; three years would let ritual and music decay. Would you be at ease eating fine rice and wearing brocade after one year? I would. Then do it. When he leaves: Zai Wo is not ren. A child leaves its parents' arms only after three years; did Zai Wo not have three years of his parents' love? The argument from ritual is answered by an argument from feeling. This is one of the chapters a modern reader may find hard; it is here as the text gives it.",
+   "question": "What do you owe to the years someone spent caring for you?"
+  },
+  {
+   "ref": "XVII.22",
+   "reflection": "To eat all day and set the mind on nothing is hard indeed. Are there not games of chance and board games? Even those would be better than doing nothing. An unexpected defence of play, against idleness.",
+   "question": "What would occupy your mind better than idleness today?"
+  },
+  {
+   "ref": "XVII.23",
+   "reflection": "Zilu asks whether the junzi values courage. He values rightness above all. A junzi with courage but no rightness causes disorder; a small man with courage but no rightness becomes a thief. Courage is a tool, rightness the aim.",
+   "question": "When has your courage lacked rightness?"
+  },
+  {
+   "ref": "XVII.24",
+   "reflection": "Zigong asks whether the junzi hates anything. Yes: those who spread others' faults, those below who slander those above, the brave without ritual, the bold who are narrow. And you, Ci? Zigong hates those who take snooping for wisdom, rudeness for courage, exposing secrets for honesty. Even dislike has its discipline.",
+   "question": "What do you dislike, and does the dislike say something good about you?"
+  },
+  {
+   "ref": "XVII.25",
+   "reflection": "Legge renders it: of all people, girls and servants are the most difficult to behave to; familiar, they lose their deference; distant, they resent it. The sentence speaks from inside a household where women and servants were placed below the master, and it says so without apology. The app keeps it in the cycle as the text has it, and the Lore article on hard passages explains why. Some readers take it narrowly, of concubines and household servants; that softens it only a little.",
+   "question": "What does this sentence tell you about the household it describes?"
+  },
+  {
+   "ref": "XVII.26",
+   "reflection": "Someone who is still disliked at forty will stay so to the end. IX.22 set forty as the age by which a person should be heard of. Here it is the age by which character is settled.",
+   "question": "What in you is settled now, for better or worse?"
+  },
+  {
+   "ref": "XVIII.1",
+   "reflection": "Under the last cruel king of the Shang, the Viscount of Wei left, the Viscount of Ji became a slave, and Bigan remonstrated and was killed. Confucius says the Yin had three humane men. Three different responses to a tyrant, all called ren.",
+   "question": "Faced with a wrong you cannot stop, would you leave, endure or speak?"
+  },
+  {
+   "ref": "XVIII.2",
+   "reflection": "Liuxia Hui, a judge, was dismissed three times. Why not leave the state? If I serve men straightly, where would I not be dismissed three times? If I serve them crookedly, why leave my parents' land? Integrity will cost the same everywhere.",
+   "question": "What would your integrity cost you anywhere you went?"
+  },
+  {
+   "ref": "XVIII.3",
+   "reflection": "Duke Jing of Qi debates how to treat Confucius: not as the head of the Ji, but between the Ji and the Meng. Then: I am old, I cannot use him. Confucius leaves. Book XVIII records the departures of his wandering years.",
+   "question": "When have you been offered a place and not a purpose?"
+  },
+  {
+   "ref": "XVIII.4",
+   "reflection": "Qi sends female musicians to Lu; Ji Huanzi accepts them and holds no court for three days. Confucius leaves. Tradition dates his departure from Lu, at about fifty-five, to this episode. The chapter blames the man who stopped governing, not the women who were sent.",
+   "question": "What distraction has made you neglect your work?"
+  },
+  {
+   "ref": "XVIII.5",
+   "reflection": "Jieyu, the madman of Chu, passes singing: phoenix, phoenix, how your virtue has declined; the past cannot be helped, the future can still be saved; stop, stop, those who govern now are in danger. Confucius gets down to speak with him, but he hurries away. The hermits address Confucius as a phoenix in the wrong age.",
+   "question": "Who has warned you to give up, and were they wrong?"
+  },
+  {
+   "ref": "XVIII.6",
+   "reflection": "Two recluses are ploughing; Zilu asks one where the ford is. Is your master Kong Qiu? Then he knows the ford. The other: the whole world is a flood; who can change it? Better follow men who leave the world than one who leaves particular men. Confucius sighs: I cannot live with birds and beasts; if not with people, with whom? If the world had the Way, I would not try to change it. The most direct answer to the hermits in the book.",
+   "question": "Whom do you stay with, though it would be easier to withdraw?"
+  },
+  {
+   "ref": "XVIII.7",
+   "reflection": "Falling behind, Zilu meets an old man carrying a weeding basket. Your four limbs do not toil, you cannot tell the five grains apart: who is your master? Yet he takes Zilu in, kills a chicken, makes millet and introduces his sons. When Zilu returns, the man is gone, and Zilu speaks for the school: not to serve is not right; one cannot keep order between old and young and abandon the duty between ruler and minister. The junzi serves to do what is right, knowing the Way may not prevail.",
+   "question": "When has someone who disagreed with you treated you with great kindness?"
+  },
+  {
+   "ref": "XVIII.8",
+   "reflection": "Confucius names seven who withdrew from the world and judges them: some kept their will and body unsullied, some bent but spoke and acted rightly, some lived hidden and spoke freely. As for me, I differ: I have no fixed for or against. The last line repeats IV.10.",
+   "question": "Do you have positions you must take no matter what?"
+  },
+  {
+   "ref": "XVIII.9",
+   "reflection": "The grand music master went to Qi, the masters of the second, third and fourth meals to Chu, Cai and Qin, the drummer across the river, the hand-drummer to the Han, the chime player to an island in the sea. A list of departures that says, without comment, that the court music of Lu fell apart.",
+   "question": "What has scattered that once gathered in one place?"
+  },
+  {
+   "ref": "XVIII.10",
+   "reflection": "The Duke of Zhou tells his son, ruler of Lu: do not neglect your kin, do not leave great ministers resentful of being unused, do not dismiss old servants without grave cause, do not expect one person to do everything. Advice from the founder of Lu, the man Confucius dreamed of in VII.5.",
+   "question": "From whom do you expect everything?"
+  },
+  {
+   "ref": "XVIII.11",
+   "reflection": "Zhou had eight officers, named in four pairs. Tradition says they were twins, born to one mother. It is a list remembered for its own sake, closing a book of departures with an image of plenty.",
+   "question": "Whom would you name if asked for the good people of your time?"
+  },
+  {
+   "ref": "XIX.1",
+   "reflection": "Book XIX gives no sayings of the Master; it records the disciples. Zizhang begins: the shi gives his life in danger, thinks of rightness before gain, of reverence at sacrifice, of grief in mourning. That is enough. It is close to XIV.13, in a disciple's own words.",
+   "question": "Which of the four comes most naturally to you?"
+  },
+  {
+   "ref": "XIX.2",
+   "reflection": "Holding to virtue without enlarging it, believing in the Way without conviction: can such a person be said to exist, or not to? A half-hearted virtue counts for neither presence nor absence.",
+   "question": "What do you hold half-heartedly?"
+  },
+  {
+   "ref": "XIX.3",
+   "reflection": "Zixia's students ask Zizhang about friendship. Zixia says: befriend those who are worthy, refuse those who are not. Zizhang disagrees: the junzi honours the worthy and tolerates everyone, praises the good and pities the unable. If I am worthy, whom can I not tolerate? If not, others will refuse me; how could I refuse them? Two disciples, two schools.",
+   "question": "Do you choose friends by Zixia's rule or Zizhang's?"
+  },
+  {
+   "ref": "XIX.4",
+   "reflection": "Zixia: even small arts have something worth seeing, but pursued too far they mire one; so the junzi does not make them his work. A specialist skill, valuable, is not the whole of a life.",
+   "question": "What small art could take more of your life than it deserves?"
+  },
+  {
+   "ref": "XIX.5",
+   "reflection": "Zixia: to learn each day what one did not know, and each month not forget what one has mastered, may be called loving learning. The definition is a rhythm of days and months.",
+   "question": "What did you learn today, and what are you keeping from last month?",
+   "exercise": "Tonight write down one thing you did not know this morning."
+  },
+  {
+   "ref": "XIX.6",
+   "reflection": "Zixia: study widely and hold firmly to your aim, ask earnestly and reflect on what is near; ren is in this. Learning and goodness are not separate.",
+   "question": "What near question could you reflect on today?"
+  },
+  {
+   "ref": "XIX.7",
+   "reflection": "Zixia: craftsmen stay in their workshops to perfect their work; the junzi learns to reach his Way. Learning is the junzi's workshop.",
+   "question": "Where is your workshop?"
+  },
+  {
+   "ref": "XIX.8",
+   "reflection": "Zixia: the small man is sure to dress up his faults. Eight words that need no commentary.",
+   "question": "What fault have you recently dressed up?"
+  },
+  {
+   "ref": "XIX.9",
+   "reflection": "Zixia: the junzi seems to change three times: from afar stern, close up mild, in speech exacting. A portrait close to VII.37.",
+   "question": "How do you seem from afar, and close up?"
+  },
+  {
+   "ref": "XIX.10",
+   "reflection": "Zixia: the junzi wins trust before he burdens the people, or they will feel oppressed; wins his ruler's trust before he objects, or the ruler will feel slandered. The same words land differently depending on whether trust is there.",
+   "question": "Whose trust do you need before you can tell them a hard truth?"
+  },
+  {
+   "ref": "XIX.11",
+   "reflection": "Zixia: in great virtues do not cross the line; in small ones there is some room. Legge renders the image as a boundary passed and repassed. It is the most permissive line in the book, and it limits itself to small things.",
+   "question": "Where is there room in your small virtues, and none in the great?"
+  },
+  {
+   "ref": "XIX.12",
+   "reflection": "Ziyou mocks Zixia's students: they can sprinkle, sweep, answer and bow, but these are branches; where is the root? Zixia answers: in the junzi's Way, what is taught first and what later? As plants differ, so do students. Only the sage holds beginning and end together. A real argument about teaching, recorded with both sides.",
+   "question": "Do you learn better from the root or from the branches?"
+  },
+  {
+   "ref": "XIX.13",
+   "reflection": "Zixia: when office leaves time, learn; when learning leaves time, take office. The two are meant to alternate through a life.",
+   "question": "What could you learn in the spare time your work leaves?"
+  },
+  {
+   "ref": "XIX.14",
+   "reflection": "Ziyou: mourning goes as far as grief, and stops there. Against displays of mourning beyond real feeling, and against grief made into a ritual of its own.",
+   "question": "Is there a grief you are keeping beyond its end?"
+  },
+  {
+   "ref": "XIX.15",
+   "reflection": "Ziyou: my friend Zizhang does what is hard, but he is not yet ren. Admiration and a reservation in one line.",
+   "question": "Whom do you admire with a reservation, and do they know it?"
+  },
+  {
+   "ref": "XIX.16",
+   "reflection": "Master Zeng: how imposing Zizhang is; it is hard to practise ren alongside him. Two disciples make the same judgement in two chapters, which says something about Zizhang and something about the circle.",
+   "question": "With whom is it hard to be good, because they fill the room?"
+  },
+  {
+   "ref": "XIX.17",
+   "reflection": "Master Zeng heard from the Master: people may not show all they have in them, except, surely, in mourning a parent. Grief brings out what ordinary days hide.",
+   "question": "What did a loss reveal in you that you had not known?"
+  },
+  {
+   "ref": "XIX.18",
+   "reflection": "Master Zeng heard: the filial piety of Meng Zhuangzi was ordinary in most things, but in not changing his father's ministers and policies it was hard to equal. The rule of I.11, shown in a real man.",
+   "question": "What did you keep of someone else's work after it passed to you?"
+  },
+  {
+   "ref": "XIX.19",
+   "reflection": "The Meng family appoints Yang Fu as a judge, and he asks Master Zeng's advice. Those above have lost the Way and the people have long been scattered. When you uncover the facts of a crime, feel sorrow and pity, not pleasure in your skill. A judge is told to remember why people fall.",
+   "question": "When you are right about someone's fault, what do you feel?"
+  },
+  {
+   "ref": "XIX.20",
+   "reflection": "Zigong: the tyrant Zhou was not so wicked as his name; so the junzi hates to live downstream, where all the world's filth flows to him. A bad reputation attracts every evil, deserved or not.",
+   "question": "Whose bad name has collected more than their real faults?"
+  },
+  {
+   "ref": "XIX.21",
+   "reflection": "Zigong: the faults of the junzi are like eclipses of the sun and moon: when he errs, everyone sees; when he corrects, everyone looks up. Visible faults and visible correction.",
+   "question": "Who saw your last correction?"
+  },
+  {
+   "ref": "XIX.22",
+   "reflection": "Gongsun Chao asks from whom Zhongni, Confucius, learned. The Way of Wen and Wu has not fallen to the ground; it is in people, the worthy remembering the great parts and others the small. Where could the Master not learn? Why should he need a single teacher? The last books turn to defending the Master's reputation.",
+   "question": "From how many teachers did you learn what you know best?"
+  },
+  {
+   "ref": "XIX.23",
+   "reflection": "A noble of Lu says Zigong is worthier than Confucius. Zigong uses an image: my wall is shoulder high, and anyone can look over and see the rooms; the Master's wall is many fathoms high, and without finding the gate one cannot see the temple's beauty. Few find the gate.",
+   "question": "Whose depth did you miss because you did not find their gate?"
+  },
+  {
+   "ref": "XIX.24",
+   "reflection": "When the same noble disparages Confucius, Zigong answers: others' worth is a hill that can be climbed over; Zhongni is the sun and moon, which cannot. A man may cut himself off, but what harm does it do the sun and moon? It only shows he does not know his measure.",
+   "question": "Whom have you dismissed who might be beyond your measure?"
+  },
+  {
+   "ref": "XIX.25",
+   "reflection": "Chen Ziqin tells Zigong he is too modest: how is Confucius better than you? One word can make a man wise or foolish; be careful. The Master cannot be equalled, as Heaven cannot be climbed by a stair. If he had ruled a state, the people would have stood, followed and been at peace; living, honoured, dead, mourned. Zigong's last defence of his teacher.",
+   "question": "Whom do you defend when they are not there to answer?"
+  },
+  {
+   "ref": "XX.1",
+   "reflection": "The last book opens with words attributed to the sage kings: Yao charges Shun to hold to the mean, for if the people are in want, Heaven's gift will end; Tang takes the faults of the people on himself; Zhou rewards the good and restores what was lost. Food, mourning and sacrifice come first, and generosity, good faith, diligence and justice win the people. It reads as a collection of old charges, set here at the end as the inheritance Confucius claimed to pass on.",
+   "question": "What would you take on yourself, if you were responsible for others?"
+  },
+  {
+   "ref": "XX.2",
+   "reflection": "Zizhang asks how to govern: honour five excellences and avoid four evils. Be generous without waste, demand labour without resentment, desire without greed, be at ease without pride, dignified without fierceness. The evils: to kill without having taught, which is cruelty; to demand results without warning, which is oppression; to be slow with orders and strict with deadlines, which is harm; and to be grudging in giving what is due, which is the manner of a petty clerk.",
+   "question": "Which of the four evils have you met at work, and which have you done?"
+  },
+  {
+   "ref": "XX.3",
+   "reflection": "Without knowing Heaven's decree, one cannot be a junzi; without knowing ritual, one cannot stand; without knowing words, one cannot know people. The book ends on three kinds of knowing, and on words. The first book began with learning. Between them lie all the chapters, which is perhaps the point.",
+   "question": "Having come to the end, what word from the Analects will you keep?",
+   "exercise": "Choose one chapter you read in this cycle and read it again tomorrow."
+  }
+ ]
+}

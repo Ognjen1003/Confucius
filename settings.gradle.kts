@@ -24,4 +24,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Confucius"
 include(":app")
- 
+
+includeBuild("../arcadia-core")

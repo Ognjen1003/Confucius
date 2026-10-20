@@ -79,3 +79,12 @@ odnosi prema svojim roditeljima.
 - **Bez disclaimera po ekranima.** **Bez mreže.**
 - **Kupnja miče reklame, i to je sve.**
 - `versionCode` i objava su vlasnikovi. **Bez niza, značaka i postotka kao poticaja.**
+
+## Stanje (20. 10. 2026.)
+Prva implementacija gotova lokalno: 499 poglavlja (ne 496: tri oznake `CHAP` bez točke), deset
+ispravaka skena s dokazom (`docs/THEORY.md §1`), naš naslov, komentar i pitanje za svako poglavlje
+(`tools/commentary/`), 12 pojmova s ručno potvrđenim poglavljima i Leggeovim stvarnim riječima, tečaj
+12 × 7, 17 osoba, 10 članaka + Great Learning i Mean, dnevnik, widget, podsjetnik, dnevna slika.
+Roster `仁` (`storeAvailable = false`), Lore poveznice s Tao, Stoic i IChing u oba smjera.
+Provjera: `docs/VERIFICATION.md`. Tekst se mijenja **samo** kroz `tools/extract.py`, nikad ručno u `res/raw/analects.json`.
+Play paket je u `store/` (ZIP se ne commita). Čeka: Play naziv (vlasnik).

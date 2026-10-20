@@ -1,0 +1,5 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Themed icon: the slips alone inside the seal's frame (a monochrome icon reads only alpha). -->
+    <path android:fillColor="#FFFFFFFF" android:fillType="evenOdd" android:pathData="M36,32h36a4,4 0,0 1,4 4v36a4,4 0,0 1,-4 4h-36a4,4 0,0 1,-4 -4v-36a4,4 0,0 1,4 -4zM36,34.5h36a1.5,1.5 0,0 1,1.5 1.5v36a1.5,1.5 0,0 1,-1.5 1.5h-36a1.5,1.5 0,0 1,-1.5 -1.5v-36a1.5,1.5 0,0 1,1.5 -1.5z" />
+    <path android:fillColor="#FFFFFFFF" android:pathData="M39.0,38h4.4v32h-4.4zM45.4,38h4.4v32h-4.4zM51.8,38h4.4v32h-4.4zM58.2,38h4.4v32h-4.4zM64.6,38h4.4v32h-4.4z" />
+</vector>

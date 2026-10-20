@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- arcadia-core resolves ad unit names at runtime, outside R references; the raw content is read by id. -->
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@string/admob_app_id,@string/admob_banner_id,@string/admob_interstitial_id,@raw/analects,@raw/commentary,@raw/terms,@raw/people,@raw/course,@raw/articles,@raw/texts_minor" />

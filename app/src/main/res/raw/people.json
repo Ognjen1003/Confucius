@@ -1,0 +1,398 @@
+{
+ "version": 1,
+ "people": [
+  {
+   "id": "yan_hui",
+   "legge": "Hui",
+   "pinyin": "Yan Hui",
+   "forms": [
+    "Yen Yuan",
+    "Yen Hui",
+    "Hui"
+   ],
+   "about": "Confucius's favourite disciple, poor, quiet and fond of learning, who died young. The Master's grief at his death is one of the few places the book shows him weeping.",
+   "chapters": [
+    "II.9",
+    "V.8",
+    "V.25",
+    "VI.2",
+    "VI.5",
+    "VI.9",
+    "VII.10",
+    "IX.10",
+    "IX.19",
+    "IX.20",
+    "XI.2",
+    "XI.3",
+    "XI.6",
+    "XI.7",
+    "XI.8",
+    "XI.9",
+    "XI.10",
+    "XI.18",
+    "XI.22",
+    "XII.1",
+    "XV.10"
+   ]
+  },
+  {
+   "id": "zilu",
+   "legge": "Tsze-lu",
+   "pinyin": "Zilu",
+   "forms": [
+    "Tsze-lu",
+    "Chung Yu"
+   ],
+   "about": "The bold, impetuous disciple, quick to act and quick to object, often rebuked and plainly loved. He died in a political struggle in the state of Wei.",
+   "chapters": [
+    "V.6",
+    "V.7",
+    "V.13",
+    "V.25",
+    "VI.26",
+    "VII.10",
+    "VII.18",
+    "VII.34",
+    "IX.11",
+    "IX.26",
+    "X.18",
+    "XI.12",
+    "XI.14",
+    "XI.21",
+    "XI.23",
+    "XI.24",
+    "XI.25",
+    "XII.12",
+    "XIII.1",
+    "XIII.3",
+    "XIII.28",
+    "XIV.13",
+    "XIV.17",
+    "XIV.23",
+    "XIV.38",
+    "XIV.41",
+    "XIV.45",
+    "XV.1",
+    "XVII.5",
+    "XVII.7",
+    "XVII.23",
+    "XVIII.6",
+    "XVIII.7"
+   ]
+  },
+  {
+   "id": "zigong",
+   "legge": "Tsze-kung",
+   "pinyin": "Zigong",
+   "forms": [
+    "Tsze-kung",
+    "Ts'ze"
+   ],
+   "about": "Eloquent and capable, a successful merchant and diplomat. He asks many of the book's questions and in its last pages defends his teacher against those who rank him higher than Confucius.",
+   "chapters": [
+    "I.10",
+    "I.15",
+    "II.13",
+    "III.17",
+    "V.3",
+    "V.8",
+    "V.11",
+    "V.12",
+    "V.14",
+    "VI.6",
+    "VI.28",
+    "VII.14",
+    "IX.6",
+    "IX.12",
+    "XI.2",
+    "XI.12",
+    "XI.15",
+    "XI.18",
+    "XII.7",
+    "XII.8",
+    "XII.23",
+    "XIII.20",
+    "XIII.24",
+    "XIV.18",
+    "XIV.30",
+    "XIV.31",
+    "XIV.37",
+    "XV.2",
+    "XV.9",
+    "XV.23",
+    "XVII.19",
+    "XVII.24",
+    "XIX.20",
+    "XIX.21",
+    "XIX.22",
+    "XIX.23",
+    "XIX.24",
+    "XIX.25"
+   ]
+  },
+  {
+   "id": "zengzi",
+   "legge": "Tsang",
+   "pinyin": "Zengzi",
+   "forms": [
+    "philosopher Tsang",
+    "disciple Tsang"
+   ],
+   "about": "A younger disciple remembered for self-examination and filial piety. Legge calls him \"the philosopher Tsang\"; the title marks him as a teacher in his own right, and many scholars think his own students helped compile the book.",
+   "chapters": [
+    "I.4",
+    "I.9",
+    "IV.15",
+    "VIII.3",
+    "VIII.4",
+    "VIII.5",
+    "VIII.6",
+    "VIII.7",
+    "XII.24",
+    "XIV.28",
+    "XIX.16",
+    "XIX.17",
+    "XIX.18",
+    "XIX.19"
+   ]
+  },
+  {
+   "id": "youzi",
+   "legge": "Yu",
+   "pinyin": "Youzi",
+   "forms": [
+    "philosopher Yu"
+   ],
+   "about": "A disciple who speaks in Book I with the title of a master. Legge writes \"the philosopher Yu\", a different name from Zilu's personal name, which Legge also writes \"Yu\".",
+   "chapters": [
+    "I.2",
+    "I.12",
+    "I.13"
+   ]
+  },
+  {
+   "id": "zixia",
+   "legge": "Tsze-hsia",
+   "pinyin": "Zixia",
+   "forms": [
+    "Tsze-hsia"
+   ],
+   "about": "A disciple known for learning and the old texts, later a teacher at the court of Wei. Many sayings of Book XIX are his.",
+   "chapters": [
+    "I.7",
+    "II.8",
+    "III.8",
+    "VI.11",
+    "XI.2",
+    "XII.5",
+    "XII.22",
+    "XIII.17",
+    "XIX.3",
+    "XIX.4",
+    "XIX.5",
+    "XIX.6",
+    "XIX.7",
+    "XIX.8",
+    "XIX.9",
+    "XIX.10",
+    "XIX.11",
+    "XIX.12",
+    "XIX.13"
+   ]
+  },
+  {
+   "id": "zizhang",
+   "legge": "Tsze-chang",
+   "pinyin": "Zizhang",
+   "forms": [
+    "Tsze-chang"
+   ],
+   "about": "A younger disciple, ambitious and impressive in manner, who asks about official employment, about distinction and about how to be understood.",
+   "chapters": [
+    "II.18",
+    "II.23",
+    "V.18",
+    "XI.19",
+    "XII.6",
+    "XII.10",
+    "XII.14",
+    "XII.20",
+    "XIV.43",
+    "XV.5",
+    "XV.41",
+    "XVII.6",
+    "XIX.1",
+    "XIX.2",
+    "XIX.3",
+    "XX.2"
+   ]
+  },
+  {
+   "id": "ran_you",
+   "legge": "Zan Yu",
+   "pinyin": "Ran You",
+   "forms": [
+    "Zan Yu",
+    "Zan Ch'iu"
+   ],
+   "about": "A capable administrator who served the powerful Ji family. Confucius praises his ability and, when he helps the family grow richer at the people's cost, disowns him.",
+   "chapters": [
+    "III.6",
+    "XI.2",
+    "XI.12",
+    "XI.21",
+    "XI.23",
+    "XI.25",
+    "XIII.9",
+    "XIV.13",
+    "XVI.1"
+   ]
+  },
+  {
+   "id": "zai_wo",
+   "legge": "Tsai Wo",
+   "pinyin": "Zai Wo",
+   "forms": [
+    "Tsai Wo",
+    "Tsai Yu"
+   ],
+   "about": "A clever speaker whom Confucius rebukes more sharply than anyone: for sleeping in the daytime, and for arguing that three years of mourning are too long.",
+   "chapters": [
+    "III.21",
+    "V.9",
+    "VI.24",
+    "XI.2",
+    "XVII.21"
+   ]
+  },
+  {
+   "id": "min_ziqian",
+   "legge": "Min Tsze-ch'ien",
+   "pinyin": "Min Ziqian",
+   "forms": [
+    "Min Tsze-ch'ien"
+   ],
+   "about": "A disciple praised for virtue and for filial piety, who refuses office under the Ji family.",
+   "chapters": [
+    "VI.7",
+    "XI.2",
+    "XI.4",
+    "XI.13"
+   ]
+  },
+  {
+   "id": "fan_chi",
+   "legge": "Fan Ch'ih",
+   "pinyin": "Fan Chi",
+   "forms": [
+    "Fan Ch'ih"
+   ],
+   "about": "A disciple who drives the Master's carriage and asks plain questions about virtue and knowledge, and once about growing grain, which Confucius declines to teach.",
+   "chapters": [
+    "II.5",
+    "VI.20",
+    "XII.21",
+    "XII.22",
+    "XIII.4",
+    "XIII.19"
+   ]
+  },
+  {
+   "id": "ziyou",
+   "legge": "Tsze-yu",
+   "pinyin": "Ziyou",
+   "forms": [
+    "Tsze-yu"
+   ],
+   "about": "A disciple known for learning and ritual, governor of the town of Wu-ch'ang, where Confucius hears the music of strings and smiles.",
+   "chapters": [
+    "II.7",
+    "IV.26",
+    "VI.12",
+    "XI.2",
+    "XVII.4",
+    "XIX.12",
+    "XIX.14",
+    "XIX.15"
+   ]
+  },
+  {
+   "id": "zhonggong",
+   "legge": "Chung-kung",
+   "pinyin": "Zhonggong",
+   "forms": [
+    "Chung-kung"
+   ],
+   "about": "A disciple of humble birth whom Confucius thinks fit to rule, and who asks about perfect virtue and about government.",
+   "chapters": [
+    "VI.1",
+    "VI.4",
+    "XI.2",
+    "XII.2",
+    "XIII.2"
+   ]
+  },
+  {
+   "id": "gongxi_hua",
+   "legge": "Kung-hsi Hwa",
+   "pinyin": "Gongxi Chi",
+   "forms": [
+    "Kung-hsi Hwa"
+   ],
+   "about": "A disciple skilled in ceremony, who in the book's longest scene wishes only to serve as a minor assistant at the ancestral temple.",
+   "chapters": [
+    "VII.33",
+    "XI.21",
+    "XI.25"
+   ]
+  },
+  {
+   "id": "ji_kangzi",
+   "legge": "Chi K'ang",
+   "pinyin": "Ji Kangzi",
+   "forms": [
+    "Chi K'ang"
+   ],
+   "about": "Head of the Ji family, the real power in the state of Lu in Confucius's last years. He asks about government, and the answers are among the book's sharpest.",
+   "chapters": [
+    "II.20",
+    "VI.6",
+    "X.11",
+    "XI.6",
+    "XII.17",
+    "XII.18",
+    "XII.19"
+   ]
+  },
+  {
+   "id": "duke_ai",
+   "legge": "Duke Ai",
+   "pinyin": "Duke Ai of Lu",
+   "forms": [
+    "Duke Ai"
+   ],
+   "about": "The ruler of Lu in Confucius's old age, holding a title whose power had passed to the great families.",
+   "chapters": [
+    "II.19",
+    "III.21",
+    "VI.2",
+    "XII.9"
+   ]
+  },
+  {
+   "id": "guan_zhong",
+   "legge": "Kwan Chung",
+   "pinyin": "Guan Zhong",
+   "forms": [
+    "Kwan Chung"
+   ],
+   "about": "A statesman of Qi about a century before Confucius, who made his ruler leader of the states. The Analects judge him both ways: small in ritual, great in what he achieved.",
+   "chapters": [
+    "III.22",
+    "XIV.10",
+    "XIV.17",
+    "XIV.18"
+   ]
+  }
+ ]
+}

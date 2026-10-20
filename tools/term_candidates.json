@@ -1,0 +1,1922 @@
+{
+ "ren": [
+  {
+   "ref": "I.1",
+   "chinese": false
+  },
+  {
+   "ref": "I.2",
+   "chinese": true
+  },
+  {
+   "ref": "I.3",
+   "chinese": true
+  },
+  {
+   "ref": "I.7",
+   "chinese": false
+  },
+  {
+   "ref": "I.9",
+   "chinese": false
+  },
+  {
+   "ref": "I.14",
+   "chinese": false
+  },
+  {
+   "ref": "II.1",
+   "chinese": false
+  },
+  {
+   "ref": "II.3",
+   "chinese": false
+  },
+  {
+   "ref": "II.20",
+   "chinese": false
+  },
+  {
+   "ref": "III.7",
+   "chinese": false
+  },
+  {
+   "ref": "III.24",
+   "chinese": null
+  },
+  {
+   "ref": "IV.1",
+   "chinese": true
+  },
+  {
+   "ref": "IV.2",
+   "chinese": true
+  },
+  {
+   "ref": "IV.3",
+   "chinese": true
+  },
+  {
+   "ref": "IV.4",
+   "chinese": true
+  },
+  {
+   "ref": "IV.5",
+   "chinese": true
+  },
+  {
+   "ref": "IV.6",
+   "chinese": true
+  },
+  {
+   "ref": "IV.7",
+   "chinese": true
+  },
+  {
+   "ref": "IV.11",
+   "chinese": false
+  },
+  {
+   "ref": "IV.15",
+   "chinese": false
+  },
+  {
+   "ref": "IV.25",
+   "chinese": null
+  },
+  {
+   "ref": "V.2",
+   "chinese": false
+  },
+  {
+   "ref": "V.4",
+   "chinese": true
+  },
+  {
+   "ref": "V.7",
+   "chinese": true
+  },
+  {
+   "ref": "V.18",
+   "chinese": true
+  },
+  {
+   "ref": "VI.5",
+   "chinese": true
+  },
+  {
+   "ref": "VI.9",
+   "chinese": false
+  },
+  {
+   "ref": "VI.16",
+   "chinese": false
+  },
+  {
+   "ref": "VI.20",
+   "chinese": true
+  },
+  {
+   "ref": "VI.21",
+   "chinese": null
+  },
+  {
+   "ref": "VI.24",
+   "chinese": null
+  },
+  {
+   "ref": "VI.27",
+   "chinese": null
+  },
+  {
+   "ref": "VI.28",
+   "chinese": null
+  },
+  {
+   "ref": "VII.3",
+   "chinese": false
+  },
+  {
+   "ref": "VII.6",
+   "chinese": true
+  },
+  {
+   "ref": "VII.22",
+   "chinese": null
+  },
+  {
+   "ref": "VII.25",
+   "chinese": null
+  },
+  {
+   "ref": "VII.29",
+   "chinese": null
+  },
+  {
+   "ref": "VII.33",
+   "chinese": null
+  },
+  {
+   "ref": "VIII.1",
+   "chinese": false
+  },
+  {
+   "ref": "VIII.2",
+   "chinese": true
+  },
+  {
+   "ref": "VIII.7",
+   "chinese": true
+  },
+  {
+   "ref": "VIII.10",
+   "chinese": true
+  },
+  {
+   "ref": "VIII.19",
+   "chinese": false
+  },
+  {
+   "ref": "VIII.20",
+   "chinese": false
+  },
+  {
+   "ref": "IX.1",
+   "chinese": true
+  },
+  {
+   "ref": "IX.17",
+   "chinese": false
+  },
+  {
+   "ref": "IX.28",
+   "chinese": null
+  },
+  {
+   "ref": "XI.2",
+   "chinese": false
+  },
+  {
+   "ref": "XI.18",
+   "chinese": false
+  },
+  {
+   "ref": "XII.1",
+   "chinese": true
+  },
+  {
+   "ref": "XII.2",
+   "chinese": true
+  },
+  {
+   "ref": "XII.3",
+   "chinese": true
+  },
+  {
+   "ref": "XII.10",
+   "chinese": false
+  },
+  {
+   "ref": "XII.20",
+   "chinese": true
+  },
+  {
+   "ref": "XII.21",
+   "chinese": null
+  },
+  {
+   "ref": "XII.22",
+   "chinese": null
+  },
+  {
+   "ref": "XII.24",
+   "chinese": null
+  },
+  {
+   "ref": "XIII.2",
+   "chinese": false
+  },
+  {
+   "ref": "XIII.12",
+   "chinese": true
+  },
+  {
+   "ref": "XIII.19",
+   "chinese": true
+  },
+  {
+   "ref": "XIII.22",
+   "chinese": null
+  },
+  {
+   "ref": "XIII.27",
+   "chinese": null
+  },
+  {
+   "ref": "XIV.2",
+   "chinese": true
+  },
+  {
+   "ref": "XIV.5",
+   "chinese": true
+  },
+  {
+   "ref": "XIV.6",
+   "chinese": false
+  },
+  {
+   "ref": "XIV.7",
+   "chinese": true
+  },
+  {
+   "ref": "XIV.17",
+   "chinese": true
+  },
+  {
+   "ref": "XIV.18",
+   "chinese": true
+  },
+  {
+   "ref": "XIV.30",
+   "chinese": true
+  },
+  {
+   "ref": "XV.3",
+   "chinese": false
+  },
+  {
+   "ref": "XV.8",
+   "chinese": true
+  },
+  {
+   "ref": "XV.9",
+   "chinese": true
+  },
+  {
+   "ref": "XV.12",
+   "chinese": false
+  },
+  {
+   "ref": "XV.13",
+   "chinese": false
+  },
+  {
+   "ref": "XV.26",
+   "chinese": null
+  },
+  {
+   "ref": "XV.32",
+   "chinese": null
+  },
+  {
+   "ref": "XV.34",
+   "chinese": null
+  },
+  {
+   "ref": "XV.35",
+   "chinese": null
+  },
+  {
+   "ref": "XVI.1",
+   "chinese": false
+  },
+  {
+   "ref": "XVI.6",
+   "chinese": false
+  },
+  {
+   "ref": "XVI.12",
+   "chinese": false
+  },
+  {
+   "ref": "XVII.1",
+   "chinese": true
+  },
+  {
+   "ref": "XVII.6",
+   "chinese": true
+  },
+  {
+   "ref": "XVII.8",
+   "chinese": true
+  },
+  {
+   "ref": "XVII.13",
+   "chinese": false
+  },
+  {
+   "ref": "XVII.14",
+   "chinese": false
+  },
+  {
+   "ref": "XVII.17",
+   "chinese": true
+  },
+  {
+   "ref": "XVII.21",
+   "chinese": null
+  },
+  {
+   "ref": "XVIII.1",
+   "chinese": true
+  },
+  {
+   "ref": "XVIII.5",
+   "chinese": false
+  },
+  {
+   "ref": "XVIII.10",
+   "chinese": false
+  },
+  {
+   "ref": "XIX.2",
+   "chinese": false
+  },
+  {
+   "ref": "XIX.3",
+   "chinese": false
+  },
+  {
+   "ref": "XIX.6",
+   "chinese": true
+  },
+  {
+   "ref": "XIX.15",
+   "chinese": true
+  },
+  {
+   "ref": "XIX.16",
+   "chinese": true
+  },
+  {
+   "ref": "XIX.22",
+   "chinese": null
+  },
+  {
+   "ref": "XIX.24",
+   "chinese": null
+  },
+  {
+   "ref": "XX.1",
+   "chinese": true
+  },
+  {
+   "ref": "XX.2",
+   "chinese": true
+  }
+ ],
+ "xue": [
+  {
+   "ref": "I.1",
+   "chinese": true
+  },
+  {
+   "ref": "I.6",
+   "chinese": true
+  },
+  {
+   "ref": "I.7",
+   "chinese": true
+  },
+  {
+   "ref": "I.8",
+   "chinese": true
+  },
+  {
+   "ref": "I.10",
+   "chinese": false
+  },
+  {
+   "ref": "I.14",
+   "chinese": true
+  },
+  {
+   "ref": "II.4",
+   "chinese": true
+  },
+  {
+   "ref": "II.15",
+   "chinese": true
+  },
+  {
+   "ref": "II.16",
+   "chinese": false
+  },
+  {
+   "ref": "II.18",
+   "chinese": true
+  },
+  {
+   "ref": "III.7",
+   "chinese": false
+  },
+  {
+   "ref": "V.9",
+   "chinese": false
+  },
+  {
+   "ref": "V.14",
+   "chinese": true
+  },
+  {
+   "ref": "V.27",
+   "chinese": null
+  },
+  {
+   "ref": "VI.2",
+   "chinese": true
+  },
+  {
+   "ref": "VI.25",
+   "chinese": null
+  },
+  {
+   "ref": "VII.2",
+   "chinese": true
+  },
+  {
+   "ref": "VII.3",
+   "chinese": true
+  },
+  {
+   "ref": "VII.8",
+   "chinese": false
+  },
+  {
+   "ref": "VII.16",
+   "chinese": true
+  },
+  {
+   "ref": "VIII.12",
+   "chinese": true
+  },
+  {
+   "ref": "VIII.13",
+   "chinese": true
+  },
+  {
+   "ref": "VIII.17",
+   "chinese": true
+  },
+  {
+   "ref": "IX.2",
+   "chinese": true
+  },
+  {
+   "ref": "IX.10",
+   "chinese": false
+  },
+  {
+   "ref": "IX.18",
+   "chinese": false
+  },
+  {
+   "ref": "IX.29",
+   "chinese": null
+  },
+  {
+   "ref": "XI.6",
+   "chinese": true
+  },
+  {
+   "ref": "XI.24",
+   "chinese": null
+  },
+  {
+   "ref": "XI.25",
+   "chinese": null
+  },
+  {
+   "ref": "XII.15",
+   "chinese": true
+  },
+  {
+   "ref": "XIII.5",
+   "chinese": false
+  },
+  {
+   "ref": "XIV.25",
+   "chinese": null
+  },
+  {
+   "ref": "XIV.37",
+   "chinese": null
+  },
+  {
+   "ref": "XIV.47",
+   "chinese": false
+  },
+  {
+   "ref": "XV.1",
+   "chinese": true
+  },
+  {
+   "ref": "XV.2",
+   "chinese": true
+  },
+  {
+   "ref": "XV.30",
+   "chinese": true
+  },
+  {
+   "ref": "XV.31",
+   "chinese": null
+  },
+  {
+   "ref": "XVI.5",
+   "chinese": false
+  },
+  {
+   "ref": "XVI.9",
+   "chinese": true
+  },
+  {
+   "ref": "XVI.11",
+   "chinese": false
+  },
+  {
+   "ref": "XVI.13",
+   "chinese": true
+  },
+  {
+   "ref": "XVII.8",
+   "chinese": true
+  },
+  {
+   "ref": "XVII.9",
+   "chinese": true
+  },
+  {
+   "ref": "XVII.10",
+   "chinese": false
+  },
+  {
+   "ref": "XIX.3",
+   "chinese": false
+  },
+  {
+   "ref": "XIX.4",
+   "chinese": false
+  },
+  {
+   "ref": "XIX.5",
+   "chinese": true
+  },
+  {
+   "ref": "XIX.6",
+   "chinese": true
+  },
+  {
+   "ref": "XIX.7",
+   "chinese": true
+  },
+  {
+   "ref": "XIX.12",
+   "chinese": false
+  },
+  {
+   "ref": "XIX.13",
+   "chinese": true
+  },
+  {
+   "ref": "XIX.22",
+   "chinese": null
+  }
+ ],
+ "de": [
+  {
+   "ref": "I.1",
+   "chinese": false
+  },
+  {
+   "ref": "I.3",
+   "chinese": false
+  },
+  {
+   "ref": "I.7",
+   "chinese": false
+  },
+  {
+   "ref": "I.9",
+   "chinese": true
+  },
+  {
+   "ref": "I.14",
+   "chinese": false
+  },
+  {
+   "ref": "II.1",
+   "chinese": true
+  },
+  {
+   "ref": "II.3",
+   "chinese": true
+  },
+  {
+   "ref": "II.20",
+   "chinese": false
+  },
+  {
+   "ref": "III.7",
+   "chinese": false
+  },
+  {
+   "ref": "III.24",
+   "chinese": null
+  },
+  {
+   "ref": "IV.1",
+   "chinese": false
+  },
+  {
+   "ref": "IV.2",
+   "chinese": false
+  },
+  {
+   "ref": "IV.3",
+   "chinese": false
+  },
+  {
+   "ref": "IV.4",
+   "chinese": false
+  },
+  {
+   "ref": "IV.5",
+   "chinese": false
+  },
+  {
+   "ref": "IV.6",
+   "chinese": false
+  },
+  {
+   "ref": "IV.7",
+   "chinese": false
+  },
+  {
+   "ref": "IV.11",
+   "chinese": true
+  },
+  {
+   "ref": "IV.25",
+   "chinese": null
+  },
+  {
+   "ref": "V.2",
+   "chinese": false
+  },
+  {
+   "ref": "V.4",
+   "chinese": false
+  },
+  {
+   "ref": "V.7",
+   "chinese": false
+  },
+  {
+   "ref": "V.18",
+   "chinese": false
+  },
+  {
+   "ref": "VI.5",
+   "chinese": false
+  },
+  {
+   "ref": "VI.9",
+   "chinese": false
+  },
+  {
+   "ref": "VI.16",
+   "chinese": false
+  },
+  {
+   "ref": "VI.20",
+   "chinese": true
+  },
+  {
+   "ref": "VI.21",
+   "chinese": null
+  },
+  {
+   "ref": "VI.27",
+   "chinese": null
+  },
+  {
+   "ref": "VI.28",
+   "chinese": null
+  },
+  {
+   "ref": "VII.3",
+   "chinese": true
+  },
+  {
+   "ref": "VII.6",
+   "chinese": true
+  },
+  {
+   "ref": "VII.22",
+   "chinese": null
+  },
+  {
+   "ref": "VII.25",
+   "chinese": null
+  },
+  {
+   "ref": "VII.29",
+   "chinese": null
+  },
+  {
+   "ref": "VII.33",
+   "chinese": null
+  },
+  {
+   "ref": "VIII.1",
+   "chinese": true
+  },
+  {
+   "ref": "VIII.2",
+   "chinese": false
+  },
+  {
+   "ref": "VIII.7",
+   "chinese": false
+  },
+  {
+   "ref": "VIII.10",
+   "chinese": false
+  },
+  {
+   "ref": "VIII.19",
+   "chinese": false
+  },
+  {
+   "ref": "VIII.20",
+   "chinese": true
+  },
+  {
+   "ref": "IX.1",
+   "chinese": false
+  },
+  {
+   "ref": "IX.17",
+   "chinese": true
+  },
+  {
+   "ref": "IX.28",
+   "chinese": null
+  },
+  {
+   "ref": "XI.2",
+   "chinese": true
+  },
+  {
+   "ref": "XI.18",
+   "chinese": false
+  },
+  {
+   "ref": "XII.1",
+   "chinese": false
+  },
+  {
+   "ref": "XII.2",
+   "chinese": false
+  },
+  {
+   "ref": "XII.3",
+   "chinese": false
+  },
+  {
+   "ref": "XII.10",
+   "chinese": true
+  },
+  {
+   "ref": "XII.20",
+   "chinese": true
+  },
+  {
+   "ref": "XII.21",
+   "chinese": null
+  },
+  {
+   "ref": "XII.22",
+   "chinese": null
+  },
+  {
+   "ref": "XII.24",
+   "chinese": null
+  },
+  {
+   "ref": "XIII.2",
+   "chinese": false
+  },
+  {
+   "ref": "XIII.12",
+   "chinese": false
+  },
+  {
+   "ref": "XIII.19",
+   "chinese": false
+  },
+  {
+   "ref": "XIII.22",
+   "chinese": null
+  },
+  {
+   "ref": "XIII.27",
+   "chinese": null
+  },
+  {
+   "ref": "XIV.2",
+   "chinese": false
+  },
+  {
+   "ref": "XIV.5",
+   "chinese": true
+  },
+  {
+   "ref": "XIV.6",
+   "chinese": true
+  },
+  {
+   "ref": "XIV.7",
+   "chinese": false
+  },
+  {
+   "ref": "XIV.17",
+   "chinese": false
+  },
+  {
+   "ref": "XIV.18",
+   "chinese": false
+  },
+  {
+   "ref": "XIV.30",
+   "chinese": true
+  },
+  {
+   "ref": "XV.3",
+   "chinese": true
+  },
+  {
+   "ref": "XV.8",
+   "chinese": false
+  },
+  {
+   "ref": "XV.9",
+   "chinese": false
+  },
+  {
+   "ref": "XV.12",
+   "chinese": true
+  },
+  {
+   "ref": "XV.13",
+   "chinese": false
+  },
+  {
+   "ref": "XV.26",
+   "chinese": null
+  },
+  {
+   "ref": "XV.32",
+   "chinese": null
+  },
+  {
+   "ref": "XV.34",
+   "chinese": null
+  },
+  {
+   "ref": "XV.35",
+   "chinese": null
+  },
+  {
+   "ref": "XVI.1",
+   "chinese": true
+  },
+  {
+   "ref": "XVI.6",
+   "chinese": false
+  },
+  {
+   "ref": "XVI.12",
+   "chinese": true
+  },
+  {
+   "ref": "XVII.6",
+   "chinese": false
+  },
+  {
+   "ref": "XVII.13",
+   "chinese": true
+  },
+  {
+   "ref": "XVII.14",
+   "chinese": true
+  },
+  {
+   "ref": "XVII.17",
+   "chinese": false
+  },
+  {
+   "ref": "XVII.21",
+   "chinese": null
+  },
+  {
+   "ref": "XVIII.1",
+   "chinese": false
+  },
+  {
+   "ref": "XVIII.5",
+   "chinese": true
+  },
+  {
+   "ref": "XVIII.10",
+   "chinese": false
+  },
+  {
+   "ref": "XIX.2",
+   "chinese": true
+  },
+  {
+   "ref": "XIX.3",
+   "chinese": false
+  },
+  {
+   "ref": "XIX.6",
+   "chinese": false
+  },
+  {
+   "ref": "XIX.15",
+   "chinese": false
+  },
+  {
+   "ref": "XIX.16",
+   "chinese": false
+  },
+  {
+   "ref": "XIX.22",
+   "chinese": null
+  },
+  {
+   "ref": "XIX.24",
+   "chinese": null
+  },
+  {
+   "ref": "XX.1",
+   "chinese": false
+  }
+ ],
+ "xiao": [
+  {
+   "ref": "I.2",
+   "chinese": true
+  },
+  {
+   "ref": "I.6",
+   "chinese": true
+  },
+  {
+   "ref": "I.11",
+   "chinese": true
+  },
+  {
+   "ref": "II.5",
+   "chinese": true
+  },
+  {
+   "ref": "II.6",
+   "chinese": true
+  },
+  {
+   "ref": "II.7",
+   "chinese": true
+  },
+  {
+   "ref": "II.8",
+   "chinese": true
+  },
+  {
+   "ref": "II.20",
+   "chinese": true
+  },
+  {
+   "ref": "II.21",
+   "chinese": null
+  },
+  {
+   "ref": "IV.20",
+   "chinese": true
+  },
+  {
+   "ref": "VIII.21",
+   "chinese": null
+  },
+  {
+   "ref": "XI.4",
+   "chinese": true
+  },
+  {
+   "ref": "XIII.20",
+   "chinese": true
+  },
+  {
+   "ref": "XIX.18",
+   "chinese": true
+  }
+ ],
+ "junzi": [
+  {
+   "ref": "I.2",
+   "chinese": true
+  },
+  {
+   "ref": "II.13",
+   "chinese": true
+  },
+  {
+   "ref": "II.14",
+   "chinese": true
+  },
+  {
+   "ref": "IV.5",
+   "chinese": true
+  },
+  {
+   "ref": "IV.10",
+   "chinese": true
+  },
+  {
+   "ref": "IV.11",
+   "chinese": true
+  },
+  {
+   "ref": "IV.16",
+   "chinese": true
+  },
+  {
+   "ref": "IV.24",
+   "chinese": null
+  },
+  {
+   "ref": "V.15",
+   "chinese": true
+  },
+  {
+   "ref": "VI.3",
+   "chinese": true
+  },
+  {
+   "ref": "VI.11",
+   "chinese": true
+  },
+  {
+   "ref": "VI.24",
+   "chinese": null
+  },
+  {
+   "ref": "VI.25",
+   "chinese": null
+  },
+  {
+   "ref": "VII.30",
+   "chinese": true
+  },
+  {
+   "ref": "VII.32",
+   "chinese": null
+  },
+  {
+   "ref": "VII.36",
+   "chinese": null
+  },
+  {
+   "ref": "VIII.6",
+   "chinese": true
+  },
+  {
+   "ref": "IX.6",
+   "chinese": true
+  },
+  {
+   "ref": "IX.13",
+   "chinese": true
+  },
+  {
+   "ref": "X.6",
+   "chinese": true
+  },
+  {
+   "ref": "XI.20",
+   "chinese": true
+  },
+  {
+   "ref": "XI.25",
+   "chinese": null
+  },
+  {
+   "ref": "XII.4",
+   "chinese": true
+  },
+  {
+   "ref": "XII.5",
+   "chinese": true
+  },
+  {
+   "ref": "XII.8",
+   "chinese": true
+  },
+  {
+   "ref": "XII.16",
+   "chinese": true
+  },
+  {
+   "ref": "XII.24",
+   "chinese": null
+  },
+  {
+   "ref": "XIII.3",
+   "chinese": true
+  },
+  {
+   "ref": "XIII.23",
+   "chinese": null
+  },
+  {
+   "ref": "XIII.25",
+   "chinese": null
+  },
+  {
+   "ref": "XIII.26",
+   "chinese": null
+  },
+  {
+   "ref": "XIV.6",
+   "chinese": true
+  },
+  {
+   "ref": "XIV.7",
+   "chinese": true
+  },
+  {
+   "ref": "XIV.24",
+   "chinese": null
+  },
+  {
+   "ref": "XIV.28",
+   "chinese": null
+  },
+  {
+   "ref": "XIV.29",
+   "chinese": null
+  },
+  {
+   "ref": "XIV.30",
+   "chinese": true
+  },
+  {
+   "ref": "XIV.45",
+   "chinese": true
+  },
+  {
+   "ref": "XV.1",
+   "chinese": true
+  },
+  {
+   "ref": "XV.6",
+   "chinese": true
+  },
+  {
+   "ref": "XV.17",
+   "chinese": true
+  },
+  {
+   "ref": "XV.18",
+   "chinese": true
+  },
+  {
+   "ref": "XV.19",
+   "chinese": true
+  },
+  {
+   "ref": "XV.20",
+   "chinese": true
+  },
+  {
+   "ref": "XV.21",
+   "chinese": null
+  },
+  {
+   "ref": "XV.22",
+   "chinese": null
+  },
+  {
+   "ref": "XV.31",
+   "chinese": null
+  },
+  {
+   "ref": "XV.33",
+   "chinese": null
+  },
+  {
+   "ref": "XV.36",
+   "chinese": null
+  },
+  {
+   "ref": "XVI.1",
+   "chinese": true
+  },
+  {
+   "ref": "XVI.7",
+   "chinese": true
+  },
+  {
+   "ref": "XVI.8",
+   "chinese": true
+  },
+  {
+   "ref": "XVI.10",
+   "chinese": true
+  },
+  {
+   "ref": "XVI.13",
+   "chinese": true
+  },
+  {
+   "ref": "XVII.7",
+   "chinese": true
+  },
+  {
+   "ref": "XVII.21",
+   "chinese": null
+  },
+  {
+   "ref": "XVII.23",
+   "chinese": null
+  },
+  {
+   "ref": "XVII.24",
+   "chinese": null
+  },
+  {
+   "ref": "XVIII.7",
+   "chinese": true
+  },
+  {
+   "ref": "XIX.3",
+   "chinese": true
+  },
+  {
+   "ref": "XIX.4",
+   "chinese": true
+  },
+  {
+   "ref": "XIX.7",
+   "chinese": true
+  },
+  {
+   "ref": "XIX.9",
+   "chinese": true
+  },
+  {
+   "ref": "XIX.10",
+   "chinese": true
+  },
+  {
+   "ref": "XIX.12",
+   "chinese": true
+  },
+  {
+   "ref": "XIX.20",
+   "chinese": true
+  },
+  {
+   "ref": "XIX.21",
+   "chinese": null
+  },
+  {
+   "ref": "XX.3",
+   "chinese": true
+  }
+ ],
+ "xin": [
+  {
+   "ref": "I.4",
+   "chinese": true
+  },
+  {
+   "ref": "I.5",
+   "chinese": true
+  },
+  {
+   "ref": "I.6",
+   "chinese": true
+  },
+  {
+   "ref": "I.7",
+   "chinese": true
+  },
+  {
+   "ref": "I.8",
+   "chinese": true
+  },
+  {
+   "ref": "II.20",
+   "chinese": true
+  },
+  {
+   "ref": "II.22",
+   "chinese": null
+  },
+  {
+   "ref": "III.19",
+   "chinese": false
+  },
+  {
+   "ref": "V.25",
+   "chinese": null
+  },
+  {
+   "ref": "V.27",
+   "chinese": null
+  },
+  {
+   "ref": "VII.24",
+   "chinese": null
+  },
+  {
+   "ref": "VIII.4",
+   "chinese": true
+  },
+  {
+   "ref": "VIII.13",
+   "chinese": true
+  },
+  {
+   "ref": "VIII.16",
+   "chinese": true
+  },
+  {
+   "ref": "IX.24",
+   "chinese": null
+  },
+  {
+   "ref": "X.1",
+   "chinese": false
+  },
+  {
+   "ref": "XI.20",
+   "chinese": false
+  },
+  {
+   "ref": "XII.7",
+   "chinese": true
+  },
+  {
+   "ref": "XII.10",
+   "chinese": true
+  },
+  {
+   "ref": "XII.23",
+   "chinese": null
+  },
+  {
+   "ref": "XIII.4",
+   "chinese": true
+  },
+  {
+   "ref": "XIII.19",
+   "chinese": false
+  },
+  {
+   "ref": "XIII.20",
+   "chinese": true
+  },
+  {
+   "ref": "XV.5",
+   "chinese": true
+  },
+  {
+   "ref": "XV.17",
+   "chinese": true
+  },
+  {
+   "ref": "XVI.4",
+   "chinese": false
+  },
+  {
+   "ref": "XVI.10",
+   "chinese": false
+  },
+  {
+   "ref": "XVII.6",
+   "chinese": true
+  },
+  {
+   "ref": "XVII.8",
+   "chinese": true
+  },
+  {
+   "ref": "XIX.2",
+   "chinese": true
+  },
+  {
+   "ref": "XIX.6",
+   "chinese": false
+  },
+  {
+   "ref": "XIX.10",
+   "chinese": true
+  },
+  {
+   "ref": "XX.1",
+   "chinese": true
+  }
+ ],
+ "zhong": [
+  {
+   "ref": "I.4",
+   "chinese": true
+  },
+  {
+   "ref": "I.7",
+   "chinese": false
+  },
+  {
+   "ref": "I.8",
+   "chinese": true
+  },
+  {
+   "ref": "II.20",
+   "chinese": true
+  },
+  {
+   "ref": "III.19",
+   "chinese": true
+  },
+  {
+   "ref": "V.18",
+   "chinese": true
+  },
+  {
+   "ref": "VIII.21",
+   "chinese": null
+  },
+  {
+   "ref": "IX.24",
+   "chinese": null
+  },
+  {
+   "ref": "XII.10",
+   "chinese": true
+  },
+  {
+   "ref": "XII.23",
+   "chinese": null
+  },
+  {
+   "ref": "XIV.8",
+   "chinese": true
+  },
+  {
+   "ref": "XIX.7",
+   "chinese": false
+  },
+  {
+   "ref": "XIX.14",
+   "chinese": false
+  }
+ ],
+ "li": [
+  {
+   "ref": "I.9",
+   "chinese": false
+  },
+  {
+   "ref": "I.12",
+   "chinese": true
+  },
+  {
+   "ref": "I.15",
+   "chinese": true
+  },
+  {
+   "ref": "II.3",
+   "chinese": true
+  },
+  {
+   "ref": "II.5",
+   "chinese": true
+  },
+  {
+   "ref": "III.3",
+   "chinese": true
+  },
+  {
+   "ref": "III.4",
+   "chinese": true
+  },
+  {
+   "ref": "III.8",
+   "chinese": true
+  },
+  {
+   "ref": "III.9",
+   "chinese": true
+  },
+  {
+   "ref": "III.15",
+   "chinese": true
+  },
+  {
+   "ref": "III.17",
+   "chinese": true
+  },
+  {
+   "ref": "III.18",
+   "chinese": true
+  },
+  {
+   "ref": "III.19",
+   "chinese": true
+  },
+  {
+   "ref": "III.22",
+   "chinese": null
+  },
+  {
+   "ref": "III.26",
+   "chinese": null
+  },
+  {
+   "ref": "IV.13",
+   "chinese": true
+  },
+  {
+   "ref": "VI.25",
+   "chinese": null
+  },
+  {
+   "ref": "VII.17",
+   "chinese": true
+  },
+  {
+   "ref": "VII.30",
+   "chinese": true
+  },
+  {
+   "ref": "VIII.2",
+   "chinese": true
+  },
+  {
+   "ref": "VIII.8",
+   "chinese": true
+  },
+  {
+   "ref": "IX.3",
+   "chinese": true
+  },
+  {
+   "ref": "IX.10",
+   "chinese": true
+  },
+  {
+   "ref": "X.10",
+   "chinese": false
+  },
+  {
+   "ref": "X.16",
+   "chinese": false
+  },
+  {
+   "ref": "XI.1",
+   "chinese": true
+  },
+  {
+   "ref": "XI.25",
+   "chinese": null
+  },
+  {
+   "ref": "XII.1",
+   "chinese": true
+  },
+  {
+   "ref": "XII.5",
+   "chinese": true
+  },
+  {
+   "ref": "XII.15",
+   "chinese": true
+  },
+  {
+   "ref": "XIII.4",
+   "chinese": true
+  },
+  {
+   "ref": "XIV.13",
+   "chinese": true
+  },
+  {
+   "ref": "XIV.44",
+   "chinese": true
+  },
+  {
+   "ref": "XV.10",
+   "chinese": false
+  },
+  {
+   "ref": "XV.17",
+   "chinese": true
+  },
+  {
+   "ref": "XV.32",
+   "chinese": null
+  },
+  {
+   "ref": "XVI.2",
+   "chinese": true
+  },
+  {
+   "ref": "XVI.5",
+   "chinese": true
+  },
+  {
+   "ref": "XVI.13",
+   "chinese": true
+  },
+  {
+   "ref": "XVII.11",
+   "chinese": true
+  },
+  {
+   "ref": "XVII.21",
+   "chinese": null
+  },
+  {
+   "ref": "XVII.24",
+   "chinese": null
+  },
+  {
+   "ref": "XX.3",
+   "chinese": true
+  }
+ ],
+ "yi": [
+  {
+   "ref": "I.13",
+   "chinese": true
+  },
+  {
+   "ref": "II.24",
+   "chinese": null
+  },
+  {
+   "ref": "IV.10",
+   "chinese": true
+  },
+  {
+   "ref": "IV.16",
+   "chinese": true
+  },
+  {
+   "ref": "VI.25",
+   "chinese": null
+  },
+  {
+   "ref": "VII.3",
+   "chinese": true
+  },
+  {
+   "ref": "XI.23",
+   "chinese": null
+  },
+  {
+   "ref": "XI.25",
+   "chinese": null
+  },
+  {
+   "ref": "XII.10",
+   "chinese": true
+  },
+  {
+   "ref": "XII.15",
+   "chinese": false
+  },
+  {
+   "ref": "XII.20",
+   "chinese": true
+  },
+  {
+   "ref": "XIII.4",
+   "chinese": true
+  },
+  {
+   "ref": "XIV.13",
+   "chinese": true
+  },
+  {
+   "ref": "XIV.14",
+   "chinese": true
+  },
+  {
+   "ref": "XV.16",
+   "chinese": true
+  },
+  {
+   "ref": "XV.17",
+   "chinese": true
+  },
+  {
+   "ref": "XVI.10",
+   "chinese": true
+  },
+  {
+   "ref": "XVI.11",
+   "chinese": true
+  },
+  {
+   "ref": "XVII.23",
+   "chinese": null
+  },
+  {
+   "ref": "XVIII.7",
+   "chinese": true
+  },
+  {
+   "ref": "XIX.1",
+   "chinese": true
+  }
+ ],
+ "zhi": [
+  {
+   "ref": "II.11",
+   "chinese": true
+  },
+  {
+   "ref": "II.17",
+   "chinese": true
+  },
+  {
+   "ref": "III.9",
+   "chinese": false
+  },
+  {
+   "ref": "IV.1",
+   "chinese": true
+  },
+  {
+   "ref": "IV.2",
+   "chinese": true
+  },
+  {
+   "ref": "V.17",
+   "chinese": true
+  },
+  {
+   "ref": "V.20",
+   "chinese": true
+  },
+  {
+   "ref": "VI.20",
+   "chinese": true
+  },
+  {
+   "ref": "VI.21",
+   "chinese": null
+  },
+  {
+   "ref": "VII.2",
+   "chinese": false
+  },
+  {
+   "ref": "VII.3",
+   "chinese": false
+  },
+  {
+   "ref": "VII.8",
+   "chinese": false
+  },
+  {
+   "ref": "VII.18",
+   "chinese": true
+  },
+  {
+   "ref": "VII.19",
+   "chinese": true
+  },
+  {
+   "ref": "VII.27",
+   "chinese": null
+  },
+  {
+   "ref": "IX.7",
+   "chinese": true
+  },
+  {
+   "ref": "IX.28",
+   "chinese": null
+  },
+  {
+   "ref": "XII.22",
+   "chinese": null
+  },
+  {
+   "ref": "XIII.4",
+   "chinese": false
+  },
+  {
+   "ref": "XIV.13",
+   "chinese": true
+  },
+  {
+   "ref": "XIV.30",
+   "chinese": true
+  },
+  {
+   "ref": "XV.7",
+   "chinese": true
+  },
+  {
+   "ref": "XV.32",
+   "chinese": null
+  },
+  {
+   "ref": "XVI.9",
+   "chinese": true
+  },
+  {
+   "ref": "XVII.1",
+   "chinese": true
+  },
+  {
+   "ref": "XVII.3",
+   "chinese": true
+  },
+  {
+   "ref": "XVII.24",
+   "chinese": null
+  },
+  {
+   "ref": "XIX.25",
+   "chinese": null
+  }
+ ],
+ "shu": [
+  {
+   "ref": "XII.2",
+   "chinese": false
+  },
+  {
+   "ref": "XV.23",
+   "chinese": null
+  }
+ ],
+ "zhengming": [
+  {
+   "ref": "XIII.3",
+   "chinese": true
+  },
+  {
+   "ref": "XVII.9",
+   "chinese": true
+  }
+ ]
+}

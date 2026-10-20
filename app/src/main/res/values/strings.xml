@@ -1,9 +1,14 @@
 <resources>
     <string name="app_name">Confucius</string>
-
-<!--    prod app id banner i interstitial-->
-<!--    ca-app-pub-6421202375542331~7803607355-->
-<!--    ca-app-pub-6421202375542331/6985349709-->
-<!--    ca-app-pub-6421202375542331/7162188530-->
-
+    <string name="arcadia_widget_description">The chapter of the day from the Analects of Confucius, in James Legge\'s translation.</string>
+    <!--
+      Google TEST ids (emulator only, through the temporary debug resource, never here):
+      <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+      <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+      <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+    -->
+    <!-- PROD for arcadia.com.confucius -->
+    <string name="admob_app_id">ca-app-pub-6421202375542331~7803607355</string>
+    <string name="admob_banner_id">ca-app-pub-6421202375542331/6985349709</string>
+    <string name="admob_interstitial_id">ca-app-pub-6421202375542331/7162188530</string>
 </resources>

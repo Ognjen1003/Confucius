@@ -1,0 +1,13 @@
+<resources>
+    <style name="Theme.Confucius" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:colorAccent">#E25A41</item>
+        <item name="android:windowBackground">#121013</item>
+        <item name="android:navigationBarColor">#121013</item>
+        <item name="android:statusBarColor">#121013</item>
+        <!-- The system splash is white unless told otherwise. -->
+        <item name="android:windowSplashScreenBackground">#121013</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">#121013</item>
+    </style>
+</resources>

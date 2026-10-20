@@ -1,0 +1,119 @@
+{
+ "version": 1,
+ "articles": [
+  {
+   "id": "who_wrote_the_analects",
+   "title": "Who wrote the Analects",
+   "kicker": "The book",
+   "paragraphs": [
+    "Confucius did not write the Analects. He wrote no book that survives, and the Analects do not claim he did. They are a collection of sayings and short scenes, written down by his disciples and by their own students, over a period that most scholars place in the generations after his death in 479 BCE.",
+    "That is why the text says, again and again, \"The Master said\". The voice is someone else's, remembering. In Chinese the book is called Lunyu, usually explained as \"sayings arranged\" or \"discussed sayings\": words that were gathered and put in order.",
+    "The book shows its own making. Some sayings appear twice, almost word for word (I.11 and IV.20, IX.17 and XV.13). Two disciples, Zeng Shen and You Ruo, are called by the title \"Master\", zi, which many scholars read as a sign that their students had a hand in the collection. Book X describes how Confucius dressed, ate and walked rather than what he said. Books XVI to XX use different forms, lists of three and \"Confucius said\" instead of \"the Master said\", and are often thought to be later layers.",
+    "The man himself was Kong Qiu, of the small state of Lu in what is now Shandong, born around 551 BCE. He served briefly in office, spent years travelling between states in search of a ruler who would employ him, and taught students from many backgrounds. \"Confucius\" is a Latin form of Kong Fuzi, \"Master Kong\", made by Jesuit missionaries in the sixteenth and seventeenth centuries.",
+    "The text we read goes back to editions of the Han dynasty, which brought together earlier versions that differed in places. Legge translated the standard text with the commentaries of Zhu Xi, the twelfth-century scholar, at his side.",
+    "So this app writes what the text writes: \"The Master said\". When a comment explains what Confucius meant, it is a reading of a remembered saying, not a report of his thoughts."
+   ]
+  },
+  {
+   "id": "one_word_many_translations",
+   "title": "One word, many translations",
+   "kicker": "Reading Legge",
+   "paragraphs": [
+    "James Legge translated the Analects into the English of the 1860s, and his choices were careful. But one Chinese word often became several English ones in his hands, and two different Chinese words sometimes became one.",
+    "Take 仁, ren. Legge writes \"perfect virtue\", \"virtue\", \"virtuous\", \"benevolence\", \"the virtues proper to humanity\". A reader of the English could think these are different ideas. In Chinese they are one character, the one the Analects return to more than any other.",
+    "Or take 君子, junzi. Mostly Legge writes \"the superior man\". But in the very first chapter it is \"a man of complete virtue\"; in I.8 \"the scholar\"; in II.12 \"the accomplished scholar\"; in III.7 he gives up and keeps the Chinese, \"Chun-tsze\". The idea is the same in all five places.",
+    "The opposite also happens. Legge uses \"virtue\" for ren and also for 德, de, the moral power of a person or ruler. In English the two merge; in Chinese they are distinct, and the Analects treat them differently.",
+    "This is no fault peculiar to Legge. Every translator faces it, and later ones chose \"humaneness\", \"goodness\", \"benevolence\", \"authoritative conduct\" for ren, and \"gentleman\", \"exemplary person\" for junzi. Each English word catches part of the Chinese and adds something of its own.",
+    "So the app shows the character and its pinyin beside Legge's word, for twelve key terms. The character and pinyin are ours, taken from a dictionary, since the scan of Legge's Chinese text is incomplete. Legge's English stays exactly as he wrote it."
+   ]
+  },
+  {
+   "id": "legge",
+   "title": "James Legge",
+   "kicker": "The translator",
+   "paragraphs": [
+    "James Legge (1815-1897) was a Scottish Congregationalist minister who went east with the London Missionary Society in 1839. He worked first in Malacca and then for some thirty years in Hong Kong, where he ran a school, preached, and began translating the Chinese classics.",
+    "His aim, at first, was partly missionary: he believed a missionary should understand the books that shaped the people he spoke to. The work outgrew the aim. The first volume of The Chinese Classics, with the Analects, the Great Learning and the Doctrine of the Mean, appeared in 1861, with the Chinese text, his translation and long notes. Later volumes covered the Mencius, the Book of Documents, the Odes and the Spring and Autumn Annals.",
+    "He worked with Chinese scholars, above all Wang Tao, who helped him with the commentaries. In 1876 he became the first professor of Chinese at Oxford, and he translated the Book of Changes and other works for the series Sacred Books of the East. The text in this app comes from his revised edition of 1893.",
+    "Legge's translation is careful, literal where it can be, and sometimes stiff. It is also respectful: he did not hide his disagreements with Confucius, but he gave him the most exact English he could. The Christian vocabulary he sometimes reached for, \"righteousness\", \"piety\", \"God\" in XX.1, is part of his world, and the app leaves it as he wrote it.",
+    "His English is now in the public domain everywhere, which is why it can be read here in full."
+   ]
+  },
+  {
+   "id": "names_in_legge",
+   "title": "Names in Legge",
+   "kicker": "Reading Legge",
+   "paragraphs": [
+    "Legge wrote Chinese names in a romanization of his own time, before the systems most readers know today. So the disciple called Zilu in modern pinyin is \"Tsze-lu\" in Legge, Zigong is \"Tsze-kung\", Zeng Shen is \"Tsang\", and Yan Hui is \"Hui\" or \"Yen Yuan\".",
+    "This app keeps Legge's text exactly as he printed it, names and all. The cards for people in Lore give the modern pinyin beside Legge's spelling, so the two can be matched.",
+    "A few things make the names harder. Disciples are called by different names in different chapters: a personal name, a courtesy name, a title. Zilu is \"Tsze-lu\", \"Yu\" when the Master addresses him, and \"Chung Yu\" or \"Chi Lu\" in other places. And the same spelling can belong to two people: Legge's \"Yu\" is Zilu's personal name, and \"the philosopher Yu\" is a different disciple, You Ruo, called Youzi.",
+    "Pinyin, the system used now, was adopted in the People's Republic of China in 1958 and became the international standard later. Legge's spellings are not wrong; they belong to another century, like his English."
+   ]
+  },
+  {
+   "id": "hard_passages",
+   "title": "Hard passages",
+   "kicker": "How this app reads",
+   "paragraphs": [
+    "Some chapters of the Analects are hard for a reader today. XVII.25 says that girls and servants are the most difficult people to deal with. XIII.18 places covering for one's father above testifying to his theft. VIII.9 can be read as saying the people may be made to follow but not to understand. XIII.4 calls a disciple small for wanting to learn farming.",
+    "These chapters stay in the daily cycle, in their place, and they are not rewritten. A book read a chapter a day for well over a year should be read whole, not in a selection that makes it agree with us.",
+    "The comment on each of them does one thing: it says what the chapter says and in what society it was said. Confucius lived in a world of hereditary rank, where women and servants were placed below the head of a household and a son below his father. The Analects speak from inside that world. Saying so is not a defence and not an accusation.",
+    "Where scholars read a hard chapter in more than one way, the comment mentions it, but it does not reach for the gentlest reading to make the problem disappear.",
+    "The questions under these chapters ask what the text shows, not what you should do. No chapter here is offered as advice about your own family or household."
+   ]
+  },
+  {
+   "id": "the_way_of_two_masters",
+   "title": "The Way of two masters",
+   "kicker": "Confucius and Laozi",
+   "paragraphs": [
+    "Both the Analects and the Tao Te Ching speak of dao, the Way. For the Analects it is mostly a human way: the right conduct handed down from the sage kings, kept alive in ritual and in people who practise it. \"People can enlarge the Way; the Way does not enlarge people\" (XV.28).",
+    "The Tao Te Ching's dao is older than Heaven and earth, nameless, and closer to the way things themselves happen. Where the Analects ask for learning, ritual and effort, the Tao Te Ching often asks for fewer words, less striving and a return to simplicity.",
+    "The two books touch more than once. XV.4 praises the sage king Shun for governing by wuwei, doing nothing, the word at the centre of the Tao Te Ching, though here it means ruling by virtue rather than by force. In XIV.36 someone asks about repaying injury with kindness, a teaching found in the Tao Te Ching, chapter 63, and Confucius answers: repay injury with justice, kindness with kindness. The hermits of Book XVIII, who tell him to give up the world, sound like the Tao Te Ching's sages, and he answers that he cannot live among birds and beasts.",
+    "Later stories have Confucius visit Laozi and come away amazed. They are told in the Zhuangzi and in the Records of the Grand Historian, and they are legends, not history. What can be said is that the two books became two great answers to the same question, how to live in a disordered age, and that Chinese readers have read both for two thousand years."
+   ]
+  },
+  {
+   "id": "examining_oneself",
+   "title": "Three questions a day",
+   "kicker": "I.4 and the evening review",
+   "paragraphs": [
+    "In I.4, Master Zeng says he examines himself each day on three points: whether in working for others he was not faithful, whether with friends he was not trustworthy, and whether he failed to practise what he was taught.",
+    "The questions are concrete. They are about conduct, not mood, and each names a relation: the people one works for, friends, a teacher. They can be answered in a sentence each, which is perhaps why they have been repeated for so long.",
+    "Other traditions keep a similar practice. The Roman Stoic Seneca describes an evening review in which he went over his day and asked what fault he had cured, what temptation he had resisted, in what way he was better. He learned it, he says, from the philosopher Sextius.",
+    "The two are not the same. Zeng's questions face outward, toward what one owes others; Seneca's review is more about one's own passions and judgements. But both are short, daily and honest, and both are kept without an audience.",
+    "In this app the journal is the place for such questions. It is private, kept only on your device, and nothing in it is counted or shared."
+   ]
+  },
+  {
+   "id": "the_attributed_wings",
+   "title": "Confucius and the Changes",
+   "kicker": "A tradition, and what the text says",
+   "paragraphs": [
+    "Chinese tradition holds that Confucius wrote the Ten Wings, the commentaries attached to the Book of Changes, the Yijing. The historian Sima Qian, writing about four centuries after Confucius, says he loved the Changes in his old age and wore through the leather straps of his copy three times.",
+    "Most modern scholars think the Ten Wings were written later, by several hands, between the late Warring States period and the Han dynasty. The attribution to Confucius is a tradition about the book, not a fact the Analects themselves support.",
+    "What the Analects do say is brief. In VII.16 the Master says that with more years he would study the Yi and might be without great faults. Even that is uncertain: one old version of the text reads a different character there, and then the sentence says nothing about the Changes at all. In XIII.22 he quotes a line, \"inconstant in his virtue, he will be visited with disgrace\", which stands in the Changes under hexagram 32, without naming its source.",
+    "So the Analects show Confucius as someone who knew the Changes and valued them, as a book of conduct rather than of prediction. The rest belongs to the later tradition, which made him the author of much that he never claimed."
+   ]
+  },
+  {
+   "id": "the_four_books",
+   "title": "The Four Books",
+   "kicker": "The Great Learning and the Doctrine of the Mean",
+   "paragraphs": [
+    "In the twelfth century the scholar Zhu Xi grouped four short works as the core of Confucian learning: the Analects, the Mencius, the Great Learning and the Doctrine of the Mean. From 1313 until 1905 they, with his commentary, formed the basis of the imperial examinations in China.",
+    "The Great Learning and the Doctrine of the Mean were originally chapters of the Book of Rites. The Great Learning sets out a chain from investigating things and extending knowledge, through making thoughts sincere and setting the heart right, to ordering the family, governing the state and bringing peace to the world. Tradition linked it to Master Zeng.",
+    "The Doctrine of the Mean, Zhongyong, is named after a phrase in Analects VI.27: the virtue of the constant mean. It speaks of balance and harmony, of the junzi watchful over himself when alone, and of sincerity as the way of Heaven. Tradition attributes it to Zisi, the grandson of Confucius.",
+    "Both are in Lore, in Legge's translation from the same 1893 volume, without his notes. The Mencius, the fourth book, is not in this app."
+   ]
+  },
+  {
+   "id": "no_streaks_here",
+   "title": "No streaks here",
+   "kicker": "How this app counts",
+   "paragraphs": [
+    "The app counts the days you marked as done, and that number only grows. A missed day is simply a day; the next chapter is waiting, and nothing is lost."
+   ]
+  }
+ ]
+}

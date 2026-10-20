@@ -1,0 +1,150 @@
+{
+ "id": "twelve_words",
+ "title": "Twelve words",
+ "units": [
+  {
+   "id": "ren", "title": "Ren, humaneness", "summary": "The word the Analects return to most, and grant to almost no one.",
+   "steps": [
+    {"id": "ren_1", "kind": "TERM", "title": "仁 ren", "text": "The character joins \"person\" and \"two\": what passes between one person and another. Legge renders it \"perfect virtue\", \"benevolence\", \"the virtuous\". In the Analects it is the whole of being a good person, and Confucius hardly ever says that anyone has it."},
+    {"id": "ren_2", "kind": "CHAPTER", "title": "Love people", "chapter": "XII.22", "text": "Fan Chi gets the plainest answer the book gives: ren is to love people. Read it slowly, and notice that the next answer, about knowledge, is to know people."},
+    {"id": "ren_3", "kind": "CHAPTER_2", "title": "Overcome the self", "chapter": "XII.1", "text": "To Yan Hui, the best of the disciples, the answer is different: overcome yourself and return to ritual. The same word, given to another person, becomes a discipline rather than a feeling."},
+    {"id": "ren_4", "kind": "QUESTION", "title": "Near or far", "text": "In VII.29 Confucius says ren is as near as the wish for it; elsewhere he says he has never seen anyone who had it. Can both be true? Where, in your own experience, is goodness both near and rare?"},
+    {"id": "ren_5", "kind": "EXERCISE", "title": "One person, fully", "text": "Today, choose one ordinary exchange, a shop, a call, a colleague, and give that person your whole attention for its length. Notice what changes, without deciding whether you did it well."},
+    {"id": "ren_6", "kind": "TENSION", "title": "Ren and li", "chapter": "III.3", "text": "Without ren, what is ritual? The Analects need both: form without feeling is empty, feeling without form drifts. This chapter puts ren first."},
+    {"id": "ren_7", "kind": "TRANSLATION", "title": "\"Perfect virtue\"", "text": "Legge's \"perfect virtue\" makes ren sound like a summit. Later translators chose \"humaneness\", \"goodness\", \"authoritative conduct\". None is wrong, and none is the word. That is why the app shows 仁 beside each of them."}
+   ]
+  },
+  {
+   "id": "li", "title": "Li, ritual", "summary": "The forms of respect, from sacrifice to an ordinary greeting.",
+   "steps": [
+    {"id": "li_1", "kind": "TERM", "title": "禮 li", "text": "The character carries the sign for an altar. Li began as the forms of sacrifice and grew to include every rule of conduct between people: mourning, courtesy, how to enter a gate. Legge writes \"propriety\" and \"the rules of propriety\"."},
+    {"id": "li_2", "kind": "CHAPTER", "title": "The root of ritual", "chapter": "III.4", "text": "Asked what is fundamental, Confucius chooses the inner over the outward: frugality over display, grief over perfect form."},
+    {"id": "li_3", "kind": "CHAPTER_2", "title": "More than jade and silk", "chapter": "XVII.11", "text": "Here the same point is made against those who think ritual is its gifts and instruments. The form points to something it is not."},
+    {"id": "li_4", "kind": "QUESTION", "title": "Your forms", "text": "Which small forms do you keep without thinking, a greeting, a way of setting the table, how you end a call? Which of them still carry respect, and which have gone empty?"},
+    {"id": "li_5", "kind": "EXERCISE", "title": "One form, filled", "text": "Choose one courtesy you perform every day, a thank you, a goodbye, and today do it as if it mattered to you. Only notice what that is like."},
+    {"id": "li_6", "kind": "TENSION", "title": "Virtues need a form", "chapter": "VIII.2", "text": "Respect, caution, courage and frankness, without li, become fussiness, timidity, disorder and rudeness. Here li is not the opposite of feeling but its shape."},
+    {"id": "li_7", "kind": "TRANSLATION", "title": "\"Propriety\"", "text": "In Victorian English \"propriety\" suggested what is socially correct, even prim. Li is wider and older: it is also sacrifice, music and the order of a state. Many translators now prefer \"ritual\" or \"rites\", and each English word loses part of it."}
+   ]
+  },
+  {
+   "id": "yi", "title": "Yi, what is right", "summary": "The fitting thing to do, set against what profits.",
+   "steps": [
+    {"id": "yi_1", "kind": "TERM", "title": "義 yi", "text": "What is right or fitting in a given case. The Analects often place it against li 利, profit, a different character with the same sound. Legge writes \"righteousness\" and \"what is right\"."},
+    {"id": "yi_2", "kind": "CHAPTER", "title": "Right and profit", "chapter": "IV.16", "text": "The junzi understands what is right; the small man what pays. The chapter is about what a mind turns to first."},
+    {"id": "yi_3", "kind": "CHAPTER_2", "title": "Seeing and not doing", "chapter": "II.24", "text": "Here yi is not a thought but an act: to see what is right and not do it is a lack of courage."},
+    {"id": "yi_4", "kind": "QUESTION", "title": "Before you take", "text": "XIV.13 describes someone who, seeing gain, thinks of what is right. Think of the last thing you took, bought or accepted. Was there a moment when that question could have been asked?"},
+    {"id": "yi_5", "kind": "EXERCISE", "title": "One pause", "text": "Once today, before a choice that benefits you, pause long enough to ask whether it is right as well as useful. You do not have to change the choice; just ask."},
+    {"id": "yi_6", "kind": "TENSION", "title": "Yi and courage", "chapter": "XVII.23", "text": "Courage without yi makes a rebel or a robber. Yi decides what courage is for."},
+    {"id": "yi_7", "kind": "TRANSLATION", "title": "\"Righteousness\"", "text": "Legge's \"righteousness\" comes from the English Bible and carries its overtones of divine law. Yi is closer to the fitting act in a situation, judged by a person of good sense. The English word is grander than the Chinese."}
+   ]
+  },
+  {
+   "id": "zhi", "title": "Zhi, knowing", "summary": "Knowledge, and the wisdom to know its limits.",
+   "steps": [
+    {"id": "zhi_1", "kind": "TERM", "title": "知 zhi", "text": "The character means \"to know\" and also \"wisdom\"; a later form, 智, was used for the second sense. Legge writes \"knowledge\", \"wise\", \"wisdom\"."},
+    {"id": "zhi_2", "kind": "CHAPTER", "title": "Knowing what you know", "chapter": "II.17", "text": "The most quoted definition: to know what you know and to know what you do not know. Said to the most confident of the disciples."},
+    {"id": "zhi_3", "kind": "CHAPTER_2", "title": "Knowing people", "chapter": "XII.22", "text": "To Fan Chi, knowledge is to know people. Wisdom here is not about facts but about judging others rightly."},
+    {"id": "zhi_4", "kind": "QUESTION", "title": "The edge", "text": "Where does your knowledge end in your own work? Is there something you speak about with more confidence than you have?"},
+    {"id": "zhi_5", "kind": "EXERCISE", "title": "Say \"I do not know\"", "text": "Once today, when you are unsure, say so plainly, without apology and without a guess dressed as a fact."},
+    {"id": "zhi_6", "kind": "TENSION", "title": "Zhi and ren", "chapter": "VI.21", "text": "The wise love water, the humane love mountains; the wise are active, the humane still. Two temperaments, set side by side, neither ranked above the other here."},
+    {"id": "zhi_7", "kind": "TRANSLATION", "title": "One character, two senses", "text": "English separates \"knowledge\" and \"wisdom\"; the Analects use one character for both. When Legge chooses between them, he decides something the text leaves joined."}
+   ]
+  },
+  {
+   "id": "xin", "title": "Xin, good faith", "summary": "Standing by one's word, and so being trusted.",
+   "steps": [
+    {"id": "xin_1", "kind": "TERM", "title": "信 xin", "text": "The character joins \"person\" and \"word\": a person standing by what they say. Legge uses \"sincerity\", \"faithfulness\", \"truthfulness\", \"confidence\" and \"good faith\" for it, five English words for one Chinese one."},
+    {"id": "xin_2", "kind": "CHAPTER", "title": "The yoke pin", "chapter": "II.22", "text": "Without good faith, a person is like a cart without the small pin that holds the yoke. Nothing moves."},
+    {"id": "xin_3", "kind": "CHAPTER_2", "title": "Food, arms, trust", "chapter": "XII.7", "text": "Here xin is the people's trust in their rulers, and Confucius puts it above food and arms. The same word, at the scale of a state."},
+    {"id": "xin_4", "kind": "QUESTION", "title": "Your word", "text": "What have you said you would do, this month, that you have not done? What would it take to do it, or to say honestly that you will not?"},
+    {"id": "xin_5", "kind": "EXERCISE", "title": "One small promise", "text": "Make one small promise today that you can certainly keep, and keep it. Notice how it feels to have said and done the same thing."},
+    {"id": "xin_6", "kind": "TENSION", "title": "Xin and yi", "chapter": "I.13", "text": "A promise can be kept when it is close to what is right. Good faith is not keeping every word at any cost; XV.36 adds that the junzi is not bound to small promises that are wrong."},
+    {"id": "xin_7", "kind": "TRANSLATION", "title": "\"Sincerity\"", "text": "\"Sincerity\" in modern English is about inner feeling. Xin is about the match between word and deed, visible to others. The English turns inward a word the Chinese turns outward."}
+   ]
+  },
+  {
+   "id": "xiao", "title": "Xiao, filial piety", "summary": "Care and respect owed to parents, read as the text gives it.",
+   "steps": [
+    {"id": "xiao_1", "kind": "TERM", "title": "孝 xiao", "text": "The character shows an old person above a child. In the Analects it is the care, respect and remembrance owed to parents, and the root from which other goodness was thought to grow. This unit reads what the text says; it gives no advice on anyone's family."},
+    {"id": "xiao_2", "kind": "CHAPTER", "title": "More than feeding", "chapter": "II.7", "text": "Supporting parents is not yet xiao; even horses are fed. What distinguishes it is respect."},
+    {"id": "xiao_3", "kind": "CHAPTER_2", "title": "Remonstrating gently", "chapter": "IV.18", "text": "Here xiao includes disagreement: a child may object, gently, and keep respect. The text describes a household where the parent's place was above the child's, and it asks for persistence and courtesy together."},
+    {"id": "xiao_4", "kind": "QUESTION", "title": "Support and respect", "text": "II.7 separates looking after someone from respecting them. In any relation of care you know, as giver or receiver, where do the two part ways?"},
+    {"id": "xiao_5", "kind": "EXERCISE", "title": "Care received", "text": "Notice one act of care you received today, from anyone, and who gave it. Only notice; nothing needs to follow."},
+    {"id": "xiao_6", "kind": "TENSION", "title": "Family and justice", "chapter": "XIII.18", "text": "The hardest chapter for xiao: a father steals a sheep, and Confucius says uprightness lies in father and son covering for each other. The text puts family above public testimony. It is here because it is in the book, not because the app recommends it."},
+    {"id": "xiao_7", "kind": "TRANSLATION", "title": "\"Filial piety\"", "text": "\"Piety\" comes from the Latin pietas, duty to gods, country and parents, which is close to what Legge meant. Today the English word sounds religious and stiff. Xiao was both a feeling and a social order, and the translation keeps more of the order than of the feeling."}
+   ]
+  },
+  {
+   "id": "junzi", "title": "Junzi, the person of worth", "summary": "Once a ruler's son; in the Analects, a matter of conduct.",
+   "steps": [
+    {"id": "junzi_1", "kind": "TERM", "title": "君子 junzi", "text": "Literally \"a ruler's son\", a nobleman. The Analects make it a moral standing anyone might reach, set against the xiaoren, the small man. Legge mostly writes \"the superior man\"."},
+    {"id": "junzi_2", "kind": "CHAPTER", "title": "Cultivate yourself", "chapter": "XIV.45", "text": "Zilu asks three times, and each answer widens: cultivate yourself with respect, then to bring peace to others, then to all the people. Each begins with the self."},
+    {"id": "junzi_3", "kind": "CHAPTER_2", "title": "A man of complete virtue", "chapter": "I.1", "text": "The book's first chapter ends with the junzi, and here Legge does not write \"superior man\" at all but \"a man of complete virtue\". The word appears from the first page, in a different English dress."},
+    {"id": "junzi_4", "kind": "QUESTION", "title": "In yourself", "text": "XV.20: the junzi seeks in himself, the small man in others. When something went wrong recently, where did you look first?"},
+    {"id": "junzi_5", "kind": "EXERCISE", "title": "Look inward first", "text": "The next time today that someone else is at fault, ask first what part, however small, was yours. Do not judge the answer."},
+    {"id": "junzi_6", "kind": "TENSION", "title": "Not a vessel", "chapter": "II.12", "text": "The junzi is not a tool for one purpose. Yet in V.3 Confucius calls Zigong a fine vessel. Between the two chapters is the question of whether a person is their function."},
+    {"id": "junzi_7", "kind": "TRANSLATION", "title": "\"Superior man\"", "text": "Legge's \"superior man\" sounds today like a claim to be above others, the opposite of the humility the Analects ask of the junzi. He also writes \"scholar\", \"accomplished scholar\" and once keeps the Chinese, \"Chun-tsze\". Translators now try \"gentleman\", \"exemplary person\", \"person of worth\"."}
+   ]
+  },
+  {
+   "id": "xue", "title": "Xue, learning", "summary": "Study that becomes practice, and the pleasure of it.",
+   "steps": [
+    {"id": "xue_1", "kind": "TERM", "title": "學 xue", "text": "To learn, to study, and also to imitate a model. Confucius names a love of learning as the one quality he is sure he has (V.27). Legge writes \"learning\", \"to learn\", \"study\"."},
+    {"id": "xue_2", "kind": "CHAPTER", "title": "Is it not a pleasure?", "chapter": "I.1", "text": "The book opens with learning, and with practice over time: the pleasure is in returning to it."},
+    {"id": "xue_3", "kind": "CHAPTER_2", "title": "Learning and thought", "chapter": "II.15", "text": "Learning without thought is wasted; thought without learning is dangerous. Xue is half of a pair."},
+    {"id": "xue_4", "kind": "QUESTION", "title": "For whom", "text": "XIV.25 says the ancients learned for themselves, the moderns to be seen. What are you learning now, and for whom?"},
+    {"id": "xue_5", "kind": "EXERCISE", "title": "One basket", "text": "Spend ten minutes today on something you once started to learn and stopped. One basket of earth, as IX.18 says."},
+    {"id": "xue_6", "kind": "TENSION", "title": "Learning without books", "chapter": "I.7", "text": "Zixia says a person who lives well has learned, even if they never studied. Learning is judged by life, and so it can happen outside books."},
+    {"id": "xue_7", "kind": "TRANSLATION", "title": "\"Learning\"", "text": "English \"learning\" suggests a store of knowledge. In I.1 xue comes with xi 習, practice, the image of a young bird trying its wings. The Chinese is closer to training than to information."}
+   ]
+  },
+  {
+   "id": "shu", "title": "Shu, reciprocity", "summary": "The one word for a whole life: measure others by yourself.",
+   "steps": [
+    {"id": "shu_1", "kind": "TERM", "title": "恕 shu", "text": "The character joins \"like\" and \"heart\": having a heart like the other's. Confucius offers it as the single word to practise all one's life. Legge writes \"reciprocity\"; in IV.15 he renders it at length, as \"the benevolent exercise of them to others\"."},
+    {"id": "shu_2", "kind": "CHAPTER", "title": "One word", "chapter": "XV.23", "text": "Is it not shu? What you do not want for yourself, do not do to others. The rule in its negative form."},
+    {"id": "shu_3", "kind": "CHAPTER_2", "title": "The one thread", "chapter": "IV.15", "text": "Master Zeng names the one thread of the Master's Way: zhong and shu. Shu here is paired with doing one's utmost."},
+    {"id": "shu_4", "kind": "QUESTION", "title": "The negative form", "text": "The Analects give the rule as what not to do, rather than what to do. Is it easier to know what you would not want done to you than what you would want? Why might that matter?"},
+    {"id": "shu_5", "kind": "EXERCISE", "title": "Ask yourself first", "text": "Before you ask something of anyone today, ask yourself whether you would accept the same request in the same tone."},
+    {"id": "shu_6", "kind": "TENSION", "title": "Not yet within reach", "chapter": "V.11", "text": "Zigong states the rule perfectly and is told he has not reached it. The idea is here without the word, and the chapter is about the gap between saying and living."},
+    {"id": "shu_7", "kind": "TRANSLATION", "title": "\"Reciprocity\"", "text": "\"Reciprocity\" suggests an exchange: I do for you, you do for me. Shu asks nothing in return. It is an act of imagination, putting oneself in another's place, and the English word adds a bargain the Chinese does not contain."}
+   ]
+  },
+  {
+   "id": "zhong", "title": "Zhong, doing one's utmost", "summary": "Giving one's whole effort to another, in service and in counsel.",
+   "steps": [
+    {"id": "zhong_1", "kind": "TERM", "title": "忠 zhong", "text": "The character puts \"centre\" above \"heart\". It means doing one's utmost for another, being true to them. Legge writes \"faithfulness\", \"loyal\", and in IV.15 \"true to the principles of our nature\"."},
+    {"id": "zhong_2", "kind": "CHAPTER", "title": "Three questions", "chapter": "I.4", "text": "Master Zeng's first question each evening: in working for others, was I not zhong? The word begins as a question about effort on someone else's behalf."},
+    {"id": "zhong_3", "kind": "CHAPTER_2", "title": "Ruler and minister", "chapter": "III.19", "text": "Here zhong is the minister's part in a relation where the ruler owes ritual in return. The duty runs both ways."},
+    {"id": "zhong_4", "kind": "QUESTION", "title": "Whose work", "text": "For whom are you working today? Do you give their work the effort you give your own?"},
+    {"id": "zhong_5", "kind": "EXERCISE", "title": "Zeng's first question", "text": "Tonight ask the first of Master Zeng's three questions: in what I did for others today, did I do my utmost? Answer in one sentence."},
+    {"id": "zhong_6", "kind": "TENSION", "title": "Loyalty that instructs", "chapter": "XIV.8", "text": "Can there be zhong that does not instruct its object? Loyalty here includes telling the truth, as XIV.23 says: do not deceive, and stand up to him."},
+    {"id": "zhong_7", "kind": "TRANSLATION", "title": "\"Loyalty\"", "text": "In later imperial China zhong came to mean obedience to the throne, and \"loyalty\" carries that sense in English. In the Analects it is closer to wholehearted effort and honest counsel, which may include disagreeing."}
+   ]
+  },
+  {
+   "id": "de", "title": "De, virtue as power", "summary": "The moral force that draws others without compulsion.",
+   "steps": [
+    {"id": "de_1", "kind": "TERM", "title": "德 de", "text": "Virtue in the old sense of a power: what a person has that moves others without force. It is the de of the Tao Te Ching's title too. Legge writes \"virtue\", the same word he often uses for ren."},
+    {"id": "de_2", "kind": "CHAPTER", "title": "The pole star", "chapter": "II.1", "text": "Governing by de is like the pole star: it stays in its place and the stars turn around it."},
+    {"id": "de_3", "kind": "CHAPTER_2", "title": "Virtue has neighbours", "chapter": "IV.25", "text": "De is never alone; it draws company. Here it is not a ruler's power but anyone's."},
+    {"id": "de_4", "kind": "QUESTION", "title": "Who draws you", "text": "Whose presence makes you behave better without their saying anything? What is it in them?"},
+    {"id": "de_5", "kind": "EXERCISE", "title": "Steadiness", "text": "In one tense moment today, try to stay steady rather than push. Notice whether others settle around you."},
+    {"id": "de_6", "kind": "TENSION", "title": "De and law", "chapter": "II.3", "text": "Led by laws and punishments, people avoid the punishment and feel no shame; led by de and ritual, they come to correct themselves. The Analects' account of how order is made."},
+    {"id": "de_7", "kind": "TRANSLATION", "title": "One English word, two Chinese", "text": "Legge uses \"virtue\" for both ren and de, so an English reader cannot tell them apart. Latin virtus also meant power and excellence, which is close to de; but the app shows the character so the two words do not merge."}
+   ]
+  },
+  {
+   "id": "zhengming", "title": "Zhengming, setting names right", "summary": "Making words match the things and roles they name.",
+   "steps": [
+    {"id": "zhengming_1", "kind": "TERM", "title": "正名 zhengming", "text": "Zheng is to correct, ming is a name. The phrase appears once in the Analects, but the idea runs through the book: when words no longer fit things, nothing else can be put right."},
+    {"id": "zhengming_2", "kind": "CHAPTER", "title": "The first thing", "chapter": "XIII.3", "text": "Asked what he would do first in government, Confucius says: set names right. Then he traces the chain from words to affairs, to ritual, to punishment, to the people who no longer know where to put hand or foot."},
+    {"id": "zhengming_3", "kind": "CHAPTER_2", "title": "Ruler ruler, father father", "chapter": "XII.11", "text": "This chapter states the idea without the word: let each role be what its name says. The connection is ours, and it is the one most readers make."},
+    {"id": "zhengming_4", "kind": "QUESTION", "title": "Words that drifted", "text": "Which word in your own life, at work or at home, no longer means what it names? \"Friend\", \"urgent\", \"done\"?"},
+    {"id": "zhengming_5", "kind": "EXERCISE", "title": "One word, set right", "text": "Today, when you notice yourself using a word loosely, say instead exactly what you mean, once."},
+    {"id": "zhengming_6", "kind": "TENSION", "title": "A gu that is not a gu", "chapter": "VI.23", "text": "A ritual cup named for its corners has lost its corners, and still carries the name. The thing has changed, and the name has not caught up."},
+    {"id": "zhengming_7", "kind": "TRANSLATION", "title": "\"Rectify names\"", "text": "Legge's \"rectify\" is a Latin word for making straight, close to zheng. Zheng also sounds like the word for government, and in XII.17 Confucius plays on it: to govern is to correct. That pun cannot be carried into English."}
+   ]
+  }
+ ]
+}

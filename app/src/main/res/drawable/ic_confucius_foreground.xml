@@ -1,0 +1,6 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- A vermilion seal over five bamboo slips bound by two cords: the Analects were first written on bamboo. -->
+    <path android:fillColor="#C8402F" android:pathData="M36,32h36a4,4 0,0 1,4 4v36a4,4 0,0 1,-4 4h-36a4,4 0,0 1,-4 -4v-36a4,4 0,0 1,4 -4z" />
+    <path android:fillColor="#EDE3CF" android:pathData="M39.0,38h4.4v32h-4.4zM45.4,38h4.4v32h-4.4zM51.8,38h4.4v32h-4.4zM58.2,38h4.4v32h-4.4zM64.6,38h4.4v32h-4.4z" />
+    <path android:fillColor="#C8402F" android:pathData="M37,45.2h34v1.6h-34zM37,61.2h34v1.6h-34z" />
+</vector>

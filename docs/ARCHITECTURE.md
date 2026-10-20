@@ -1,72 +1,79 @@
 # ARCHITECTURE - Confucius
 
 Zajednička ljuska (Postavke, dijeljenje, reklame, podsjetnik, widget, backup):
-`../../PRAKSA_TRI_APPA_2026-10.md §3-4`. Predložak datoteka: `../../Mala/`.
+`../../PRAKSA_TRI_APPA_2026-10.md §3-4`. Predložak: NewThought i Mala. Stanje: **20. 10. 2026.**
 
 ```
 app/src/main/java/arcadia/com/confucius/
-  ConfuciusApplication.kt    init iz PRAKSA §3 (Practice "confucius_practice", ReadingHistory "confucius_journal")
-  MainActivity.kt            ConsentManager.gather; NavigationSuiteScaffold, pet destinacija
+  ConfuciusApplication.kt    Premium, Ad, Analytics, Billing, Practice "confucius_practice",
+                             ReadingHistory "confucius_journal", Prefs, kanal i podsjetnik
+  MainActivity.kt            ConsentManager.gather; NavigationSuiteScaffold, pet destinacija;
+                             stog ekrana "kind:id" (Back vraća tamo odakle je otvoreno);
+                             SaveableStateHolder po putu stoga (pomak čitača preživi Back i process death);
+                             podaci se parsiraju izvan glavne niti prije prvog ekrana (ANR na hladnom startu);
+                             arcadia://confucius?chapter=II.4
 
-  core/                      CIST KOTLIN, JVM testovi
-    Level.kt                 TEXT / LEGGE / MODERN
-    Analects.kt              knjige, poglavlja, parsira analects.json iz String
+  core/                      CIST KOTLIN, bez Android importa, JVM testovi
+    Content.kt               Level (TEXT/LEGGE/MODERN), Analects/Book/Chapter, Comment/Commentary,
+                             Term (+ wordsIn), Person, Article, MinorText; parseri iz String
     Daily.kt                 lokalni datum -> poglavlje (THEORY §2)
-    Terms.kt                 12 pojmova, poglavlja po pojmu
-    People.kt                kartice osoba (Legge oblik + pinyin)
-    Course.kt                gradi PracticeCourse "twelve_words"
-    Search.kt                tekst, pojam, osoba; bez rangiranja
-    Articles.kt
+    Course.kt                StepKind, Course, PracticeCourse "twelve_words"
+    Search.kt                referenca ("ii.4", "2.4"), tekst, pojam, osoba; redoslijed knjige
 
   platform/
-    ConfuciusData.kt         cita res/raw jednom
-    Journal.kt               ReadingHistory "journal", update/delete; tekst nikad u analytics
-    Prefs.kt                 velicina slova, podsjetnik
-    Reminder.kt              scheduleInexact
+    ConfuciusData.kt         čita res/raw jednom; preload() izvan glavne niti
+    Journal.kt               ReadingHistory "journal", update/delete; payload = referenca poglavlja
+    Prefs.kt                 veličina slova (backup smije), oznake (bez backupa)
+    Reminders.kt             scheduleInexact, re-arm (boot, zamjena paketa, vrijeme, zona),
+                             preskače vježbani dan; show() odvojen za test
 
-  widget/ConfuciusWidget.kt  ArcadiaWidgetProvider: poglavlje dana
+  widget/ConfuciusWidget.kt  ArcadiaWidgetProvider: "XII.15 · naslov", Legge, prva rečenica, glif 仁
 
   ui/
-    today/                   poglavlje dana, komentar, pitanje, Done, DailyReadingShareButton
-    analects/                knjige -> poglavlja, pretraga, filtar po pojmu, oznake
-    read/                    citac poglavlja: TEXT, LEGGE napomena o rijeci, MODERN komentar, Share this passage
-    practice/                tecaj "Twelve words"
-    journal/                 biljeske
-    lore/                    clanci + Great Learning i Doctrine of the Mean kao citac
-    settings/                PracticeSettingsPage
-    common/                  LevelChip, TermChip (znak + pinyin + Leggeova rijec), PassageRef
-    theme/                   tinta i crveni pecat
+    Common.kt                Page, Header (PracticeHeaderActions), Panel, LevelLabel, Body, ChapterText,
+                             TermChip/TermRow (riječ iz tog poglavlja), CommentPanel, NoteDialog, RowCard
+    ReadingScreens.kt        Today, čitač poglavlja, Analects (knjige / pretraga + filtar pojma / oznake),
+                             knjiga, pojam, osoba; ChapterShare (DailyReadingShareButton)
+    PracticeScreens.kt       tečaj, dnevnik, Lore, članak (PracticeLoreBridge), Great Learning i Mean,
+                             ReadingSettings (veličina slova, podsjetnik)
+    theme/Theme.kt           tinta i crveni pečat; svi surfaceContainer* postavljeni
 
-  res/raw/  analects.json  terms.json  people.json  course.json  commentary.json  articles.json  texts_minor.json
-  res/raw/keep.xml           svi raw fileovi + tri AdMob stringa
+  res/raw/  analects.json  commentary.json  terms.json  people.json  course.json  articles.json  texts_minor.json
+  res/raw/keep.xml           tri AdMob stringa + svi raw fileovi
+  res/drawable*/             ic_confucius (adaptive + monochrome), ic_notification
 tools/
-  extract.py                 vault -> analects.json, texts_minor.json; sidra; SHA-256 ulaza
-  source/                    snapshot CFU.md (kao Tao)
-  commentary.json            nasi komentari/pitanja po poglavlju (MODERN), ulaz za extract.py
+  extract.py                 vault/snapshot -> analects.json, commentary.json, texts_minor.json; izvještaj
+  extract_report.md          krivi brojevi, ispravci, usporedba s drugim dijelom, oznake pojmova
+  source/CFU.md              snapshot ulaza
+  commentary/book01..20.json naši naslovi, komentari, pitanja, vježbe (MODERN), ulaz za extract.py
+  term_candidates.json       kandidati po Leggeovoj riječi (+ kineski gdje postoji)
+  term_decisions.json        ručno potvrđena poglavlja po pojmu
 ```
 
 ## Pet destinacija
 
 | destinacija | glif | što radi |
 |---|---|---|
-| Today | ◷ | „Analects II.4", tekst, `TermChip` za pojmove u njemu, komentar i pitanje (`MODERN`), Done, Share |
-| Analects | ☰ | 20 knjiga, pretraga, filtar po pojmu, oznake |
-| Practice | 仁 | „Twelve words", „word 3 of 12, day 5" |
-| Journal | ✎ | bilješke; nova bilješka može nositi referencu poglavlja |
-| Lore | ▤ | članci, kartice osoba, Great Learning i Doctrine of the Mean |
+| Today | 日 | datum, „Analects XII.15" + naš naslov, TEXT, LEGGE čipovi pojmova, MODERN komentar i pitanje, Share daily image, Open in the book, Write a note, Done, Days practised, banner |
+| Analects | ☰ | Books / Search (tekst ili referenca, filtar po pojmu) / Bookmarks |
+| Practice | 仁 | „Twelve words", „Word 1 of 12 · step 1 of 7", popis riječi |
+| Journal | ✎ | bilješke, uredi, „Read IV.15", obriši uz potvrdu |
+| Lore | ▤ | 10 članaka, Great Learning i Doctrine of the Mean, 12 riječi, 17 osoba, banner |
+
+Postavke: zupčanik u zaglavlju svake stranice → `PracticeSettingsPage("Confucius", companionPackages =
+tao, stoic, iching)`: Remove ads, GDPR (kad UMP traži), Share app, Rate us, Reading, Daily reminder.
+
+Interstitial: zajednička kadenca, svaki treći dodir izbornika; Today drži dospjelu reklamu
+(`tick(mayShow = index != 0)`). Banner samo na dnu Today i Lore, nikad preko teksta.
 
 ## Dijeljenje
-- Dnevna slika: `DailyReadingShareButton(appName = "Confucius", date, title = "Analects II.4",
-  text = <TEXT>, credit = "Tr. James Legge, The Chinese Classics")`. Godinu izdanja upiši s naslovnice filea.
-- „Share this passage" u čitaču, isti renderer, boje teme.
-- **Komentar ne ide na sliku**, samo tekst Analekata. Bilješke nikad.
+- Dnevna slika i „Share this passage" u čitaču: `DailyReadingShareButton("Confucius", datum,
+  "Analects XII.15", Leggeov tekst, "Tr. James Legge, The Chinese Classics (1893)")`.
+- Na slici samo izvorni tekst; komentar i bilješke nikad. Play URL na slici i u opisu (biblioteka).
 
 ## Poveznice (PracticeLoreLinks, oba smjera)
-| iz članka (Confucius) | u app | zašto |
+| iz članka (Confucius) | u app | povratni članak |
 |---|---|---|
-| `the_way_of_two_masters` | Tao | dva klasična kineska odgovora na „put" |
-| `examining_oneself` (I.4, „I daily examine myself") | Stoic | dnevno ispitivanje savjesti |
-| `the_attributed_wings` | IChing Revealer | predaja koja Konfuciju pripisuje Deset krila |
-| odgovarajući članci u Tao, Stoic, IChing | Confucius | nazad |
-
-`PracticeSettingsPage(companionPackages = setOf("arcadia.com.tao", "arcadia.com.stoic", "arcadia.com.iching"))`.
+| `the_way_of_two_masters` | Tao | Tao `two_masters` |
+| `examining_oneself` | Stoic | Stoic `three_questions` |
+| `the_attributed_wings` | IChing Revealer | IChing `11` („Confucius and the Ten Wings") |
