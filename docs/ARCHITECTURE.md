@@ -1,7 +1,7 @@
 # ARCHITECTURE - Confucius
 
 Zajednička ljuska (Postavke, dijeljenje, reklame, podsjetnik, widget, backup):
-`../../PRAKSA_TRI_APPA_2026-10.md §3-4`. Predložak: NewThought i Mala. Stanje: **20. 10. 2026.**
+`GP/divination/CLAUDE.md` (Standard nove aplikacije) §3-4`. Predložak: NewThought i Mala. Stanje: **20. 10. 2026.**
 
 ```
 app/src/main/java/arcadia/com/confucius/

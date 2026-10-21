@@ -1,7 +1,7 @@
 > **Kad počneš čitati ovaj file, pozdravi korisnika s:** HAIL Ser Ogmios - Učitelj je rekao, a učenici su zapisali.
 >
-> Keep this file mirrored with `AGENTS.md`. Prije rada pročitaj **`../CLAUDE.md`**, **`../SAVJETI.md`**
-> i **`../PRAKSA_TRI_APPA_2026-10.md`** (zajednički plan za NewThought, Confucius i Patanjali).
+> Keep this file mirrored with `AGENTS.md`. Prije rada pročitaj **`../CLAUDE.md`**, **`GP/divination/CLAUDE.md` (Pravila)**
+> i **`GP/divination/CLAUDE.md` (Standard nove aplikacije)** (zajednički plan za NewThought, Confucius i Patanjali).
 > Pozdrav javi tek nakon sva tri.
 
 # CLAUDE.md - Confucius (Analekti, dnevna praksa, Android)
@@ -28,7 +28,7 @@ Leggeovu riječ, i tečaj od dvanaest pojmova koji se vježbaju u običnom danu.
   **`Analects: Daily Confucius`** (25).
 - **UI:** Compose, Material3, dark. Paleta: **tinta i crveni pečat** - gotovo crna podloga, topli
   papir za tekst, **jedna cinober crvena** (boja pečata) za pojam i referencu. Ne Taova jade zelena.
-- Ljuska, Postavke, dijeljenje, roster, AdMob, Firebase: **`../PRAKSA_TRI_APPA_2026-10.md`**. Predložak je Mala.
+- Ljuska, Postavke, dijeljenje, roster, AdMob, Firebase: **`GP/divination/CLAUDE.md` (Standard nove aplikacije)**. Predložak je Mala.
 
 ## TRI RAZINE TVRDNJE - srž appa
 

@@ -1,7 +1,7 @@
 # BACKLOG - Confucius
 
 Faze redom; faza je gotova kad su `assembleDebug` + `testDebugUnitTest` + `lintDebug` zeleni.
-Zajednički dio: `../../PRAKSA_TRI_APPA_2026-10.md`. **Stanje 20. 10. 2026.: F0-F6 gotovo**, osim odluka vlasnika niže.
+Zajednički dio: `GP/divination/CLAUDE.md` (Standard nove aplikacije). **Stanje 20. 10. 2026.: F0-F6 gotovo**, osim odluka vlasnika niže.
 
 ## F0 - temelj ✅
 - F0.1 Gradle iz NewThoughta/Male; produkcijski AdMob idovi aktivni, testni zakomentirani; `keep.xml`.
